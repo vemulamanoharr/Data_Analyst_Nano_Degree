@@ -1,0 +1,1276 @@
+Trip ID,Duration,Start Date,Start Station,Start Terminal,End Date,End Station,End Terminal,Bike #,Subscription Type
+4965,129,8/29/2013 19:32,Mountain View Caltrain Station,28,8/29/2013 19:35,Mountain View Caltrain Station,28,140,Subscriber,94041
+4917,169,8/29/2013 18:45,Redwood City Medical Center,26,8/29/2013 18:48,Broadway at Main,25,229,Subscriber,94041
+4399,355,8/29/2013 12:39,Redwood City Caltrain Station,22,8/29/2013 12:45,Redwood City Medical Center,26,74,Subscriber,94041
+4665,972,8/29/2013 15:36,San Pedro Square,6,8/29/2013 15:52,San Pedro Square,6,146,Subscriber,94041
+5091,1061,8/29/2013 22:11,Mountain View City Hall,27,8/29/2013 22:29,Mountain View City Hall,27,56,Subscriber,94041
+6446,280,8/30/2013 21:40,Mountain View Caltrain Station,28,8/30/2013 21:45,Mountain View Caltrain Station,28,165,Subscriber,94041
+6212,385,8/30/2013 17:18,Redwood City Medical Center,26,8/30/2013 17:24,Redwood City Caltrain Station,22,249,Subscriber,94041
+5440,408,8/30/2013 11:53,Redwood City Caltrain Station,22,8/30/2013 11:59,Redwood City Medical Center,26,308,Subscriber,94041
+6452,727,8/30/2013 22:10,Mountain View City Hall,27,8/30/2013 22:22,Mountain View City Hall,27,149,Subscriber,94041
+5174,1435,8/30/2013 8:34,Mountain View Caltrain Station,28,8/30/2013 8:58,San Antonio Caltrain Station,29,130,Subscriber,94041
+7226,79,8/31/2013 16:39,Harry Bridges Plaza (Ferry Building),50,8/31/2013 16:40,Harry Bridges Plaza (Ferry Building),50,417,Subscriber,94041
+7014,680,8/31/2013 14:27,Evelyn Park and Ride,30,8/31/2013 14:38,Mountain View Caltrain Station,28,27,Subscriber,94041
+7049,1131,8/31/2013 14:49,Grant Avenue at Columbus Avenue,73,8/31/2013 15:08,Powell at Post (Union Square),71,487,Customer,94041
+7141,1625,8/31/2013 15:45,Mountain View City Hall,27,8/31/2013 16:12,Mountain View City Hall,27,141,Subscriber,94041
+7035,2731,8/31/2013 14:40,Evelyn Park and Ride,30,8/31/2013 15:26,Evelyn Park and Ride,30,155,Customer,94041
+7028,2888,8/31/2013 14:37,Evelyn Park and Ride,30,8/31/2013 15:25,Evelyn Park and Ride,30,137,Customer,94041
+8132,453,9/1/2013 15:41,Evelyn Park and Ride,30,9/1/2013 15:48,Evelyn Park and Ride,30,43,Customer,94041
+8145,1141,9/1/2013 15:51,Evelyn Park and Ride,30,9/1/2013 16:10,Mountain View Caltrain Station,28,27,Customer,94041
+8147,1236,9/1/2013 15:51,Evelyn Park and Ride,30,9/1/2013 16:12,Mountain View Caltrain Station,28,43,Customer,94041
+8288,1734,9/1/2013 17:19,Mountain View Caltrain Station,28,9/1/2013 17:48,Evelyn Park and Ride,30,123,Customer,94041
+8833,878,9/2/2013 12:47,San Francisco Caltrain (Townsend at 4th),70,9/2/2013 13:02,Harry Bridges Plaza (Ferry Building),50,402,Subscriber,94041
+8836,869,9/2/2013 12:47,San Francisco Caltrain (Townsend at 4th),70,9/2/2013 13:02,Harry Bridges Plaza (Ferry Building),50,522,Customer,94041
+9001,539,9/2/2013 14:39,Harry Bridges Plaza (Ferry Building),50,9/2/2013 14:48,Embarcadero at Vallejo,48,568,Subscriber,94041
+9003,510,9/2/2013 14:39,Harry Bridges Plaza (Ferry Building),50,9/2/2013 14:48,Embarcadero at Vallejo,48,522,Customer,94041
+9142,2656,9/2/2013 16:32,Mountain View Caltrain Station,28,9/2/2013 17:16,Rengstorff Avenue / California Street,33,43,Customer,94041
+9143,2649,9/2/2013 16:32,Mountain View Caltrain Station,28,9/2/2013 17:16,Rengstorff Avenue / California Street,33,27,Customer,94041
+9156,381,9/2/2013 16:51,Embarcadero at Vallejo,48,9/2/2013 16:57,Harry Bridges Plaza (Ferry Building),50,267,Subscriber,94041
+9157,387,9/2/2013 16:51,Embarcadero at Vallejo,48,9/2/2013 16:58,Harry Bridges Plaza (Ferry Building),50,522,Customer,94041
+9191,848,9/2/2013 17:32,Rengstorff Avenue / California Street,33,9/2/2013 17:46,Mountain View Caltrain Station,28,43,Customer,94041
+9192,765,9/2/2013 17:33,Rengstorff Avenue / California Street,33,9/2/2013 17:45,Mountain View Caltrain Station,28,27,Customer,94041
+9205,788,9/2/2013 17:52,Harry Bridges Plaza (Ferry Building),50,9/2/2013 18:06,San Francisco Caltrain (Townsend at 4th),70,267,Subscriber,94041
+9206,760,9/2/2013 17:53,Harry Bridges Plaza (Ferry Building),50,9/2/2013 18:06,San Francisco Caltrain (Townsend at 4th),70,522,Customer,94041
+9759,335,9/3/2013 13:36,San Jose City Hall,10,9/3/2013 13:42,Adobe on Almaden,5,646,Subscriber,94041
+9810,323,9/3/2013 14:11,Adobe on Almaden,5,9/3/2013 14:16,MLK Library,11,646,Subscriber,94041
+10303,289,9/4/2013 8:03,San Jose Diridon Caltrain Station,2,9/4/2013 8:08,San Pedro Square,6,180,Subscriber,94041
+10471,394,9/4/2013 10:54,Redwood City Caltrain Station,22,9/4/2013 11:00,Redwood City Medical Center,26,307,Subscriber,94041
+10478,1392,9/4/2013 11:02,Mountain View Caltrain Station,28,9/4/2013 11:25,Rengstorff Avenue / California Street,33,119,Customer,94041
+10479,1364,9/4/2013 11:02,Mountain View Caltrain Station,28,9/4/2013 11:25,Rengstorff Avenue / California Street,33,154,Customer,94041
+10669,534,9/4/2013 13:24,San Jose City Hall,10,9/4/2013 13:33,San Pedro Square,6,12,Subscriber,94041
+10681,692,9/4/2013 13:38,Santa Clara at Almaden,4,9/4/2013 13:49,MLK Library,11,82,Subscriber,94041
+10980,222,9/4/2013 17:32,Santa Clara at Almaden,4,9/4/2013 17:36,San Jose Diridon Caltrain Station,2,609,Subscriber,94041
+11222,267,9/5/2013 8:02,San Jose Diridon Caltrain Station,2,9/5/2013 8:06,San Pedro Square,6,237,Subscriber,94041
+11466,247,9/5/2013 12:40,San Jose City Hall,10,9/5/2013 12:44,St James Park,13,236,Subscriber,94041
+11473,959,9/5/2013 12:49,St James Park,13,9/5/2013 13:05,San Jose City Hall,10,648,Subscriber,94041
+11535,302,9/5/2013 13:42,Mountain View Caltrain Station,28,9/5/2013 13:47,Mountain View City Hall,27,153,Subscriber,94041
+11652,554,9/5/2013 16:18,Embarcadero at Folsom,51,9/5/2013 16:27,San Francisco Caltrain (Townsend at 4th),70,350,Subscriber,94041
+11753,227,9/5/2013 17:35,Santa Clara at Almaden,4,9/5/2013 17:39,San Jose Diridon Caltrain Station,2,40,Subscriber,94041
+11776,251,9/5/2013 17:53,Mountain View Caltrain Station,28,9/5/2013 17:57,Mountain View City Hall,27,165,Subscriber,94041
+12081,321,9/6/2013 8:08,San Jose Diridon Caltrain Station,2,9/6/2013 8:13,San Pedro Square,6,70,Subscriber,94041
+12300,423,9/6/2013 11:54,Redwood City Caltrain Station,22,9/6/2013 12:01,Redwood City Medical Center,26,179,Subscriber,94041
+12438,2090,9/6/2013 13:25,Mountain View Caltrain Station,28,9/6/2013 14:00,Mountain View Caltrain Station,28,647,Subscriber,94041
+12757,237,9/6/2013 17:35,Santa Clara at Almaden,4,9/6/2013 17:39,San Jose Diridon Caltrain Station,2,246,Subscriber,94041
+12818,319,9/6/2013 18:12,Redwood City Medical Center,26,9/6/2013 18:18,Redwood City Caltrain Station,22,214,Subscriber,94041
+13528,4316,9/7/2013 12:56,San Francisco Caltrain (Townsend at 4th),70,9/7/2013 14:07,Harry Bridges Plaza (Ferry Building),50,310,Customer,94041
+13529,4296,9/7/2013 12:56,San Francisco Caltrain (Townsend at 4th),70,9/7/2013 14:08,Harry Bridges Plaza (Ferry Building),50,512,Customer,94041
+13629,871,9/7/2013 13:57,Evelyn Park and Ride,30,9/7/2013 14:12,Evelyn Park and Ride,30,10,Subscriber,94041
+13646,178,9/7/2013 14:14,Evelyn Park and Ride,30,9/7/2013 14:17,Evelyn Park and Ride,30,54,Subscriber,94041
+14364,2835,9/8/2013 10:44,Mountain View Caltrain Station,28,9/8/2013 11:31,University and Emerson,35,647,Customer,94041
+14392,3470,9/8/2013 11:06,Mountain View City Hall,27,9/8/2013 12:04,Mountain View City Hall,27,130,Customer,94041
+14393,3449,9/8/2013 11:06,Mountain View City Hall,27,9/8/2013 12:04,Mountain View City Hall,27,22,Customer,94041
+15207,536,9/9/2013 8:19,San Jose Diridon Caltrain Station,2,9/9/2013 8:28,MLK Library,11,662,Subscriber,94041
+15262,612,9/9/2013 8:52,San Francisco Caltrain (Townsend at 4th),70,9/9/2013 9:02,Steuart at Market,74,270,Subscriber,94041
+15709,506,9/9/2013 15:54,Steuart at Market,74,9/9/2013 16:03,San Francisco Caltrain (Townsend at 4th),70,270,Subscriber,94041
+15712,912,9/9/2013 15:55,Mountain View Caltrain Station,28,9/9/2013 16:11,San Antonio Caltrain Station,29,49,Customer,94041
+15769,235,9/9/2013 16:51,Mountain View Caltrain Station,28,9/9/2013 16:55,Mountain View City Hall,27,151,Subscriber,94041
+15828,516,9/9/2013 17:27,SJSU 4th at San Carlos,12,9/9/2013 17:36,San Jose Diridon Caltrain Station,2,30,Subscriber,94041
+16297,730,9/10/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,9/10/2013 8:59,Spear at Folsom,49,416,Subscriber,94041
+17118,752,9/10/2013 18:48,Spear at Folsom,49,9/10/2013 19:00,San Francisco Caltrain 2 (330 Townsend),69,605,Subscriber,94041
+17503,322,9/11/2013 8:46,San Francisco Caltrain 2 (330 Townsend),69,9/11/2013 8:52,5th at Howard,57,466,Subscriber,94041
+17660,311,9/11/2013 10:57,Redwood City Caltrain Station,22,9/11/2013 11:02,Redwood City Medical Center,26,132,Subscriber,94041
+18037,311,9/11/2013 16:50,5th at Howard,57,9/11/2013 16:55,San Francisco Caltrain (Townsend at 4th),70,612,Subscriber,94041
+18078,355,9/11/2013 17:09,Redwood City Medical Center,26,9/11/2013 17:15,Redwood City Caltrain Station,22,132,Subscriber,94041
+18642,549,9/12/2013 8:48,San Francisco Caltrain (Townsend at 4th),70,9/12/2013 8:57,Steuart at Market,74,426,Subscriber,94041
+18800,757,9/12/2013 10:12,San Francisco Caltrain 2 (330 Townsend),69,9/12/2013 10:25,5th at Howard,57,484,Subscriber,94041
+19048,3324,9/12/2013 13:09,Harry Bridges Plaza (Ferry Building),50,9/12/2013 14:04,Embarcadero at Sansome,60,553,Subscriber,94041
+19114,591,9/12/2013 14:07,Embarcadero at Sansome,60,9/12/2013 14:17,Harry Bridges Plaza (Ferry Building),50,278,Subscriber,94041
+19247,566,9/12/2013 16:21,Steuart at Market,74,9/12/2013 16:30,San Francisco Caltrain (Townsend at 4th),70,491,Subscriber,94041
+19300,302,9/12/2013 16:55,5th at Howard,57,9/12/2013 17:00,San Francisco Caltrain (Townsend at 4th),70,398,Subscriber,94041
+19415,289,9/12/2013 17:50,Mountain View Caltrain Station,28,9/12/2013 17:54,Mountain View City Hall,27,147,Subscriber,94041
+20029,613,9/13/2013 9:45,San Francisco Caltrain (Townsend at 4th),70,9/13/2013 9:55,Steuart at Market,74,504,Subscriber,94041
+20073,311,9/13/2013 10:08,San Francisco Caltrain 2 (330 Townsend),69,9/13/2013 10:14,5th at Howard,57,388,Subscriber,94041
+20117,333,9/13/2013 10:55,Redwood City Caltrain Station,22,9/13/2013 11:01,Redwood City Medical Center,26,213,Subscriber,94041
+20419,1074,9/13/2013 14:18,Townsend at 7th,65,9/13/2013 14:35,Embarcadero at Vallejo,48,547,Customer,94041
+20529,648,9/13/2013 16:07,Steuart at Market,74,9/13/2013 16:18,San Francisco Caltrain (Townsend at 4th),70,600,Subscriber,94041
+20595,315,9/13/2013 16:56,5th at Howard,57,9/13/2013 17:01,San Francisco Caltrain (Townsend at 4th),70,395,Subscriber,94041
+20666,481,9/13/2013 17:27,Mountain View Caltrain Station,28,9/13/2013 17:35,Mountain View City Hall,27,125,Subscriber,94041
+20765,647,9/13/2013 18:14,Embarcadero at Vallejo,48,9/13/2013 18:25,2nd at Townsend,61,576,Customer,94041
+21015,428,9/13/2013 22:45,2nd at Townsend,61,9/13/2013 22:52,Townsend at 7th,65,358,Customer,94041
+21359,879,9/14/2013 13:28,San Francisco Caltrain 2 (330 Townsend),69,9/14/2013 13:43,San Francisco City Hall,58,425,Customer,94041
+21739,251,9/14/2013 18:06,San Antonio Caltrain Station,29,9/14/2013 18:10,San Antonio Caltrain Station,29,139,Subscriber,94041
+21740,157,9/14/2013 18:07,San Antonio Caltrain Station,29,9/14/2013 18:09,San Antonio Caltrain Station,29,142,Subscriber,94041
+22587,1768,9/15/2013 17:59,Mountain View City Hall,27,9/15/2013 18:28,Mountain View City Hall,27,160,Customer,94041
+22895,847,9/16/2013 8:53,San Francisco Caltrain (Townsend at 4th),70,9/16/2013 9:07,Steuart at Market,74,480,Subscriber,94041
+23433,563,9/16/2013 16:12,Steuart at Market,74,9/16/2013 16:21,San Francisco Caltrain (Townsend at 4th),70,617,Subscriber,94041
+23446,993,9/16/2013 16:20,San Jose City Hall,10,9/16/2013 16:37,MLK Library,11,704,Subscriber,94041
+23835,501,9/16/2013 20:29,Yerba Buena Center of the Arts (3rd @ Howard),68,9/16/2013 20:38,San Francisco Caltrain 2 (330 Townsend),69,291,Customer,94041
+23896,690,9/16/2013 22:26,Embarcadero at Vallejo,48,9/16/2013 22:38,San Francisco Caltrain (Townsend at 4th),70,552,Customer,94041
+24053,363,9/17/2013 8:05,San Jose Diridon Caltrain Station,2,9/17/2013 8:11,San Pedro Square,6,42,Subscriber,94041
+24063,1107,9/17/2013 8:08,San Francisco Caltrain (Townsend at 4th),70,9/17/2013 8:27,South Van Ness at Market,66,501,Subscriber,94041
+24319,456,9/17/2013 10:09,San Francisco Caltrain 2 (330 Townsend),69,9/17/2013 10:16,Yerba Buena Center of the Arts (3rd @ Howard),68,389,Subscriber,94041
+24872,346,9/17/2013 17:12,Mountain View Caltrain Station,28,9/17/2013 17:18,Mountain View City Hall,27,154,Subscriber,94041
+24928,267,9/17/2013 17:32,San Pedro Square,6,9/17/2013 17:36,San Jose Diridon Caltrain Station,2,50,Subscriber,94041
+25280,99,9/17/2013 20:25,San Jose Diridon Caltrain Station,2,9/17/2013 20:27,San Jose Diridon Caltrain Station,2,645,Subscriber,94041
+25463,1142,9/18/2013 7:44,San Francisco Caltrain (Townsend at 4th),70,9/18/2013 8:03,Townsend at 7th,65,446,Subscriber,94041
+25503,258,9/18/2013 8:11,San Jose Diridon Caltrain Station,2,9/18/2013 8:15,San Pedro Square,6,50,Subscriber,94041
+25573,552,9/18/2013 8:44,San Francisco Caltrain (Townsend at 4th),70,9/18/2013 8:53,Steuart at Market,74,433,Subscriber,94041
+25623,636,9/18/2013 9:02,San Jose Diridon Caltrain Station,2,9/18/2013 9:13,MLK Library,11,676,Subscriber,94041
+25761,334,9/18/2013 10:09,San Francisco Caltrain 2 (330 Townsend),69,9/18/2013 10:14,5th at Howard,57,513,Subscriber,94041
+25762,815,9/18/2013 10:09,San Francisco Caltrain 2 (330 Townsend),69,9/18/2013 10:23,Harry Bridges Plaza (Ferry Building),50,625,Subscriber,94041
+25865,326,9/18/2013 11:52,Redwood City Caltrain Station,22,9/18/2013 11:58,Redwood City Medical Center,26,307,Subscriber,94041
+25902,499,9/18/2013 12:20,Townsend at 7th,65,9/18/2013 12:29,Civic Center BART (7th at Market),72,437,Subscriber,94041
+26007,939,9/18/2013 13:21,San Jose City Hall,10,9/18/2013 13:36,MLK Library,11,686,Subscriber,94041
+26202,507,9/18/2013 15:56,Steuart at Market,74,9/18/2013 16:05,San Francisco Caltrain (Townsend at 4th),70,577,Subscriber,94041
+26298,250,9/18/2013 16:50,5th at Howard,57,9/18/2013 16:54,San Francisco Caltrain (Townsend at 4th),70,487,Subscriber,94041
+26304,248,9/18/2013 16:54,Mountain View Caltrain Station,28,9/18/2013 16:58,Mountain View City Hall,27,144,Subscriber,94041
+26918,357,9/19/2013 8:09,San Jose Diridon Caltrain Station,2,9/19/2013 8:15,San Pedro Square,6,30,Subscriber,94041
+27077,241,9/19/2013 9:20,San Francisco Caltrain 2 (330 Townsend),69,9/19/2013 9:24,5th at Howard,57,290,Subscriber,94041
+27207,346,9/19/2013 10:54,Redwood City Caltrain Station,22,9/19/2013 11:00,Redwood City Medical Center,26,227,Subscriber,94041
+27580,854,9/19/2013 15:07,San Jose City Hall,10,9/19/2013 15:21,MLK Library,11,187,Subscriber,94041
+27717,287,9/19/2013 16:49,5th at Howard,57,9/19/2013 16:54,San Francisco Caltrain (Townsend at 4th),70,461,Subscriber,94041
+27825,183,9/19/2013 17:35,Santa Clara at Almaden,4,9/19/2013 17:38,San Jose Diridon Caltrain Station,2,502,Subscriber,94041
+28086,880,9/19/2013 20:38,Harry Bridges Plaza (Ferry Building),50,9/19/2013 20:53,San Francisco Caltrain (Townsend at 4th),70,496,Subscriber,94041
+28115,2841,9/19/2013 20:57,San Francisco Caltrain (Townsend at 4th),70,9/19/2013 21:45,San Francisco Caltrain (Townsend at 4th),70,631,Subscriber,94041
+28167,491,9/19/2013 23:43,San Antonio Caltrain Station,29,9/19/2013 23:52,Rengstorff Avenue / California Street,33,105,Subscriber,94041
+28459,314,9/20/2013 9:24,San Francisco Caltrain 2 (330 Townsend),69,9/20/2013 9:29,5th at Howard,57,599,Subscriber,94041
+29773,8196,9/21/2013 13:39,Mountain View Caltrain Station,28,9/21/2013 15:56,Mountain View City Hall,27,71,Customer,94041
+30054,850,9/21/2013 19:35,San Francisco Caltrain (Townsend at 4th),70,9/21/2013 19:49,Beale at Market,56,598,Subscriber,94041
+30067,356,9/21/2013 19:53,Beale at Market,56,9/21/2013 19:59,Spear at Folsom,49,279,Subscriber,94041
+30458,713,9/22/2013 12:45,Post at Kearney,47,9/22/2013 12:57,Harry Bridges Plaza (Ferry Building),50,369,Customer,94041
+30556,884,9/22/2013 14:04,Harry Bridges Plaza (Ferry Building),50,9/22/2013 14:19,Embarcadero at Sansome,60,487,Customer,94041
+31094,2115,9/23/2013 7:45,San Francisco Caltrain (Townsend at 4th),70,9/23/2013 8:20,Embarcadero at Sansome,60,325,Subscriber,94041
+31097,184,9/23/2013 7:46,Mountain View City Hall,27,9/23/2013 7:49,Mountain View Caltrain Station,28,152,Subscriber,94041
+31225,559,9/23/2013 8:49,San Francisco Caltrain (Townsend at 4th),70,9/23/2013 8:58,Steuart at Market,74,550,Subscriber,94041
+31274,451,9/23/2013 9:10,San Jose Diridon Caltrain Station,2,9/23/2013 9:17,MLK Library,11,502,Subscriber,94041
+31387,316,9/23/2013 10:17,San Francisco Caltrain 2 (330 Townsend),69,9/23/2013 10:22,5th at Howard,57,549,Subscriber,94041
+31471,883,9/23/2013 11:38,San Jose City Hall,10,9/23/2013 11:53,MLK Library,11,116,Subscriber,94041
+31498,304,9/23/2013 11:50,Redwood City Caltrain Station,22,9/23/2013 11:55,Redwood City Medical Center,26,705,Subscriber,94041
+31620,317,9/23/2013 13:37,SJSU 4th at San Carlos,12,9/23/2013 13:43,St James Park,13,99,Subscriber,94041
+31636,377,9/23/2013 13:52,San Jose City Hall,10,9/23/2013 13:58,SJSU - San Salvador at 9th,16,642,Subscriber,94041
+31782,572,9/23/2013 16:03,Steuart at Market,74,9/23/2013 16:12,San Francisco Caltrain (Townsend at 4th),70,284,Subscriber,94041
+31809,656,9/23/2013 16:16,MLK Library,11,9/23/2013 16:27,San Jose Diridon Caltrain Station,2,46,Subscriber,94041
+31867,230,9/23/2013 16:44,Redwood City Medical Center,26,9/23/2013 16:48,Redwood City Public Library,24,307,Subscriber,94041
+31917,272,9/23/2013 17:05,Redwood City Public Library,24,9/23/2013 17:09,Redwood City Medical Center,26,307,Subscriber,94041
+31934,209,9/23/2013 17:11,Mountain View Caltrain Station,28,9/23/2013 17:15,Mountain View City Hall,27,119,Subscriber,94041
+32045,319,9/23/2013 17:52,5th at Howard,57,9/23/2013 17:57,San Francisco Caltrain (Townsend at 4th),70,613,Subscriber,94041
+32188,327,9/23/2013 19:14,Redwood City Medical Center,26,9/23/2013 19:19,Redwood City Caltrain Station,22,307,Subscriber,94041
+32324,1752,9/23/2013 22:01,Mountain View City Hall,27,9/23/2013 22:31,Mountain View City Hall,27,160,Customer,94041
+32325,1703,9/23/2013 22:02,Mountain View City Hall,27,9/23/2013 22:30,Mountain View City Hall,27,129,Customer,94041
+32486,207,9/24/2013 7:54,Mountain View City Hall,27,9/24/2013 7:57,Mountain View Caltrain Station,28,165,Subscriber,94041
+32787,318,9/24/2013 10:42,San Francisco Caltrain 2 (330 Townsend),69,9/24/2013 10:47,5th at Howard,57,428,Subscriber,94041
+32973,1594,9/24/2013 12:47,San Jose City Hall,10,9/24/2013 13:14,MLK Library,11,50,Subscriber,94041
+33310,244,9/24/2013 16:59,5th at Howard,57,9/24/2013 17:03,San Francisco Caltrain (Townsend at 4th),70,455,Subscriber,94041
+33424,315,9/24/2013 17:51,Mountain View Caltrain Station,28,9/24/2013 17:56,Mountain View City Hall,27,647,Subscriber,94041
+33839,188,9/25/2013 7:47,Mountain View City Hall,27,9/25/2013 7:50,Mountain View Caltrain Station,28,125,Subscriber,94041
+33990,524,9/25/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,9/25/2013 8:55,Steuart at Market,74,478,Subscriber,94041
+34071,726,9/25/2013 9:18,San Jose Diridon Caltrain Station,2,9/25/2013 9:30,San Jose City Hall,10,175,Subscriber,94041
+34072,631,9/25/2013 9:18,San Jose Diridon Caltrain Station,2,9/25/2013 9:28,MLK Library,11,714,Subscriber,94041
+34122,293,9/25/2013 9:41,San Francisco Caltrain 2 (330 Townsend),69,9/25/2013 9:45,5th at Howard,57,612,Subscriber,94041
+34329,186,9/25/2013 12:02,Embarcadero at Bryant,54,9/25/2013 12:05,Spear at Folsom,49,608,Subscriber,94041
+34609,611,9/25/2013 13:48,Paseo de San Antonio,7,9/25/2013 13:58,San Jose Diridon Caltrain Station,2,709,Subscriber,94041
+34723,788,9/25/2013 14:58,Embarcadero at Bryant,54,9/25/2013 15:11,Clay at Battery,41,497,Subscriber,94041
+34746,267,9/25/2013 15:21,5th at Howard,57,9/25/2013 15:25,San Francisco Caltrain (Townsend at 4th),70,436,Subscriber,94041
+34767,569,9/25/2013 15:41,Steuart at Market,74,9/25/2013 15:50,San Francisco Caltrain (Townsend at 4th),70,366,Subscriber,94041
+34790,816,9/25/2013 15:52,San Jose City Hall,10,9/25/2013 16:05,MLK Library,11,235,Subscriber,94041
+34833,446,9/25/2013 16:16,San Jose City Hall,10,9/25/2013 16:24,San Jose Diridon Caltrain Station,2,196,Subscriber,94041
+34932,672,9/25/2013 17:12,Mechanics Plaza (Market at Battery),75,9/25/2013 17:23,Powell Street BART,39,424,Subscriber,94041
+35459,188,9/26/2013 7:54,Mountain View City Hall,27,9/26/2013 7:57,Mountain View Caltrain Station,28,79,Subscriber,94041
+35716,279,9/26/2013 10:07,San Francisco Caltrain 2 (330 Townsend),69,9/26/2013 10:11,5th at Howard,57,554,Subscriber,94041
+35888,1453,9/26/2013 12:31,San Jose City Hall,10,9/26/2013 12:56,Adobe on Almaden,5,45,Subscriber,94041
+35913,134,9/26/2013 12:47,Broadway at Main,25,9/26/2013 12:50,Redwood City Medical Center,26,228,Subscriber,94041
+35923,340,9/26/2013 12:57,Adobe on Almaden,5,9/26/2013 13:02,MLK Library,11,664,Subscriber,94041
+36235,330,9/26/2013 16:55,5th at Howard,57,9/26/2013 17:00,San Francisco Caltrain (Townsend at 4th),70,554,Subscriber,94041
+36505,387,9/26/2013 19:00,Mountain View Caltrain Station,28,9/26/2013 19:07,Mountain View City Hall,27,647,Customer,94041
+36784,175,9/27/2013 7:44,Mountain View City Hall,27,9/27/2013 7:47,Mountain View Caltrain Station,28,654,Subscriber,94041
+36915,533,9/27/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,9/27/2013 8:55,Steuart at Market,74,571,Subscriber,94041
+37241,563,9/27/2013 12:27,Spear at Folsom,49,9/27/2013 12:37,Mechanics Plaza (Market at Battery),75,537,Customer,94041
+37300,339,9/27/2013 13:09,Mechanics Plaza (Market at Battery),75,9/27/2013 13:14,Spear at Folsom,49,635,Customer,94041
+37313,453,9/27/2013 13:19,Mountain View Caltrain Station,28,9/27/2013 13:27,Mountain View City Hall,27,154,Subscriber,94041
+37379,749,9/27/2013 14:02,San Jose City Hall,10,9/27/2013 14:15,San Jose City Hall,10,69,Subscriber,94041
+37421,1304,9/27/2013 14:37,Embarcadero at Vallejo,48,9/27/2013 14:59,2nd at Folsom,62,315,Customer,94041
+37515,599,9/27/2013 15:38,Steuart at Market,74,9/27/2013 15:48,San Francisco Caltrain (Townsend at 4th),70,486,Subscriber,94041
+37550,461,9/27/2013 16:03,San Jose City Hall,10,9/27/2013 16:11,San Jose Diridon Caltrain Station,2,69,Subscriber,94041
+37588,230,9/27/2013 16:32,Mountain View Caltrain Station,28,9/27/2013 16:36,Mountain View City Hall,27,165,Subscriber,94041
+37593,974,9/27/2013 16:34,Powell Street BART,39,9/27/2013 16:50,Spear at Folsom,49,278,Customer,94041
+38085,616,9/27/2013 22:10,2nd at Folsom,62,9/27/2013 22:21,Townsend at 7th,65,481,Customer,94041
+38191,644,9/28/2013 9:40,San Francisco Caltrain (Townsend at 4th),70,9/28/2013 9:50,Post at Kearney,47,462,Subscriber,94041
+38283,1319,9/28/2013 11:58,San Francisco Caltrain (Townsend at 4th),70,9/28/2013 12:20,Steuart at Market,74,425,Subscriber,94041
+38284,1319,9/28/2013 11:58,San Francisco Caltrain (Townsend at 4th),70,9/28/2013 12:20,Steuart at Market,74,529,Subscriber,94041
+38496,741,9/28/2013 14:36,Post at Kearney,47,9/28/2013 14:48,San Francisco Caltrain (Townsend at 4th),70,274,Subscriber,94041
+38904,969,9/28/2013 21:08,Golden Gate at Polk,59,9/28/2013 21:24,San Francisco Caltrain (Townsend at 4th),70,413,Subscriber,94041
+38905,944,9/28/2013 21:09,Golden Gate at Polk,59,9/28/2013 21:25,San Francisco Caltrain (Townsend at 4th),70,357,Subscriber,94041
+39703,205,9/30/2013 7:46,Mountain View City Hall,27,9/30/2013 7:50,Mountain View Caltrain Station,28,217,Subscriber,94041
+39867,426,9/30/2013 8:55,2nd at Townsend,61,9/30/2013 9:02,Steuart at Market,74,543,Subscriber,94041
+39891,562,9/30/2013 9:03,San Jose Diridon Caltrain Station,2,9/30/2013 9:13,MLK Library,11,28,Subscriber,94041
+40094,846,9/30/2013 11:46,San Jose City Hall,10,9/30/2013 12:00,MLK Library,11,657,Subscriber,94041
+40100,316,9/30/2013 11:53,Redwood City Caltrain Station,22,9/30/2013 11:58,Redwood City Medical Center,26,298,Subscriber,94041
+40349,514,9/30/2013 16:11,Steuart at Market,74,9/30/2013 16:19,San Francisco Caltrain (Townsend at 4th),70,432,Subscriber,94041
+40375,709,9/30/2013 16:24,MLK Library,11,9/30/2013 16:36,San Jose Diridon Caltrain Station,2,26,Subscriber,94041
+40759,334,9/30/2013 19:11,Redwood City Medical Center,26,9/30/2013 19:16,Redwood City Caltrain Station,22,298,Subscriber,94041
+40939,2814,10/1/2013 0:16,Mountain View Caltrain Station,28,10/1/2013 1:03,Mountain View City Hall,27,165,Customer,94041
+41392,869,10/1/2013 10:12,San Francisco Caltrain (Townsend at 4th),70,10/1/2013 10:26,Market at 10th,67,402,Subscriber,94041
+41862,574,10/1/2013 16:54,Market at 10th,67,10/1/2013 17:03,San Francisco Caltrain (Townsend at 4th),70,598,Subscriber,94041
+42285,39559,10/1/2013 21:51,Mountain View Caltrain Station,28,10/2/2013 8:50,Mountain View City Hall,27,627,Customer,94041
+42339,187,10/2/2013 6:45,Mountain View City Hall,27,10/2/2013 6:48,Mountain View Caltrain Station,28,51,Subscriber,94041
+42399,587,10/2/2013 7:43,San Francisco Caltrain (Townsend at 4th),70,10/2/2013 7:52,Steuart at Market,74,275,Subscriber,94041
+42430,277,10/2/2013 8:02,San Jose Diridon Caltrain Station,2,10/2/2013 8:06,San Pedro Square,6,63,Subscriber,94041
+42533,877,10/2/2013 8:47,San Francisco Caltrain (Townsend at 4th),70,10/2/2013 9:02,Market at 10th,67,313,Subscriber,94041
+42587,652,10/2/2013 9:04,San Jose Diridon Caltrain Station,2,10/2/2013 9:14,MLK Library,11,678,Subscriber,94041
+42622,468,10/2/2013 9:13,San Jose Diridon Caltrain Station,2,10/2/2013 9:21,San Jose City Hall,10,44,Subscriber,94041
+42775,431,10/2/2013 10:53,Redwood City Caltrain Station,22,10/2/2013 11:01,Redwood City Medical Center,26,262,Subscriber,94041
+42851,474,10/2/2013 12:03,MLK Library,11,10/2/2013 12:10,Adobe on Almaden,5,234,Subscriber,94041
+42856,621,10/2/2013 12:00,SJSU 4th at San Carlos,12,10/2/2013 12:11,Adobe on Almaden,5,40,Subscriber,94041
+42860,915,10/2/2013 12:11,Adobe on Almaden,5,10/2/2013 12:26,San Jose Civic Center,3,714,Subscriber,94041
+42861,918,10/2/2013 12:11,Adobe on Almaden,5,10/2/2013 12:26,San Jose Civic Center,3,45,Subscriber,94041
+42921,606,10/2/2013 12:49,MLK Library,11,10/2/2013 12:59,San Jose Diridon Caltrain Station,2,109,Subscriber,94041
+42942,190,10/2/2013 13:05,Paseo de San Antonio,7,10/2/2013 13:09,SJSU 4th at San Carlos,12,61,Subscriber,94041
+42943,192,10/2/2013 13:05,Paseo de San Antonio,7,10/2/2013 13:09,SJSU 4th at San Carlos,12,195,Subscriber,94041
+43104,548,10/2/2013 15:39,Steuart at Market,74,10/2/2013 15:48,San Francisco Caltrain (Townsend at 4th),70,513,Subscriber,94041
+43200,2860,10/2/2013 16:31,Embarcadero at Sansome,60,10/2/2013 17:19,Embarcadero at Sansome,60,566,Customer,94041
+43203,2852,10/2/2013 16:32,Embarcadero at Sansome,60,10/2/2013 17:19,Embarcadero at Sansome,60,534,Customer,94041
+43229,629,10/2/2013 16:48,Market at 10th,67,10/2/2013 16:58,San Francisco Caltrain 2 (330 Townsend),69,412,Subscriber,94041
+43235,263,10/2/2013 16:52,Mountain View Caltrain Station,28,10/2/2013 16:56,Mountain View City Hall,27,128,Subscriber,94041
+43339,564,10/2/2013 17:32,San Jose City Hall,10,10/2/2013 17:42,San Jose Diridon Caltrain Station,2,178,Customer,94041
+43341,219,10/2/2013 17:34,Santa Clara at Almaden,4,10/2/2013 17:37,San Jose Diridon Caltrain Station,2,717,Subscriber,94041
+43670,1285,10/2/2013 22:15,San Antonio Caltrain Station,29,10/2/2013 22:37,Mountain View Caltrain Station,28,93,Customer,94041
+43825,294,10/3/2013 8:00,San Jose Diridon Caltrain Station,2,10/3/2013 8:05,San Pedro Square,6,58,Subscriber,94041
+43910,208,10/3/2013 8:40,Mountain View City Hall,27,10/3/2013 8:44,Mountain View Caltrain Station,28,694,Subscriber,94041
+43932,719,10/3/2013 8:48,San Francisco Caltrain 2 (330 Townsend),69,10/3/2013 9:00,Market at 10th,67,634,Subscriber,94041
+44327,869,10/3/2013 13:01,San Jose City Hall,10,10/3/2013 13:16,San Jose City Hall,10,709,Subscriber,94041
+44624,471,10/3/2013 16:51,Market at 10th,67,10/3/2013 16:59,San Francisco Caltrain (Townsend at 4th),70,634,Subscriber,94041
+44715,268,10/3/2013 17:29,Mountain View Caltrain Station,28,10/3/2013 17:33,Mountain View City Hall,27,694,Subscriber,94041
+45242,226,10/4/2013 7:50,Mountain View City Hall,27,10/4/2013 7:54,Mountain View Caltrain Station,28,694,Subscriber,94041
+45251,194,10/4/2013 7:52,Mountain View City Hall,27,10/4/2013 7:55,Mountain View Caltrain Station,28,140,Subscriber,94041
+45275,368,10/4/2013 8:05,San Jose Diridon Caltrain Station,2,10/4/2013 8:11,San Pedro Square,6,89,Subscriber,94041
+45364,694,10/4/2013 8:45,San Francisco Caltrain (Townsend at 4th),70,10/4/2013 8:57,Steuart at Market,74,355,Subscriber,94041
+45379,918,10/4/2013 8:49,San Francisco Caltrain 2 (330 Townsend),69,10/4/2013 9:04,Spear at Folsom,49,314,Subscriber,94041
+45550,734,10/4/2013 10:12,San Francisco Caltrain 2 (330 Townsend),69,10/4/2013 10:25,Market at 10th,67,375,Subscriber,94041
+45674,369,10/4/2013 11:52,Redwood City Caltrain Station,22,10/4/2013 11:58,Redwood City Medical Center,26,248,Subscriber,94041
+45982,520,10/4/2013 15:54,Steuart at Market,74,10/4/2013 16:03,San Francisco Caltrain (Townsend at 4th),70,584,Subscriber,94041
+46067,731,10/4/2013 16:41,MLK Library,11,10/4/2013 16:53,San Jose City Hall,10,44,Subscriber,94041
+46097,311,10/4/2013 16:52,Mountain View Caltrain Station,28,10/4/2013 16:57,Mountain View City Hall,27,151,Subscriber,94041
+46098,328,10/4/2013 16:52,Mountain View Caltrain Station,28,10/4/2013 16:58,Mountain View City Hall,27,679,Subscriber,94041
+46178,262,10/4/2013 17:30,Mountain View Caltrain Station,28,10/4/2013 17:34,Mountain View City Hall,27,694,Subscriber,94041
+46191,201,10/4/2013 17:35,Santa Clara at Almaden,4,10/4/2013 17:39,San Jose Diridon Caltrain Station,2,63,Subscriber,94041
+46226,640,10/4/2013 17:48,Market at 10th,67,10/4/2013 17:59,San Francisco Caltrain (Townsend at 4th),70,523,Subscriber,94041
+46622,604,10/5/2013 9:39,San Francisco Caltrain (Townsend at 4th),70,10/5/2013 9:49,Post at Kearney,47,580,Subscriber,94041
+46681,374,10/5/2013 10:41,Mountain View Caltrain Station,28,10/5/2013 10:47,Mountain View City Hall,27,653,Subscriber,94041
+46883,666,10/5/2013 13:26,Post at Kearney,47,10/5/2013 13:37,San Francisco Caltrain (Townsend at 4th),70,533,Subscriber,94041
+47633,18429,10/6/2013 11:22,Mountain View Caltrain Station,28,10/6/2013 16:29,Palo Alto Caltrain Station,34,693,Customer,94041
+48461,635,10/7/2013 8:47,San Francisco Caltrain (Townsend at 4th),70,10/7/2013 8:58,5th at Howard,57,484,Subscriber,94041
+48665,711,10/7/2013 10:47,San Francisco Caltrain 2 (330 Townsend),69,10/7/2013 10:58,Market at 10th,67,425,Subscriber,94041
+49224,524,10/7/2013 17:39,Market at 10th,67,10/7/2013 17:48,San Francisco Caltrain (Townsend at 4th),70,570,Subscriber,94041
+49354,477,10/7/2013 18:39,5th at Howard,57,10/7/2013 18:47,San Francisco Caltrain (Townsend at 4th),70,432,Subscriber,94041
+49651,746,10/8/2013 7:47,San Francisco Caltrain 2 (330 Townsend),69,10/8/2013 8:00,South Van Ness at Market,66,542,Subscriber,94041
+49663,178,10/8/2013 7:52,Mountain View City Hall,27,10/8/2013 7:55,Mountain View Caltrain Station,28,653,Subscriber,94041
+49807,385,10/8/2013 8:48,San Francisco Caltrain (Townsend at 4th),70,10/8/2013 8:55,5th at Howard,57,633,Subscriber,94041
+49818,556,10/8/2013 8:49,San Francisco Caltrain (Townsend at 4th),70,10/8/2013 8:58,Steuart at Market,74,421,Subscriber,94041
+49819,636,10/8/2013 8:50,San Francisco Caltrain 2 (330 Townsend),69,10/8/2013 9:00,Market at 10th,67,503,Subscriber,94041
+50194,1049,10/8/2013 13:18,San Jose City Hall,10,10/8/2013 13:35,MLK Library,11,676,Subscriber,94041
+50309,527,10/8/2013 15:51,Steuart at Market,74,10/8/2013 15:59,San Francisco Caltrain (Townsend at 4th),70,563,Subscriber,94041
+50404,534,10/8/2013 16:47,Market at 10th,67,10/8/2013 16:56,San Francisco Caltrain (Townsend at 4th),70,421,Subscriber,94041
+50412,203,10/8/2013 16:51,Mountain View Caltrain Station,28,10/8/2013 16:54,Mountain View City Hall,27,165,Subscriber,94041
+50717,746,10/8/2013 19:05,5th at Howard,57,10/8/2013 19:17,San Francisco Caltrain (Townsend at 4th),70,273,Subscriber,94041
+51116,671,10/9/2013 8:45,San Francisco Caltrain 2 (330 Townsend),69,10/9/2013 8:56,Market at 10th,67,547,Subscriber,94041
+51175,518,10/9/2013 9:03,San Jose Diridon Caltrain Station,2,10/9/2013 9:12,MLK Library,11,674,Subscriber,94041
+51180,295,10/9/2013 9:05,San Francisco Caltrain 2 (330 Townsend),69,10/9/2013 9:10,5th at Howard,57,415,Subscriber,94041
+51571,594,10/9/2013 13:52,Paseo de San Antonio,7,10/9/2013 14:02,San Jose Diridon Caltrain Station,2,42,Subscriber,94041
+51784,575,10/9/2013 16:55,Market at 10th,67,10/9/2013 17:05,San Francisco Caltrain (Townsend at 4th),70,310,Subscriber,94041
+51992,803,10/9/2013 18:15,Mountain View Caltrain Station,28,10/9/2013 18:28,Mountain View Caltrain Station,28,83,Subscriber,94041
+52043,407,10/9/2013 18:40,San Jose City Hall,10,10/9/2013 18:46,Santa Clara at Almaden,4,196,Subscriber,94041
+52053,353,10/9/2013 18:44,5th at Howard,57,10/9/2013 18:50,San Francisco Caltrain (Townsend at 4th),70,418,Subscriber,94041
+52411,185,10/10/2013 7:52,Mountain View City Hall,27,10/10/2013 7:55,Mountain View Caltrain Station,28,138,Subscriber,94041
+52516,811,10/10/2013 8:38,2nd at Townsend,61,10/10/2013 8:51,Beale at Market,56,613,Subscriber,94041
+52543,721,10/10/2013 8:47,San Francisco Caltrain 2 (330 Townsend),69,10/10/2013 8:59,Spear at Folsom,49,444,Subscriber,94041
+52562,398,10/10/2013 8:52,2nd at Townsend,61,10/10/2013 8:59,Steuart at Market,74,633,Subscriber,94041
+52593,417,10/10/2013 9:04,San Francisco Caltrain (Townsend at 4th),70,10/10/2013 9:11,5th at Howard,57,504,Subscriber,94041
+52736,524,10/10/2013 10:08,San Jose Diridon Caltrain Station,2,10/10/2013 10:16,SJSU 4th at San Carlos,12,245,Subscriber,94041
+52749,661,10/10/2013 10:18,San Francisco Caltrain (Townsend at 4th),70,10/10/2013 10:29,Market at 10th,67,370,Subscriber,94041
+52775,494,10/10/2013 10:39,San Jose Diridon Caltrain Station,2,10/10/2013 10:47,MLK Library,11,706,Subscriber,94041
+52872,1256,10/10/2013 11:46,San Jose Civic Center,3,10/10/2013 12:07,San Salvador at 1st,8,659,Subscriber,94041
+52909,258,10/10/2013 12:19,San Salvador at 1st,8,10/10/2013 12:23,Paseo de San Antonio,7,670,Subscriber,94041
+52968,1516,10/10/2013 12:53,SJSU 4th at San Carlos,12,10/10/2013 13:18,MLK Library,11,245,Subscriber,94041
+53019,1894,10/10/2013 13:26,MLK Library,11,10/10/2013 13:57,St James Park,13,178,Subscriber,94041
+53171,507,10/10/2013 15:51,Steuart at Market,74,10/10/2013 15:59,San Francisco Caltrain (Townsend at 4th),70,320,Subscriber,94041
+53268,485,10/10/2013 16:42,Market at 10th,67,10/10/2013 16:50,San Francisco Caltrain (Townsend at 4th),70,357,Subscriber,94041
+53449,367,10/10/2013 17:52,Market at 10th,67,10/10/2013 17:58,Market at 4th,76,508,Subscriber,94041
+53471,769,10/10/2013 17:58,Beale at Market,56,10/10/2013 18:11,San Francisco Caltrain 2 (330 Townsend),69,522,Subscriber,94041
+53477,680,10/10/2013 17:59,Spear at Folsom,49,10/10/2013 18:10,San Francisco Caltrain 2 (330 Townsend),69,339,Subscriber,94041
+53492,430,10/10/2013 18:05,5th at Howard,57,10/10/2013 18:12,San Francisco Caltrain (Townsend at 4th),70,537,Subscriber,94041
+53864,171,10/11/2013 7:58,Mountain View City Hall,27,10/11/2013 8:01,Mountain View Caltrain Station,28,305,Subscriber,94041
+53981,982,10/11/2013 8:43,San Francisco Caltrain (Townsend at 4th),70,10/11/2013 9:00,Beale at Market,56,389,Subscriber,94041
+54000,725,10/11/2013 8:47,San Francisco Caltrain 2 (330 Townsend),69,10/11/2013 8:59,Market at 10th,67,514,Subscriber,94041
+54047,538,10/11/2013 9:05,San Francisco Caltrain (Townsend at 4th),70,10/11/2013 9:14,Steuart at Market,74,533,Subscriber,94041
+54428,1027,10/11/2013 13:09,San Jose City Hall,10,10/11/2013 13:27,MLK Library,11,50,Subscriber,94041
+54587,637,10/11/2013 15:54,Steuart at Market,74,10/11/2013 16:05,San Francisco Caltrain (Townsend at 4th),70,603,Subscriber,94041
+54677,3245,10/11/2013 16:39,Mountain View City Hall,27,10/11/2013 17:33,Mountain View City Hall,27,627,Customer,94041
+54712,517,10/11/2013 16:51,Market at 10th,67,10/11/2013 17:00,San Francisco Caltrain (Townsend at 4th),70,491,Subscriber,94041
+54716,242,10/11/2013 16:53,Mountain View Caltrain Station,28,10/11/2013 16:57,Mountain View City Hall,27,13,Subscriber,94041
+54719,693,10/11/2013 16:55,Beale at Market,56,10/11/2013 17:06,San Francisco Caltrain 2 (330 Townsend),69,614,Subscriber,94041
+54967,427,10/11/2013 18:59,Mountain View Caltrain Station,28,10/11/2013 19:07,Mountain View City Hall,27,124,Subscriber,94041
+55172,537,10/12/2013 9:37,San Francisco Caltrain (Townsend at 4th),70,10/12/2013 9:46,Post at Kearney,47,317,Subscriber,94041
+55464,525,10/12/2013 13:31,Post at Kearney,47,10/12/2013 13:40,San Francisco Caltrain (Townsend at 4th),70,259,Subscriber,94041
+56328,90,10/13/2013 12:20,Spear at Folsom,49,10/13/2013 12:22,Spear at Folsom,49,453,Subscriber,94041
+56330,1398,10/13/2013 12:22,Spear at Folsom,49,10/13/2013 12:45,Harry Bridges Plaza (Ferry Building),50,453,Subscriber,94041
+56686,1220,10/13/2013 17:28,Embarcadero at Folsom,51,10/13/2013 17:49,Steuart at Market,74,610,Customer,94041
+56863,798,10/14/2013 6:39,Market at 4th,76,10/14/2013 6:52,South Van Ness at Market,66,411,Subscriber,94041
+56935,187,10/14/2013 7:48,Mountain View City Hall,27,10/14/2013 7:52,Mountain View Caltrain Station,28,95,Subscriber,94041
+57040,956,10/14/2013 8:48,San Francisco Caltrain (Townsend at 4th),70,10/14/2013 9:04,Beale at Market,56,622,Subscriber,94041
+57046,611,10/14/2013 8:48,San Francisco Caltrain (Townsend at 4th),70,10/14/2013 8:58,Steuart at Market,74,575,Subscriber,94041
+57239,659,10/14/2013 10:10,San Francisco Caltrain 2 (330 Townsend),69,10/14/2013 10:21,Market at 10th,67,472,Subscriber,94041
+57644,504,10/14/2013 15:45,Steuart at Market,74,10/14/2013 15:53,San Francisco Caltrain (Townsend at 4th),70,450,Subscriber,94041
+57933,580,10/14/2013 17:55,Market at 10th,67,10/14/2013 18:05,San Francisco Caltrain (Townsend at 4th),70,472,Subscriber,94041
+58396,328,10/15/2013 8:02,San Jose Diridon Caltrain Station,2,10/15/2013 8:07,San Pedro Square,6,47,Subscriber,94041
+58430,488,10/15/2013 8:19,Market at 4th,76,10/15/2013 8:27,South Van Ness at Market,66,424,Subscriber,94041
+58537,1078,10/15/2013 8:49,San Francisco Caltrain (Townsend at 4th),70,10/15/2013 9:07,Beale at Market,56,280,Subscriber,94041
+58659,969,10/15/2013 9:25,California Ave Caltrain Station,36,10/15/2013 9:42,Palo Alto Caltrain Station,34,104,Customer,94041
+59386,690,10/15/2013 17:25,San Jose City Hall,10,10/15/2013 17:36,MLK Library,11,143,Subscriber,94041
+59419,190,10/15/2013 17:35,Santa Clara at Almaden,4,10/15/2013 17:38,San Jose Diridon Caltrain Station,2,293,Subscriber,94041
+59466,714,10/15/2013 17:49,Beale at Market,56,10/15/2013 18:01,2nd at Townsend,61,529,Subscriber,94041
+59854,466,10/16/2013 7:17,Market at 4th,76,10/16/2013 7:25,South Van Ness at Market,66,442,Subscriber,94041
+59941,262,10/16/2013 8:02,San Jose Diridon Caltrain Station,2,10/16/2013 8:07,San Pedro Square,6,643,Subscriber,94041
+59960,177,10/16/2013 8:12,Mountain View City Hall,27,10/16/2013 8:15,Mountain View Caltrain Station,28,201,Subscriber,94041
+59984,993,10/16/2013 8:22,San Francisco Caltrain 2 (330 Townsend),69,10/16/2013 8:38,Beale at Market,56,596,Subscriber,94041
+60117,714,10/16/2013 9:05,San Jose Diridon Caltrain Station,2,10/16/2013 9:17,MLK Library,11,188,Subscriber,94041
+60167,754,10/16/2013 9:22,San Francisco Caltrain (Townsend at 4th),70,10/16/2013 9:35,Harry Bridges Plaza (Ferry Building),50,357,Subscriber,94041
+60168,655,10/16/2013 9:23,San Francisco Caltrain 2 (330 Townsend),69,10/16/2013 9:33,Market at 10th,67,477,Subscriber,94041
+60468,588,10/16/2013 13:14,MLK Library,11,10/16/2013 13:24,Adobe on Almaden,5,708,Subscriber,94041
+60572,379,10/16/2013 14:52,Adobe on Almaden,5,10/16/2013 14:58,San Jose Diridon Caltrain Station,2,156,Subscriber,94041
+60629,512,10/16/2013 15:46,Steuart at Market,74,10/16/2013 15:55,San Francisco Caltrain (Townsend at 4th),70,458,Subscriber,94041
+60751,573,10/16/2013 16:50,Market at 10th,67,10/16/2013 17:00,San Francisco Caltrain 2 (330 Townsend),69,378,Subscriber,94041
+60762,205,10/16/2013 16:52,Mountain View Caltrain Station,28,10/16/2013 16:55,Mountain View City Hall,27,301,Subscriber,94041
+60930,592,10/16/2013 17:47,Beale at Market,56,10/16/2013 17:56,2nd at Townsend,61,511,Subscriber,94041
+61409,504,10/17/2013 7:44,Market at 4th,76,10/17/2013 7:52,South Van Ness at Market,66,581,Subscriber,94041
+61452,1113,10/17/2013 8:02,San Francisco Caltrain (Townsend at 4th),70,10/17/2013 8:20,Beale at Market,56,528,Subscriber,94041
+61466,349,10/17/2013 8:05,San Jose Diridon Caltrain Station,2,10/17/2013 8:11,San Pedro Square,6,188,Subscriber,94041
+61574,568,10/17/2013 8:47,San Francisco Caltrain (Townsend at 4th),70,10/17/2013 8:57,Howard at 2nd,63,431,Subscriber,94041
+61776,560,10/17/2013 10:08,San Francisco Caltrain 2 (330 Townsend),69,10/17/2013 10:17,Market at 10th,67,599,Subscriber,94041
+61947,375,10/17/2013 12:21,MLK Library,11,10/17/2013 12:27,SJSU - San Salvador at 9th,16,69,Subscriber,94041
+61952,299,10/17/2013 12:22,SJSU 4th at San Carlos,12,10/17/2013 12:27,SJSU - San Salvador at 9th,16,53,Subscriber,94041
+62072,406,10/17/2013 13:35,South Van Ness at Market,66,10/17/2013 13:41,5th at Howard,57,322,Subscriber,94041
+62435,507,10/17/2013 17:19,Market at 10th,67,10/17/2013 17:28,San Francisco Caltrain (Townsend at 4th),70,598,Subscriber,94041
+62470,226,10/17/2013 17:34,Santa Clara at Almaden,4,10/17/2013 17:38,San Jose Diridon Caltrain Station,2,661,Subscriber,94041
+62521,789,10/17/2013 17:51,Beale at Market,56,10/17/2013 18:05,San Francisco Caltrain 2 (330 Townsend),69,402,Subscriber,94041
+62577,411,10/17/2013 18:09,Howard at 2nd,63,10/17/2013 18:16,San Francisco Caltrain 2 (330 Townsend),69,557,Subscriber,94041
+62817,678,10/17/2013 20:43,Mountain View Caltrain Station,28,10/17/2013 20:54,Evelyn Park and Ride,30,252,Subscriber,94041
+63034,208,10/18/2013 7:47,Mountain View City Hall,27,10/18/2013 7:50,Mountain View Caltrain Station,28,167,Subscriber,94041
+63068,310,10/18/2013 8:03,San Jose Diridon Caltrain Station,2,10/18/2013 8:08,San Pedro Square,6,187,Subscriber,94041
+63091,506,10/18/2013 8:14,Market at 4th,76,10/18/2013 8:22,South Van Ness at Market,66,373,Subscriber,94041
+63165,517,10/18/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,10/18/2013 8:55,Howard at 2nd,63,270,Subscriber,94041
+63167,591,10/18/2013 8:47,San Francisco Caltrain (Townsend at 4th),70,10/18/2013 8:57,Steuart at Market,74,396,Subscriber,94041
+63172,1049,10/18/2013 8:49,San Francisco Caltrain 2 (330 Townsend),69,10/18/2013 9:06,Beale at Market,56,491,Subscriber,94041
+63349,739,10/18/2013 10:12,San Francisco Caltrain (Townsend at 4th),70,10/18/2013 10:25,Market at 10th,67,631,Subscriber,94041
+63428,875,10/18/2013 11:09,San Francisco Caltrain (Townsend at 4th),70,10/18/2013 11:24,Powell at Post (Union Square),71,326,Customer,94041
+63665,465,10/18/2013 13:34,Market at 10th,67,10/18/2013 13:41,San Francisco Caltrain (Townsend at 4th),70,531,Subscriber,94041
+63709,471,10/18/2013 14:01,Market at 4th,76,10/18/2013 14:09,Steuart at Market,74,438,Customer,94041
+63735,704,10/18/2013 14:18,Howard at 2nd,63,10/18/2013 14:30,South Van Ness at Market,66,601,Subscriber,94041
+63813,667,10/18/2013 15:31,Market at 10th,67,10/18/2013 15:42,Howard at 2nd,63,483,Subscriber,94041
+63829,713,10/18/2013 15:44,Steuart at Market,74,10/18/2013 15:56,San Francisco Caltrain 2 (330 Townsend),69,276,Subscriber,94041
+63970,214,10/18/2013 16:52,Mountain View Caltrain Station,28,10/18/2013 16:55,Mountain View City Hall,27,62,Subscriber,94041
+63979,451,10/18/2013 16:55,Market at 10th,67,10/18/2013 17:03,San Francisco Caltrain 2 (330 Townsend),69,581,Subscriber,94041
+64002,855,10/18/2013 17:05,Beale at Market,56,10/18/2013 17:19,San Francisco Caltrain 2 (330 Townsend),69,417,Subscriber,94041
+64075,214,10/18/2013 17:33,Santa Clara at Almaden,4,10/18/2013 17:36,San Jose Diridon Caltrain Station,2,175,Subscriber,94041
+64167,312,10/18/2013 18:05,5th at Howard,57,10/18/2013 18:10,San Francisco Caltrain (Townsend at 4th),70,534,Subscriber,94041
+64717,6458,10/19/2013 12:20,Mountain View Caltrain Station,28,10/19/2013 14:08,Mountain View Caltrain Station,28,295,Customer,94041
+65026,340,10/19/2013 16:28,Commercial at Montgomery,45,10/19/2013 16:34,Market at 4th,76,430,Subscriber,94041
+65635,1022,10/20/2013 15:04,Mountain View City Hall,27,10/20/2013 15:21,Rengstorff Avenue / California Street,33,243,Customer,94041
+65642,552,10/20/2013 15:10,Mountain View Caltrain Station,28,10/20/2013 15:19,Mountain View Caltrain Station,28,62,Subscriber,94041
+65662,815,10/20/2013 15:23,Rengstorff Avenue / California Street,33,10/20/2013 15:37,Mountain View City Hall,27,243,Customer,94041
+66003,567,10/21/2013 7:50,Market at 4th,76,10/21/2013 8:00,South Van Ness at Market,66,266,Subscriber,94041
+66005,207,10/21/2013 7:52,Mountain View City Hall,27,10/21/2013 7:55,Mountain View Caltrain Station,28,98,Subscriber,94041
+66104,439,10/21/2013 8:33,San Jose Diridon Caltrain Station,2,10/21/2013 8:40,San Jose City Hall,10,641,Subscriber,94041
+66154,494,10/21/2013 8:51,San Francisco Caltrain 2 (330 Townsend),69,10/21/2013 9:00,Howard at 2nd,63,512,Subscriber,94041
+66155,635,10/21/2013 8:52,San Francisco Caltrain 2 (330 Townsend),69,10/21/2013 9:02,Steuart at Market,74,497,Subscriber,94041
+66167,687,10/21/2013 8:51,San Francisco Caltrain 2 (330 Townsend),69,10/21/2013 9:02,Temporary Transbay Terminal (Howard at Beale),55,372,Subscriber,94041
+66325,658,10/21/2013 10:15,San Francisco Caltrain (Townsend at 4th),70,10/21/2013 10:26,Market at 10th,67,326,Subscriber,94041
+66379,342,10/21/2013 10:54,Redwood City Caltrain Station,22,10/21/2013 11:00,Redwood City Medical Center,26,163,Subscriber,94041
+66595,1164,10/21/2013 13:50,San Jose City Hall,10,10/21/2013 14:10,MLK Library,11,192,Subscriber,94041
+66696,628,10/21/2013 15:48,Steuart at Market,74,10/21/2013 15:59,San Francisco Caltrain (Townsend at 4th),70,423,Subscriber,94041
+66720,301,10/21/2013 16:05,Broadway at Main,25,10/21/2013 16:10,Redwood City Caltrain Station,22,177,Customer,94041
+66793,525,10/21/2013 16:48,Market at 10th,67,10/21/2013 16:56,San Francisco Caltrain (Townsend at 4th),70,326,Subscriber,94041
+66907,322,10/21/2013 17:32,Mountain View Caltrain Station,28,10/21/2013 17:37,Evelyn Park and Ride,30,698,Customer,94041
+66948,510,10/21/2013 17:44,Howard at 2nd,63,10/21/2013 17:53,San Francisco Caltrain (Townsend at 4th),70,599,Subscriber,94041
+67011,768,10/21/2013 18:07,Temporary Transbay Terminal (Howard at Beale),55,10/21/2013 18:19,San Francisco Caltrain (Townsend at 4th),70,265,Subscriber,94041
+67257,284,10/21/2013 21:50,Mountain View Caltrain Station,28,10/21/2013 21:55,Evelyn Park and Ride,30,110,Subscriber,94041
+67409,308,10/22/2013 7:57,Mountain View City Hall,27,10/22/2013 8:02,Mountain View Caltrain Station,28,716,Subscriber,94041
+67458,487,10/22/2013 8:17,Market at 4th,76,10/22/2013 8:25,South Van Ness at Market,66,532,Subscriber,94041
+67539,550,10/22/2013 8:47,San Francisco Caltrain 2 (330 Townsend),69,10/22/2013 8:56,Howard at 2nd,63,490,Subscriber,94041
+67596,906,10/22/2013 9:06,San Francisco Caltrain (Townsend at 4th),70,10/22/2013 9:21,Beale at Market,56,462,Subscriber,94041
+67728,681,10/22/2013 10:10,San Francisco Caltrain (Townsend at 4th),70,10/22/2013 10:21,Market at 10th,67,315,Subscriber,94041
+67863,520,10/22/2013 12:45,Howard at 2nd,63,10/22/2013 12:54,Post at Kearney,47,572,Subscriber,94041
+67942,190,10/22/2013 14:05,Post at Kearney,47,10/22/2013 14:08,Howard at 2nd,63,431,Subscriber,94041
+67945,717,10/22/2013 14:11,San Francisco Caltrain (Townsend at 4th),70,10/22/2013 14:23,Powell Street BART,39,395,Subscriber,94041
+68157,1014,10/22/2013 16:48,Market at 10th,67,10/22/2013 17:05,San Francisco Caltrain (Townsend at 4th),70,276,Customer,94041
+68158,460,10/22/2013 16:49,Market at 10th,67,10/22/2013 16:56,San Francisco Caltrain (Townsend at 4th),70,491,Subscriber,94041
+68243,539,10/22/2013 17:22,Howard at 2nd,63,10/22/2013 17:31,San Francisco Caltrain 2 (330 Townsend),69,536,Subscriber,94041
+68269,559,10/22/2013 17:35,San Francisco Caltrain (Townsend at 4th),70,10/22/2013 17:44,San Francisco Caltrain (Townsend at 4th),70,428,Subscriber,94041
+68301,491,10/22/2013 17:47,South Van Ness at Market,66,10/22/2013 17:55,Market at 4th,76,548,Subscriber,94041
+68320,542,10/22/2013 17:53,Beale at Market,56,10/22/2013 18:02,2nd at Townsend,61,489,Subscriber,94041
+68489,513,10/22/2013 18:56,Powell Street BART,39,10/22/2013 19:04,San Francisco Caltrain (Townsend at 4th),70,592,Subscriber,94041
+68544,138,10/22/2013 19:38,Market at 4th,76,10/22/2013 19:40,Powell Street BART,39,531,Subscriber,94041
+68629,323,10/22/2013 22:49,Mountain View Caltrain Station,28,10/22/2013 22:54,Evelyn Park and Ride,30,717,Subscriber,94041
+68687,506,10/23/2013 7:17,Market at 4th,76,10/23/2013 7:26,South Van Ness at Market,66,617,Subscriber,94041
+68766,170,10/23/2013 8:03,Mountain View City Hall,27,10/23/2013 8:06,Mountain View Caltrain Station,28,295,Subscriber,94041
+68832,1001,10/23/2013 8:23,San Francisco Caltrain 2 (330 Townsend),69,10/23/2013 8:40,Beale at Market,56,573,Subscriber,94041
+68888,574,10/23/2013 8:45,San Francisco Caltrain (Townsend at 4th),70,10/23/2013 8:55,Temporary Transbay Terminal (Howard at Beale),55,635,Subscriber,94041
+68947,539,10/23/2013 9:03,San Jose Diridon Caltrain Station,2,10/23/2013 9:12,MLK Library,11,307,Subscriber,94041
+68983,420,10/23/2013 9:21,San Francisco Caltrain (Townsend at 4th),70,10/23/2013 9:28,5th at Howard,57,496,Subscriber,94041
+69016,581,10/23/2013 9:33,San Francisco Caltrain (Townsend at 4th),70,10/23/2013 9:43,Steuart at Market,74,389,Subscriber,94041
+69197,508,10/23/2013 11:41,San Jose Diridon Caltrain Station,2,10/23/2013 11:50,SJSU 4th at San Carlos,12,15,Subscriber,94041
+69280,256,10/23/2013 12:54,Redwood City Caltrain Station,22,10/23/2013 12:59,Redwood City Medical Center,26,659,Subscriber,94041
+69334,475,10/23/2013 13:49,Paseo de San Antonio,7,10/23/2013 13:57,San Jose Diridon Caltrain Station,2,158,Subscriber,94041
+69429,663,10/23/2013 15:53,Harry Bridges Plaza (Ferry Building),50,10/23/2013 16:04,San Francisco Caltrain (Townsend at 4th),70,289,Subscriber,94041
+69516,241,10/23/2013 16:51,Mountain View Caltrain Station,28,10/23/2013 16:55,Mountain View City Hall,27,62,Subscriber,94041
+69653,172,10/23/2013 17:42,SJSU 4th at San Carlos,12,10/23/2013 17:45,San Jose City Hall,10,15,Subscriber,94041
+69679,550,10/23/2013 17:49,Beale at Market,56,10/23/2013 17:58,2nd at Townsend,61,333,Subscriber,94041
+69753,382,10/23/2013 18:27,5th at Howard,57,10/23/2013 18:33,San Francisco Caltrain (Townsend at 4th),70,633,Subscriber,94041
+70087,577,10/24/2013 7:45,Market at 4th,76,10/24/2013 7:55,South Van Ness at Market,66,514,Subscriber,94041
+70185,1015,10/24/2013 8:25,San Francisco Caltrain (Townsend at 4th),70,10/24/2013 8:42,Beale at Market,56,623,Subscriber,94041
+70252,479,10/24/2013 8:49,San Francisco Caltrain (Townsend at 4th),70,10/24/2013 8:57,Howard at 2nd,63,428,Subscriber,94041
+70491,610,10/24/2013 10:44,San Francisco Caltrain 2 (330 Townsend),69,10/24/2013 10:54,Market at 10th,67,610,Subscriber,94041
+70753,788,10/24/2013 14:49,SJSU 4th at San Carlos,12,10/24/2013 15:02,Japantown,9,298,Subscriber,94041
+70765,1582,10/24/2013 15:05,Japantown,9,10/24/2013 15:31,Japantown,9,261,Subscriber,94041
+70786,702,10/24/2013 15:31,Japantown,9,10/24/2013 15:43,SJSU 4th at San Carlos,12,298,Subscriber,94041
+70905,521,10/24/2013 16:50,Market at 10th,67,10/24/2013 16:58,San Francisco Caltrain (Townsend at 4th),70,562,Subscriber,94041
+71053,653,10/24/2013 17:48,Beale at Market,56,10/24/2013 17:59,2nd at Townsend,61,324,Subscriber,94041
+71184,566,10/24/2013 18:35,San Francisco Caltrain (Townsend at 4th),70,10/24/2013 18:44,Howard at 2nd,63,542,Subscriber,94041
+71206,132,10/24/2013 18:48,Yerba Buena Center of the Arts (3rd @ Howard),68,10/24/2013 18:51,5th at Howard,57,463,Subscriber,94041
+71333,1099,10/24/2013 21:52,San Antonio Caltrain Station,29,10/24/2013 22:10,Mountain View Caltrain Station,28,217,Subscriber,94041
+71335,416,10/24/2013 22:01,5th at Howard,57,10/24/2013 22:08,San Francisco Caltrain (Townsend at 4th),70,447,Subscriber,94041
+71343,376,10/24/2013 22:13,Mountain View Caltrain Station,28,10/24/2013 22:19,Evelyn Park and Ride,30,191,Subscriber,94041
+71358,367,10/24/2013 23:44,San Antonio Caltrain Station,29,10/24/2013 23:51,Rengstorff Avenue / California Street,33,141,Subscriber,94041
+71476,187,10/25/2013 7:54,Mountain View City Hall,27,10/25/2013 7:57,Mountain View Caltrain Station,28,717,Subscriber,94041
+71531,560,10/25/2013 8:18,Market at 4th,76,10/25/2013 8:28,South Van Ness at Market,66,553,Subscriber,94041
+71597,858,10/25/2013 8:45,San Francisco Caltrain (Townsend at 4th),70,10/25/2013 8:59,Beale at Market,56,357,Subscriber,94041
+71649,586,10/25/2013 9:02,San Francisco Caltrain (Townsend at 4th),70,10/25/2013 9:11,Steuart at Market,74,279,Subscriber,94041
+71826,311,10/25/2013 10:49,Redwood City Caltrain Station,22,10/25/2013 10:54,Redwood City Medical Center,26,105,Subscriber,94041
+72195,602,10/25/2013 16:14,Steuart at Market,74,10/25/2013 16:24,San Francisco Caltrain (Townsend at 4th),70,516,Subscriber,94041
+72327,499,10/25/2013 17:10,San Jose Civic Center,3,10/25/2013 17:18,San Jose Diridon Caltrain Station,2,678,Subscriber,94041
+72384,213,10/25/2013 17:35,Mountain View Caltrain Station,28,10/25/2013 17:39,Mountain View City Hall,27,252,Subscriber,94041
+73927,673,10/28/2013 7:38,Market at 4th,76,10/28/2013 7:49,South Van Ness at Market,66,350,Subscriber,94041
+73962,177,10/28/2013 7:53,Mountain View City Hall,27,10/28/2013 7:56,Mountain View Caltrain Station,28,58,Subscriber,94041
+74155,417,10/28/2013 9:20,San Francisco Caltrain (Townsend at 4th),70,10/28/2013 9:27,5th at Howard,57,525,Subscriber,94041
+74171,615,10/28/2013 9:23,San Francisco Caltrain 2 (330 Townsend),69,10/28/2013 9:34,Steuart at Market,74,441,Subscriber,94041
+74297,307,10/28/2013 10:50,Redwood City Caltrain Station,22,10/28/2013 10:55,Redwood City Medical Center,26,701,Subscriber,94041
+74322,431,10/28/2013 11:08,San Francisco Caltrain (Townsend at 4th),70,10/28/2013 11:16,Embarcadero at Bryant,54,353,Subscriber,94041
+74595,588,10/28/2013 15:47,Steuart at Market,74,10/28/2013 15:57,San Francisco Caltrain (Townsend at 4th),70,367,Subscriber,94041
+74681,245,10/28/2013 16:51,Mountain View Caltrain Station,28,10/28/2013 16:55,Mountain View City Hall,27,695,Subscriber,94041
+74863,210,10/28/2013 17:58,Mountain View Caltrain Station,28,10/28/2013 18:01,Evelyn Park and Ride,30,295,Subscriber,94041
+74903,319,10/28/2013 18:10,5th at Howard,57,10/28/2013 18:16,San Francisco Caltrain (Townsend at 4th),70,537,Subscriber,94041
+75011,226,10/28/2013 19:14,Redwood City Medical Center,26,10/28/2013 19:18,Redwood City Caltrain Station,22,693,Subscriber,94041
+75320,545,10/29/2013 8:16,Market at 4th,76,10/29/2013 8:25,South Van Ness at Market,66,391,Subscriber,94041
+75393,347,10/29/2013 8:48,San Francisco Caltrain (Townsend at 4th),70,10/29/2013 8:54,Howard at 2nd,63,498,Subscriber,94041
+75409,373,10/29/2013 8:51,San Francisco Caltrain (Townsend at 4th),70,10/29/2013 8:57,5th at Howard,57,620,Subscriber,94041
+75601,770,10/29/2013 10:11,San Francisco Caltrain (Townsend at 4th),70,10/29/2013 10:23,Market at 10th,67,627,Subscriber,94041
+75987,577,10/29/2013 16:48,Market at 10th,67,10/29/2013 16:57,San Francisco Caltrain (Townsend at 4th),70,462,Subscriber,94041
+76126,958,10/29/2013 17:40,South Van Ness at Market,66,10/29/2013 17:56,Commercial at Montgomery,45,554,Subscriber,94041
+76229,307,10/29/2013 18:21,5th at Howard,57,10/29/2013 18:27,San Francisco Caltrain (Townsend at 4th),70,515,Subscriber,94041
+76316,540,10/29/2013 19:05,Davis at Jackson,42,10/29/2013 19:14,Powell Street BART,39,455,Subscriber,94041
+76437,301,10/29/2013 22:13,Mountain View Caltrain Station,28,10/29/2013 22:18,Evelyn Park and Ride,30,36,Subscriber,94041
+76563,495,10/30/2013 7:42,Market at 4th,76,10/30/2013 7:51,South Van Ness at Market,66,384,Subscriber,94041
+76626,755,10/30/2013 8:05,San Jose Diridon Caltrain Station,2,10/30/2013 8:18,SJSU - San Salvador at 9th,16,207,Subscriber,94041
+76720,432,10/30/2013 8:48,San Francisco Caltrain (Townsend at 4th),70,10/30/2013 8:55,Howard at 2nd,63,477,Subscriber,94041
+76783,559,10/30/2013 9:05,San Jose Diridon Caltrain Station,2,10/30/2013 9:14,MLK Library,11,208,Subscriber,94041
+76827,629,10/30/2013 9:25,San Francisco Caltrain (Townsend at 4th),70,10/30/2013 9:36,Steuart at Market,74,368,Subscriber,94041
+76837,476,10/30/2013 9:28,San Francisco Caltrain (Townsend at 4th),70,10/30/2013 9:36,5th at Howard,57,581,Subscriber,94041
+76861,336,10/30/2013 9:38,MLK Library,11,10/30/2013 9:43,San Pedro Square,6,24,Subscriber,94041
+77121,594,10/30/2013 13:12,South Van Ness at Market,66,10/30/2013 13:22,Market at Sansome,77,576,Subscriber,94041
+77164,596,10/30/2013 13:48,MLK Library,11,10/30/2013 13:58,San Jose Diridon Caltrain Station,2,35,Subscriber,94041
+77288,682,10/30/2013 15:55,Steuart at Market,74,10/30/2013 16:06,San Francisco Caltrain (Townsend at 4th),70,557,Subscriber,94041
+77395,242,10/30/2013 16:52,Mountain View Caltrain Station,28,10/30/2013 16:56,Mountain View City Hall,27,127,Subscriber,94041
+77517,263,10/30/2013 17:32,Santa Clara at Almaden,4,10/30/2013 17:36,San Jose Diridon Caltrain Station,2,89,Subscriber,94041
+77574,424,10/30/2013 17:51,Howard at 2nd,63,10/30/2013 17:58,San Francisco Caltrain (Townsend at 4th),70,391,Subscriber,94041
+77674,295,10/30/2013 18:38,Mountain View Caltrain Station,28,10/30/2013 18:42,Evelyn Park and Ride,30,697,Subscriber,94041
+77807,352,10/30/2013 20:35,5th at Howard,57,10/30/2013 20:41,San Francisco Caltrain (Townsend at 4th),70,513,Subscriber,94041
+78002,531,10/31/2013 7:47,Market at 4th,76,10/31/2013 7:56,South Van Ness at Market,66,283,Subscriber,94041
+78072,341,10/31/2013 8:23,San Jose Diridon Caltrain Station,2,10/31/2013 8:29,San Pedro Square,6,85,Subscriber,94041
+78183,389,10/31/2013 8:53,San Francisco Caltrain (Townsend at 4th),70,10/31/2013 9:00,Howard at 2nd,63,424,Subscriber,94041
+78188,361,10/31/2013 8:54,San Francisco Caltrain (Townsend at 4th),70,10/31/2013 9:00,5th at Howard,57,521,Subscriber,94041
+78328,655,10/31/2013 10:05,San Francisco Caltrain (Townsend at 4th),70,10/31/2013 10:16,Market at 10th,67,603,Subscriber,94041
+78862,354,10/31/2013 16:26,Howard at 2nd,63,10/31/2013 16:31,San Francisco Caltrain (Townsend at 4th),70,557,Subscriber,94041
+78931,485,10/31/2013 16:49,Market at 10th,67,10/31/2013 16:57,San Francisco Caltrain (Townsend at 4th),70,359,Subscriber,94041
+79009,383,10/31/2013 17:13,5th at Howard,57,10/31/2013 17:19,San Francisco Caltrain 2 (330 Townsend),69,356,Subscriber,94041
+79071,332,10/31/2013 17:32,San Pedro Square,6,10/31/2013 17:37,San Jose Diridon Caltrain Station,2,56,Subscriber,94041
+79521,363,11/1/2013 8:04,San Jose Diridon Caltrain Station,2,11/1/2013 8:10,San Pedro Square,6,86,Subscriber,94041
+79529,530,11/1/2013 8:07,Market at 4th,76,11/1/2013 8:16,South Van Ness at Market,66,589,Subscriber,94041
+79603,346,11/1/2013 8:45,San Francisco Caltrain (Townsend at 4th),70,11/1/2013 8:51,Howard at 2nd,63,430,Subscriber,94041
+79611,505,11/1/2013 8:47,San Francisco Caltrain (Townsend at 4th),70,11/1/2013 8:55,Powell Street BART,39,625,Subscriber,94041
+79721,522,11/1/2013 9:30,San Jose Diridon Caltrain Station,2,11/1/2013 9:38,San Jose City Hall,10,249,Subscriber,94041
+79790,695,11/1/2013 10:09,San Francisco Caltrain (Townsend at 4th),70,11/1/2013 10:21,Market at 10th,67,590,Subscriber,94041
+79855,287,11/1/2013 10:51,Redwood City Caltrain Station,22,11/1/2013 10:55,Redwood City Medical Center,26,123,Subscriber,94041
+80248,614,11/1/2013 15:46,Mountain View Caltrain Station,28,11/1/2013 15:56,Mountain View City Hall,27,77,Customer,94041
+80257,365,11/1/2013 15:57,Howard at 2nd,63,11/1/2013 16:03,San Francisco Caltrain (Townsend at 4th),70,510,Subscriber,94041
+80297,596,11/1/2013 16:18,Market at 10th,67,11/1/2013 16:28,San Francisco Caltrain (Townsend at 4th),70,633,Subscriber,94041
+80466,480,11/1/2013 17:31,San Jose City Hall,10,11/1/2013 17:39,San Jose Diridon Caltrain Station,2,45,Subscriber,94041
+80484,238,11/1/2013 17:35,Santa Clara at Almaden,4,11/1/2013 17:39,San Jose Diridon Caltrain Station,2,233,Subscriber,94041
+80558,308,11/1/2013 17:59,Mountain View Caltrain Station,28,11/1/2013 18:04,Evelyn Park and Ride,30,243,Subscriber,94041
+80642,408,11/1/2013 18:34,Embarcadero at Bryant,54,11/1/2013 18:41,San Francisco Caltrain (Townsend at 4th),70,457,Subscriber,94041
+80856,396,11/2/2013 5:58,Mechanics Plaza (Market at Battery),75,11/2/2013 6:05,Powell Street BART,39,338,Subscriber,94041
+81716,1418,11/3/2013 12:05,Rengstorff Avenue / California Street,33,11/3/2013 12:29,California Ave Caltrain Station,36,191,Subscriber,94041
+81719,1405,11/3/2013 12:05,Rengstorff Avenue / California Street,33,11/3/2013 12:29,California Ave Caltrain Station,36,690,Subscriber,94041
+81771,1295,11/3/2013 12:58,California Ave Caltrain Station,36,11/3/2013 13:19,Rengstorff Avenue / California Street,33,191,Subscriber,94041
+81772,1308,11/3/2013 12:58,California Ave Caltrain Station,36,11/3/2013 13:19,Rengstorff Avenue / California Street,33,690,Subscriber,94041
+82115,431,11/4/2013 7:30,Market at 4th,76,11/4/2013 7:37,Market at 10th,67,605,Subscriber,94041
+82160,175,11/4/2013 7:46,Mountain View City Hall,27,11/4/2013 7:49,Mountain View Caltrain Station,28,60,Subscriber,94041
+82261,326,11/4/2013 8:26,San Francisco Caltrain (Townsend at 4th),70,11/4/2013 8:31,Yerba Buena Center of the Arts (3rd @ Howard),68,390,Subscriber,94041
+82276,465,11/4/2013 8:30,San Jose Diridon Caltrain Station,2,11/4/2013 8:37,MLK Library,11,56,Subscriber,94041
+82350,614,11/4/2013 8:49,San Francisco Caltrain (Townsend at 4th),70,11/4/2013 8:59,Steuart at Market,74,582,Subscriber,94041
+82394,749,11/4/2013 9:02,San Francisco Caltrain 2 (330 Townsend),69,11/4/2013 9:14,Harry Bridges Plaza (Ferry Building),50,292,Subscriber,94041
+82444,347,11/4/2013 9:23,San Francisco Caltrain (Townsend at 4th),70,11/4/2013 9:28,5th at Howard,57,322,Subscriber,94041
+82572,313,11/4/2013 10:57,Powell Street BART,39,11/4/2013 11:02,Market at 10th,67,523,Subscriber,94041
+82917,539,11/4/2013 15:57,Steuart at Market,74,11/4/2013 16:06,San Francisco Caltrain (Townsend at 4th),70,483,Subscriber,94041
+82954,1070,11/4/2013 16:22,San Jose City Hall,10,11/4/2013 16:40,San Jose City Hall,10,158,Subscriber,94041
+83028,217,11/4/2013 16:51,Mountain View Caltrain Station,28,11/4/2013 16:55,Mountain View City Hall,27,702,Subscriber,94041
+83031,432,11/4/2013 16:52,Market at 10th,67,11/4/2013 17:00,San Francisco Caltrain (Townsend at 4th),70,391,Subscriber,94041
+83126,307,11/4/2013 17:24,5th at Howard,57,11/4/2013 17:29,San Francisco Caltrain (Townsend at 4th),70,586,Subscriber,94041
+83220,329,11/4/2013 18:00,Yerba Buena Center of the Arts (3rd @ Howard),68,11/4/2013 18:06,San Francisco Caltrain (Townsend at 4th),70,397,Subscriber,94041
+83310,424,11/4/2013 18:37,San Jose City Hall,10,11/4/2013 18:44,San Jose Diridon Caltrain Station,2,158,Subscriber,94041
+83363,271,11/4/2013 19:10,Mountain View Caltrain Station,28,11/4/2013 19:14,Evelyn Park and Ride,30,685,Subscriber,94041
+83705,415,11/5/2013 8:12,Market at 4th,76,11/5/2013 8:19,South Van Ness at Market,66,407,Subscriber,94041
+83795,356,11/5/2013 8:44,San Francisco Caltrain (Townsend at 4th),70,11/5/2013 8:50,Yerba Buena Center of the Arts (3rd @ Howard),68,520,Subscriber,94041
+83918,484,11/5/2013 9:17,San Jose Diridon Caltrain Station,2,11/5/2013 9:25,MLK Library,11,208,Subscriber,94041
+83943,367,11/5/2013 9:27,San Francisco Caltrain 2 (330 Townsend),69,11/5/2013 9:33,5th at Howard,57,394,Subscriber,94041
+83994,280,11/5/2013 9:51,2nd at Townsend,61,11/5/2013 9:55,Embarcadero at Bryant,54,378,Subscriber,94041
+84034,585,11/5/2013 10:15,San Francisco Caltrain 2 (330 Townsend),69,11/5/2013 10:25,Market at 10th,67,483,Subscriber,94041
+84213,252,11/5/2013 12:44,Market at 10th,67,11/5/2013 12:48,Powell Street BART,39,635,Subscriber,94041
+84285,161,11/5/2013 13:44,San Jose City Hall,10,11/5/2013 13:47,St James Park,13,11,Subscriber,94041
+84316,376,11/5/2013 14:15,St James Park,13,11/5/2013 14:21,Japantown,9,251,Subscriber,94041
+84327,454,11/5/2013 14:23,Japantown,9,11/5/2013 14:30,San Jose City Hall,10,209,Subscriber,94041
+84517,507,11/5/2013 16:54,Market at 10th,67,11/5/2013 17:03,San Francisco Caltrain (Townsend at 4th),70,491,Subscriber,94041
+84636,427,11/5/2013 17:35,San Jose City Hall,10,11/5/2013 17:42,San Jose Diridon Caltrain Station,2,209,Subscriber,94041
+84693,355,11/5/2013 17:54,Yerba Buena Center of the Arts (3rd @ Howard),68,11/5/2013 18:00,San Francisco Caltrain (Townsend at 4th),70,277,Subscriber,94041
+84755,329,11/5/2013 18:18,5th at Howard,57,11/5/2013 18:23,San Francisco Caltrain (Townsend at 4th),70,464,Subscriber,94041
+85146,523,11/6/2013 7:39,Market at 4th,76,11/6/2013 7:48,South Van Ness at Market,66,392,Subscriber,94041
+85239,325,11/6/2013 8:22,San Francisco Caltrain (Townsend at 4th),70,11/6/2013 8:28,Yerba Buena Center of the Arts (3rd @ Howard),68,477,Subscriber,94041
+85378,589,11/6/2013 9:06,San Jose Diridon Caltrain Station,2,11/6/2013 9:16,MLK Library,11,183,Subscriber,94041
+85418,656,11/6/2013 9:28,San Francisco Caltrain (Townsend at 4th),70,11/6/2013 9:39,Harry Bridges Plaza (Ferry Building),50,269,Subscriber,94041
+85603,372,11/6/2013 11:51,Redwood City Caltrain Station,22,11/6/2013 11:57,Redwood City Medical Center,26,694,Subscriber,94041
+85734,669,11/6/2013 13:42,Paseo de San Antonio,7,11/6/2013 13:54,San Jose Diridon Caltrain Station,2,231,Subscriber,94041
+85844,564,11/6/2013 15:49,Steuart at Market,74,11/6/2013 15:58,San Francisco Caltrain (Townsend at 4th),70,367,Subscriber,94041
+85988,232,11/6/2013 16:53,Mountain View Caltrain Station,28,11/6/2013 16:57,Mountain View City Hall,27,717,Subscriber,94041
+86002,769,11/6/2013 16:59,Market at 10th,67,11/6/2013 17:12,Market at 10th,67,574,Subscriber,94041
+86017,361,11/6/2013 17:03,Yerba Buena Center of the Arts (3rd @ Howard),68,11/6/2013 17:09,San Francisco Caltrain (Townsend at 4th),70,477,Subscriber,94041
+86159,358,11/6/2013 17:55,Embarcadero at Bryant,54,11/6/2013 18:01,San Francisco Caltrain (Townsend at 4th),70,504,Subscriber,94041
+86784,311,11/7/2013 8:44,San Francisco Caltrain (Townsend at 4th),70,11/7/2013 8:50,Yerba Buena Center of the Arts (3rd @ Howard),68,556,Subscriber,94041
+86985,684,11/7/2013 10:07,San Francisco Caltrain 2 (330 Townsend),69,11/7/2013 10:19,Market at 10th,67,398,Subscriber,94041
+87044,321,11/7/2013 10:52,Redwood City Caltrain Station,22,11/7/2013 10:58,Redwood City Medical Center,26,219,Subscriber,94041
+87551,525,11/7/2013 16:57,Market at 10th,67,11/7/2013 17:06,San Francisco Caltrain (Townsend at 4th),70,600,Subscriber,94041
+87606,640,11/7/2013 17:13,Spear at Folsom,49,11/7/2013 17:24,San Francisco Caltrain 2 (330 Townsend),69,582,Subscriber,94041
+87729,310,11/7/2013 17:59,Yerba Buena Center of the Arts (3rd @ Howard),68,11/7/2013 18:04,San Francisco Caltrain (Townsend at 4th),70,523,Subscriber,94041
+88057,280,11/7/2013 22:53,Mountain View Caltrain Station,28,11/7/2013 22:58,Evelyn Park and Ride,30,148,Subscriber,94041
+88193,249,11/8/2013 7:45,Evelyn Park and Ride,30,11/8/2013 7:49,Mountain View Caltrain Station,28,77,Subscriber,94041
+88203,192,11/8/2013 7:48,Mountain View City Hall,27,11/8/2013 7:51,Mountain View Caltrain Station,28,191,Subscriber,94041
+88259,386,11/8/2013 8:06,Market at 4th,76,11/8/2013 8:12,Market at 10th,67,545,Subscriber,94041
+88370,340,11/8/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,11/8/2013 8:52,Yerba Buena Center of the Arts (3rd @ Howard),68,433,Subscriber,94041
+88377,599,11/8/2013 8:47,San Francisco Caltrain (Townsend at 4th),70,11/8/2013 8:57,Steuart at Market,74,409,Subscriber,94041
+88492,643,11/8/2013 9:22,San Francisco Caltrain 2 (330 Townsend),69,11/8/2013 9:32,Market at 10th,67,599,Subscriber,94041
+88654,395,11/8/2013 11:03,Redwood City Caltrain Station,22,11/8/2013 11:10,Redwood City Medical Center,26,21,Subscriber,94041
+88871,363,11/8/2013 13:00,Market at 10th,67,11/8/2013 13:06,5th at Howard,57,611,Subscriber,94041
+89107,518,11/8/2013 15:55,Steuart at Market,74,11/8/2013 16:04,San Francisco Caltrain (Townsend at 4th),70,605,Subscriber,94041
+89230,462,11/8/2013 16:47,Market at 10th,67,11/8/2013 16:54,San Francisco Caltrain (Townsend at 4th),70,492,Subscriber,94041
+89239,236,11/8/2013 16:51,Mountain View Caltrain Station,28,11/8/2013 16:55,Mountain View City Hall,27,36,Subscriber,94041
+89284,325,11/8/2013 17:05,Yerba Buena Center of the Arts (3rd @ Howard),68,11/8/2013 17:11,San Francisco Caltrain (Townsend at 4th),70,433,Subscriber,94041
+89430,296,11/8/2013 17:56,Mountain View Caltrain Station,28,11/8/2013 18:01,Evelyn Park and Ride,30,697,Subscriber,94041
+89495,671,11/8/2013 18:32,San Francisco Caltrain (Townsend at 4th),70,11/8/2013 18:43,Market at Sansome,77,576,Subscriber,94041
+89592,62,11/8/2013 20:12,Mountain View City Hall,27,11/8/2013 20:13,Mountain View City Hall,27,167,Subscriber,94041
+89616,943,11/8/2013 20:53,Embarcadero at Folsom,51,11/8/2013 21:09,Golden Gate at Polk,59,603,Subscriber,94041
+89664,689,11/8/2013 22:26,Golden Gate at Polk,59,11/8/2013 22:38,Embarcadero at Folsom,51,525,Subscriber,94041
+89951,750,11/9/2013 11:55,San Francisco Caltrain (Townsend at 4th),70,11/9/2013 12:07,Powell Street BART,39,285,Subscriber,94041
+89977,201,11/9/2013 12:13,Embarcadero at Folsom,51,11/9/2013 12:16,Embarcadero at Folsom,51,629,Subscriber,94041
+90177,1135,11/9/2013 14:48,Grant Avenue at Columbus Avenue,73,11/9/2013 15:07,Yerba Buena Center of the Arts (3rd @ Howard),68,344,Subscriber,94041
+90716,345,11/10/2013 10:26,Mountain View City Hall,27,11/10/2013 10:32,Mountain View Caltrain Station,28,716,Subscriber,94041
+90731,296,11/10/2013 10:47,Mountain View Caltrain Station,28,11/10/2013 10:52,Mountain View City Hall,27,716,Subscriber,94041
+91333,532,11/11/2013 7:48,Market at 4th,76,11/11/2013 7:57,South Van Ness at Market,66,331,Subscriber,94041
+91404,149,11/11/2013 8:21,Mountain View City Hall,27,11/11/2013 8:23,Mountain View Caltrain Station,28,190,Subscriber,94041
+91486,376,11/11/2013 8:47,San Francisco Caltrain 2 (330 Townsend),69,11/11/2013 8:54,Yerba Buena Center of the Arts (3rd @ Howard),68,327,Subscriber,94041
+91492,378,11/11/2013 8:48,San Francisco Caltrain 2 (330 Townsend),69,11/11/2013 8:54,5th at Howard,57,395,Subscriber,94041
+91496,497,11/11/2013 8:49,San Francisco Caltrain 2 (330 Townsend),69,11/11/2013 8:57,Embarcadero at Bryant,54,502,Subscriber,94041
+91564,482,11/11/2013 9:21,San Francisco Caltrain (Townsend at 4th),70,11/11/2013 9:29,Steuart at Market,74,628,Subscriber,94041
+91631,666,11/11/2013 10:09,San Francisco Caltrain 2 (330 Townsend),69,11/11/2013 10:20,Market at 10th,67,269,Subscriber,94041
+91670,257,11/11/2013 10:51,Redwood City Caltrain Station,22,11/11/2013 10:56,Redwood City Medical Center,26,694,Subscriber,94041
+91856,598,11/11/2013 13:52,Clay at Battery,41,11/11/2013 14:02,Embarcadero at Folsom,51,415,Subscriber,94041
+91954,633,11/11/2013 15:13,South Van Ness at Market,66,11/11/2013 15:23,Market at Sansome,77,621,Subscriber,94041
+91993,544,11/11/2013 15:58,Steuart at Market,74,11/11/2013 16:07,San Francisco Caltrain (Townsend at 4th),70,391,Subscriber,94041
+92066,534,11/11/2013 16:44,Market at 10th,67,11/11/2013 16:53,San Francisco Caltrain (Townsend at 4th),70,443,Subscriber,94041
+92091,220,11/11/2013 16:52,Mountain View Caltrain Station,28,11/11/2013 16:56,Mountain View City Hall,27,234,Subscriber,94041
+92110,450,11/11/2013 17:00,Embarcadero at Bryant,54,11/11/2013 17:07,San Francisco Caltrain (Townsend at 4th),70,624,Subscriber,94041
+92255,309,11/11/2013 18:01,Yerba Buena Center of the Arts (3rd @ Howard),68,11/11/2013 18:06,San Francisco Caltrain (Townsend at 4th),70,554,Subscriber,94041
+92270,299,11/11/2013 18:04,5th at Howard,57,11/11/2013 18:09,San Francisco Caltrain (Townsend at 4th),70,271,Subscriber,94041
+92663,514,11/12/2013 8:12,Market at 4th,76,11/12/2013 8:21,South Van Ness at Market,66,391,Subscriber,94041
+92785,384,11/12/2013 8:53,San Francisco Caltrain (Townsend at 4th),70,11/12/2013 9:00,Yerba Buena Center of the Arts (3rd @ Howard),68,459,Subscriber,94041
+92787,346,11/12/2013 8:54,San Francisco Caltrain (Townsend at 4th),70,11/12/2013 9:00,5th at Howard,57,270,Subscriber,94041
+92794,389,11/12/2013 8:56,San Francisco Caltrain 2 (330 Townsend),69,11/12/2013 9:03,Yerba Buena Center of the Arts (3rd @ Howard),68,524,Subscriber,94041
+92875,594,11/12/2013 9:19,San Jose Diridon Caltrain Station,2,11/12/2013 9:28,MLK Library,11,211,Subscriber,94041
+93005,568,11/12/2013 10:22,San Francisco Caltrain 2 (330 Townsend),69,11/12/2013 10:31,Market at 10th,67,519,Subscriber,94041
+93117,763,11/12/2013 12:13,San Jose City Hall,10,11/12/2013 12:25,Paseo de San Antonio,7,118,Subscriber,94041
+93285,1368,11/12/2013 14:41,Embarcadero at Folsom,51,11/12/2013 15:04,Golden Gate at Polk,59,560,Subscriber,94041
+93477,487,11/12/2013 16:50,Market at 10th,67,11/12/2013 16:58,San Francisco Caltrain (Townsend at 4th),70,426,Subscriber,94041
+93526,287,11/12/2013 17:04,Yerba Buena Center of the Arts (3rd @ Howard),68,11/12/2013 17:09,San Francisco Caltrain (Townsend at 4th),70,459,Subscriber,94041
+93597,629,11/12/2013 17:27,San Jose City Hall,10,11/12/2013 17:38,San Jose Diridon Caltrain Station,2,63,Subscriber,94041
+93731,359,11/12/2013 18:12,5th at Howard,57,11/12/2013 18:18,San Francisco Caltrain (Townsend at 4th),70,270,Subscriber,94041
+94011,637,11/12/2013 23:57,Golden Gate at Polk,59,11/13/2013 0:08,Embarcadero at Folsom,51,491,Subscriber,94041
+94110,550,11/13/2013 7:38,San Francisco Caltrain (Townsend at 4th),70,11/13/2013 7:47,Embarcadero at Bryant,54,416,Subscriber,94041
+94120,453,11/13/2013 7:43,Market at 4th,76,11/13/2013 7:51,South Van Ness at Market,66,492,Subscriber,94041
+94181,212,11/13/2013 8:12,Mountain View City Hall,27,11/13/2013 8:15,Mountain View Caltrain Station,28,77,Subscriber,94041
+94390,314,11/13/2013 9:26,San Francisco Caltrain 2 (330 Townsend),69,11/13/2013 9:32,Yerba Buena Center of the Arts (3rd @ Howard),68,488,Subscriber,94041
+94412,378,11/13/2013 9:35,2nd at Townsend,61,11/13/2013 9:41,Steuart at Market,74,567,Subscriber,94041
+94506,371,11/13/2013 10:43,San Francisco Caltrain (Townsend at 4th),70,11/13/2013 10:49,5th at Howard,57,290,Subscriber,94041
+94613,314,11/13/2013 12:42,San Jose City Hall,10,11/13/2013 12:47,San Salvador at 1st,8,642,Subscriber,94041
+94732,306,11/13/2013 14:52,Redwood City Caltrain Station,22,11/13/2013 14:58,Redwood City Medical Center,26,128,Subscriber,94041
+94787,578,11/13/2013 15:47,Steuart at Market,74,11/13/2013 15:57,San Francisco Caltrain (Townsend at 4th),70,441,Subscriber,94041
+94796,425,11/13/2013 15:56,Mountain View City Hall,27,11/13/2013 16:03,Mountain View Caltrain Station,28,243,Subscriber,94041
+94876,395,11/13/2013 16:40,Mountain View Caltrain Station,28,11/13/2013 16:47,Mountain View City Hall,27,81,Subscriber,94041
+94902,226,11/13/2013 16:52,Mountain View Caltrain Station,28,11/13/2013 16:56,Mountain View City Hall,27,190,Subscriber,94041
+94930,479,11/13/2013 17:02,Embarcadero at Bryant,54,11/13/2013 17:10,San Francisco Caltrain 2 (330 Townsend),69,276,Subscriber,94041
+94944,628,11/13/2013 17:05,San Francisco Caltrain (Townsend at 4th),70,11/13/2013 17:15,5th at Howard,57,390,Subscriber,94041
+95326,290,11/13/2013 21:50,Mountain View Caltrain Station,28,11/13/2013 21:55,Evelyn Park and Ride,30,243,Subscriber,94041
+95360,373,11/13/2013 22:48,Mountain View Caltrain Station,28,11/13/2013 22:54,Mountain View City Hall,27,253,Subscriber,94041
+95471,251,11/14/2013 7:41,Mountain View City Hall,27,11/14/2013 7:45,Mountain View Caltrain Station,28,689,Subscriber,94041
+95507,542,11/14/2013 7:55,Market at 4th,76,11/14/2013 8:04,South Van Ness at Market,66,503,Subscriber,94041
+95529,436,11/14/2013 8:03,San Jose Diridon Caltrain Station,2,11/14/2013 8:10,San Pedro Square,6,699,Subscriber,94041
+95701,818,11/14/2013 8:56,2nd at Townsend,61,11/14/2013 9:09,Mechanics Plaza (Market at Battery),75,312,Subscriber,94041
+95706,1353,11/14/2013 8:57,Mountain View Caltrain Station,28,11/14/2013 9:20,Mountain View Caltrain Station,28,698,Subscriber,94041
+95782,395,11/14/2013 9:22,San Francisco Caltrain (Townsend at 4th),70,11/14/2013 9:29,Yerba Buena Center of the Arts (3rd @ Howard),68,541,Subscriber,94041
+95941,664,11/14/2013 10:39,San Francisco Caltrain 2 (330 Townsend),69,11/14/2013 10:50,Market at 10th,67,443,Subscriber,94041
+95992,290,11/14/2013 11:51,Redwood City Caltrain Station,22,11/14/2013 11:56,Redwood City Medical Center,26,105,Subscriber,94041
+96034,262,11/14/2013 12:29,Market at 10th,67,11/14/2013 12:33,Powell Street BART,39,527,Subscriber,94041
+96057,1034,11/14/2013 12:45,Embarcadero at Folsom,51,11/14/2013 13:02,Golden Gate at Polk,59,371,Subscriber,94041
+96157,820,11/14/2013 13:58,MLK Library,11,11/14/2013 14:12,MLK Library,11,121,Subscriber,94041
+96240,334,11/14/2013 15:55,Yerba Buena Center of the Arts (3rd @ Howard),68,11/14/2013 16:01,San Francisco Caltrain (Townsend at 4th),70,397,Subscriber,94041
+96342,475,11/14/2013 16:41,Market at 10th,67,11/14/2013 16:48,San Francisco Caltrain (Townsend at 4th),70,575,Subscriber,94041
+96469,220,11/14/2013 17:34,Santa Clara at Almaden,4,11/14/2013 17:37,San Jose Diridon Caltrain Station,2,642,Subscriber,94041
+96609,547,11/14/2013 18:39,Spear at Folsom,49,11/14/2013 18:48,San Francisco Caltrain 2 (330 Townsend),69,448,Subscriber,94041
+96713,281,11/14/2013 20:03,Redwood City Medical Center,26,11/14/2013 20:08,Redwood City Caltrain Station,22,98,Subscriber,94041
+96748,344,11/14/2013 20:42,Mountain View Caltrain Station,28,11/14/2013 20:48,Evelyn Park and Ride,30,75,Subscriber,94041
+96794,759,11/14/2013 21:59,Powell at Post (Union Square),71,11/14/2013 22:12,San Francisco Caltrain (Townsend at 4th),70,531,Subscriber,94041
+96873,178,11/15/2013 7:16,Mountain View City Hall,27,11/15/2013 7:19,Mountain View Caltrain Station,28,698,Subscriber,94041
+96992,538,11/15/2013 8:10,Market at 4th,76,11/15/2013 8:19,South Van Ness at Market,66,510,Subscriber,94041
+97060,345,11/15/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,11/15/2013 8:52,Yerba Buena Center of the Arts (3rd @ Howard),68,259,Subscriber,94041
+97151,301,11/15/2013 9:22,San Francisco Caltrain (Townsend at 4th),70,11/15/2013 9:27,5th at Howard,57,561,Subscriber,94041
+97238,605,11/15/2013 10:01,San Jose Diridon Caltrain Station,2,11/15/2013 10:11,MLK Library,11,205,Subscriber,94041
+97310,494,11/15/2013 11:01,San Francisco Caltrain (Townsend at 4th),70,11/15/2013 11:09,Embarcadero at Bryant,54,259,Subscriber,94041
+97585,139,11/15/2013 14:16,Market at 10th,67,11/15/2013 14:18,South Van Ness at Market,66,426,Subscriber,94041
+97741,328,11/15/2013 16:17,5th at Howard,57,11/15/2013 16:22,San Francisco Caltrain (Townsend at 4th),70,278,Subscriber,94041
+97805,602,11/15/2013 16:44,Embarcadero at Folsom,51,11/15/2013 16:54,San Francisco Caltrain (Townsend at 4th),70,547,Subscriber,94041
+97848,456,11/15/2013 17:05,Yerba Buena Center of the Arts (3rd @ Howard),68,11/15/2013 17:12,San Francisco Caltrain 2 (330 Townsend),69,382,Subscriber,94041
+98053,341,11/15/2013 18:51,Mountain View Caltrain Station,28,11/15/2013 18:57,Evelyn Park and Ride,30,103,Subscriber,94041
+98340,261,11/16/2013 10:46,Cowper at University,37,11/16/2013 10:50,University and Emerson,35,301,Subscriber,94041
+98534,312,11/16/2013 14:30,MLK Library,11,11/16/2013 14:36,Adobe on Almaden,5,82,Subscriber,94041
+99033,434,11/17/2013 12:13,Mountain View City Hall,27,11/17/2013 12:21,Mountain View Caltrain Station,28,717,Subscriber,94041
+99562,522,11/18/2013 7:45,Market at 4th,76,11/18/2013 7:54,South Van Ness at Market,66,477,Subscriber,94041
+99715,362,11/18/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,11/18/2013 8:52,Yerba Buena Center of the Arts (3rd @ Howard),68,489,Subscriber,94041
+99769,784,11/18/2013 8:59,San Francisco Caltrain (Townsend at 4th),70,11/18/2013 9:12,Harry Bridges Plaza (Ferry Building),50,556,Subscriber,94041
+99787,1036,11/18/2013 9:04,San Jose Diridon Caltrain Station,2,11/18/2013 9:21,SJSU 4th at San Carlos,12,133,Subscriber,94041
+99821,1383,11/18/2013 9:17,San Jose Diridon Caltrain Station,2,11/18/2013 9:40,San Jose City Hall,10,642,Subscriber,94041
+100123,1195,11/18/2013 13:38,San Jose City Hall,10,11/18/2013 13:58,San Jose Diridon Caltrain Station,2,642,Subscriber,94041
+100128,472,11/18/2013 13:46,Yerba Buena Center of the Arts (3rd @ Howard),68,11/18/2013 13:53,San Francisco Caltrain (Townsend at 4th),70,489,Subscriber,94041
+100136,456,11/18/2013 14:02,San Jose Diridon Caltrain Station,2,11/18/2013 14:10,Adobe on Almaden,5,137,Subscriber,94041
+100253,812,11/18/2013 16:27,South Van Ness at Market,66,11/18/2013 16:41,Mechanics Plaza (Market at Battery),75,608,Subscriber,94041
+100285,370,11/18/2013 16:47,Mountain View Caltrain Station,28,11/18/2013 16:53,Mountain View City Hall,27,110,Subscriber,94041
+100359,735,11/18/2013 17:11,Mechanics Plaza (Market at Battery),75,11/18/2013 17:23,South Van Ness at Market,66,371,Subscriber,94041
+100459,512,11/18/2013 18:00,Yerba Buena Center of the Arts (3rd @ Howard),68,11/18/2013 18:09,San Francisco Caltrain (Townsend at 4th),70,560,Subscriber,94041
+100586,460,11/18/2013 19:15,San Jose City Hall,10,11/18/2013 19:23,San Jose Diridon Caltrain Station,2,196,Subscriber,94041
+100662,858,11/18/2013 20:37,Harry Bridges Plaza (Ferry Building),50,11/18/2013 20:51,San Francisco Caltrain (Townsend at 4th),70,611,Subscriber,94041
+101223,682,11/19/2013 10:05,San Francisco Caltrain (Townsend at 4th),70,11/19/2013 10:16,Market at 10th,67,420,Subscriber,94041
+101447,660,11/19/2013 16:03,San Jose Diridon Caltrain Station,2,11/19/2013 16:14,MLK Library,11,193,Subscriber,94041
+101509,491,11/19/2013 16:50,Market at 10th,67,11/19/2013 16:59,San Francisco Caltrain (Townsend at 4th),70,420,Subscriber,94041
+101733,638,11/19/2013 20:08,MLK Library,11,11/19/2013 20:18,San Jose Diridon Caltrain Station,2,660,Subscriber,94041
+101823,493,11/20/2013 7:51,Market at 4th,76,11/20/2013 7:59,South Van Ness at Market,66,489,Subscriber,94041
+101889,355,11/20/2013 8:50,San Francisco Caltrain (Townsend at 4th),70,11/20/2013 8:56,Yerba Buena Center of the Arts (3rd @ Howard),68,324,Subscriber,94041
+101917,792,11/20/2013 9:03,San Francisco Caltrain (Townsend at 4th),70,11/20/2013 9:16,Harry Bridges Plaza (Ferry Building),50,416,Subscriber,94041
+102364,419,11/20/2013 18:00,Yerba Buena Center of the Arts (3rd @ Howard),68,11/20/2013 18:07,San Francisco Caltrain (Townsend at 4th),70,458,Subscriber,94041
+102732,542,11/21/2013 7:48,Market at 4th,76,11/21/2013 7:57,South Van Ness at Market,66,369,Subscriber,94041
+103066,631,11/21/2013 10:09,San Francisco Caltrain (Townsend at 4th),70,11/21/2013 10:19,Steuart at Market,74,378,Subscriber,94041
+103132,700,11/21/2013 10:59,Steuart at Market,74,11/21/2013 11:10,Market at 10th,67,378,Subscriber,94041
+103533,527,11/21/2013 16:39,Market at 10th,67,11/21/2013 16:48,San Francisco Caltrain (Townsend at 4th),70,386,Subscriber,94041
+103697,277,11/21/2013 17:47,5th at Howard,57,11/21/2013 17:52,San Francisco Caltrain (Townsend at 4th),70,519,Subscriber,94041
+103711,447,11/21/2013 17:54,Yerba Buena Center of the Arts (3rd @ Howard),68,11/21/2013 18:02,San Francisco Caltrain (Townsend at 4th),70,539,Subscriber,94041
+103721,394,11/21/2013 17:58,Mountain View Caltrain Station,28,11/21/2013 18:04,Mountain View City Hall,27,243,Subscriber,94041
+104188,540,11/22/2013 8:11,Market at 4th,76,11/22/2013 8:20,South Van Ness at Market,66,450,Subscriber,94041
+104197,261,11/22/2013 8:18,Mountain View City Hall,27,11/22/2013 8:23,Mountain View Caltrain Station,28,243,Subscriber,94041
+104203,762,11/22/2013 8:20,San Francisco Caltrain 2 (330 Townsend),69,11/22/2013 8:32,Market at 10th,67,273,Subscriber,94041
+104259,324,11/22/2013 8:44,San Francisco Caltrain (Townsend at 4th),70,11/22/2013 8:49,Yerba Buena Center of the Arts (3rd @ Howard),68,438,Subscriber,94041
+104941,563,11/22/2013 16:45,Market at 10th,67,11/22/2013 16:55,San Francisco Caltrain (Townsend at 4th),70,614,Subscriber,94041
+104960,430,11/22/2013 16:56,Yerba Buena Center of the Arts (3rd @ Howard),68,11/22/2013 17:03,San Francisco Caltrain (Townsend at 4th),70,425,Subscriber,94041
+105010,485,11/22/2013 17:15,San Jose City Hall,10,11/22/2013 17:23,MLK Library,11,40,Subscriber,94041
+105547,350,11/23/2013 10:58,Mountain View Caltrain Station,28,11/23/2013 11:04,Mountain View City Hall,27,52,Subscriber,94041
+105551,342,11/23/2013 11:01,Spear at Folsom,49,11/23/2013 11:07,Harry Bridges Plaza (Ferry Building),50,284,Subscriber,94041
+105858,762,11/23/2013 15:37,San Francisco Caltrain (Townsend at 4th),70,11/23/2013 15:50,Market at 4th,76,600,Subscriber,94041
+106644,552,11/25/2013 7:47,Market at 4th,76,11/25/2013 7:56,South Van Ness at Market,66,500,Subscriber,94041
+106790,355,11/25/2013 8:48,San Francisco Caltrain 2 (330 Townsend),69,11/25/2013 8:54,Yerba Buena Center of the Arts (3rd @ Howard),68,501,Subscriber,94041
+106828,1138,11/25/2013 9:00,San Francisco Caltrain (Townsend at 4th),70,11/25/2013 9:19,Beale at Market,56,562,Subscriber,94041
+106936,390,11/25/2013 9:47,5th at Howard,57,11/25/2013 9:53,Market at 4th,76,399,Subscriber,94041
+106983,466,11/25/2013 10:21,Townsend at 7th,65,11/25/2013 10:28,Market at 10th,67,487,Subscriber,94041
+107157,688,11/25/2013 12:51,Market at 4th,76,11/25/2013 13:02,San Francisco Caltrain (Townsend at 4th),70,416,Subscriber,94041
+107172,1042,11/25/2013 13:06,San Jose City Hall,10,11/25/2013 13:23,Adobe on Almaden,5,20,Subscriber,94041
+107274,293,11/25/2013 15:03,Yerba Buena Center of the Arts (3rd @ Howard),68,11/25/2013 15:07,San Francisco Caltrain (Townsend at 4th),70,501,Subscriber,94041
+107465,480,11/25/2013 16:51,Market at 10th,67,11/25/2013 16:59,San Francisco Caltrain (Townsend at 4th),70,395,Subscriber,94041
+107583,834,11/25/2013 17:30,Beale at Market,56,11/25/2013 17:44,San Francisco Caltrain (Townsend at 4th),70,519,Subscriber,94041
+107769,357,11/25/2013 18:55,Mountain View Caltrain Station,28,11/25/2013 19:01,Mountain View City Hall,27,27,Subscriber,94041
+108092,1062,11/26/2013 8:02,San Jose Diridon Caltrain Station,2,11/26/2013 8:20,San Pedro Square,6,239,Subscriber,94041
+108125,1082,11/26/2013 8:20,San Francisco Caltrain (Townsend at 4th),70,11/26/2013 8:38,Beale at Market,56,439,Subscriber,94041
+108405,581,11/26/2013 10:10,San Francisco Caltrain 2 (330 Townsend),69,11/26/2013 10:20,Market at 10th,67,283,Subscriber,94041
+108519,309,11/26/2013 11:51,Redwood City Caltrain Station,22,11/26/2013 11:57,Redwood City Medical Center,26,128,Subscriber,94041
+108620,773,11/26/2013 13:25,San Jose City Hall,10,11/26/2013 13:38,Adobe on Almaden,5,142,Subscriber,94041
+108836,491,11/26/2013 16:45,Market at 10th,67,11/26/2013 16:53,San Francisco Caltrain 2 (330 Townsend),69,584,Subscriber,94041
+108869,539,11/26/2013 16:59,Embarcadero at Bryant,54,11/26/2013 17:08,San Francisco Caltrain 2 (330 Townsend),69,390,Subscriber,94041
+108888,305,11/26/2013 17:06,Yerba Buena Center of the Arts (3rd @ Howard),68,11/26/2013 17:11,San Francisco Caltrain 2 (330 Townsend),69,500,Subscriber,94041
+108941,242,11/26/2013 17:35,Santa Clara at Almaden,4,11/26/2013 17:39,San Jose Diridon Caltrain Station,2,61,Subscriber,94041
+108988,777,11/26/2013 17:51,Beale at Market,56,11/26/2013 18:04,2nd at Townsend,61,445,Subscriber,94041
+108996,358,11/26/2013 17:55,Mountain View Caltrain Station,28,11/26/2013 18:01,Mountain View City Hall,27,177,Subscriber,94041
+109054,380,11/26/2013 18:19,Redwood City Medical Center,26,11/26/2013 18:25,Redwood City Caltrain Station,22,188,Subscriber,94041
+109377,461,11/27/2013 8:15,Market at 4th,76,11/27/2013 8:22,South Van Ness at Market,66,491,Subscriber,94041
+109464,369,11/27/2013 8:57,San Francisco Caltrain (Townsend at 4th),70,11/27/2013 9:04,Yerba Buena Center of the Arts (3rd @ Howard),68,547,Subscriber,94041
+109686,505,11/27/2013 12:38,Beale at Market,56,11/27/2013 12:46,2nd at Townsend,61,282,Subscriber,94041
+109836,284,11/27/2013 14:55,Yerba Buena Center of the Arts (3rd @ Howard),68,11/27/2013 15:00,San Francisco Caltrain (Townsend at 4th),70,547,Subscriber,94041
+109954,227,11/27/2013 16:40,Evelyn Park and Ride,30,11/27/2013 16:44,Mountain View Caltrain Station,28,136,Subscriber,94041
+110110,730,11/27/2013 18:35,Powell Street BART,39,11/27/2013 18:47,San Francisco City Hall,58,400,Customer,94041
+110208,270,11/28/2013 1:09,Mountain View Caltrain Station,28,11/28/2013 1:14,Evelyn Park and Ride,30,191,Subscriber,94041
+110231,786,11/28/2013 8:49,Mountain View City Hall,27,11/28/2013 9:02,Mountain View Caltrain Station,28,44,Subscriber,94041
+110414,82583,11/28/2013 15:06,Rengstorff Avenue / California Street,33,11/29/2013 14:03,Mountain View City Hall,27,223,Customer,94041
+110519,1536,11/28/2013 21:29,Embarcadero at Folsom,51,11/28/2013 21:55,Embarcadero at Folsom,51,374,Subscriber,94041
+110767,1410,11/29/2013 13:11,Market at 4th,76,11/29/2013 13:34,San Francisco Caltrain (Townsend at 4th),70,284,Subscriber,94041
+110777,2699,11/29/2013 13:35,Mountain View City Hall,27,11/29/2013 14:20,Mountain View Caltrain Station,28,715,Customer,94041
+110857,76498,11/29/2013 15:00,Mountain View Caltrain Station,28,11/30/2013 12:15,Mountain View Caltrain Station,28,160,Customer,94041
+110858,73905,11/29/2013 15:01,Mountain View Caltrain Station,28,11/30/2013 11:33,Mountain View Caltrain Station,28,308,Customer,94041
+110860,76322,11/29/2013 15:05,Mountain View Caltrain Station,28,11/30/2013 12:17,Mountain View Caltrain Station,28,44,Customer,94041
+111029,544,11/29/2013 19:00,Embarcadero at Folsom,51,11/29/2013 19:09,Embarcadero at Folsom,51,597,Subscriber,94041
+111314,657,11/30/2013 13:32,Embarcadero at Folsom,51,11/30/2013 13:43,Powell at Post (Union Square),71,383,Subscriber,94041
+111488,583,11/30/2013 19:59,Powell at Post (Union Square),71,11/30/2013 20:09,Embarcadero at Folsom,51,625,Subscriber,94041
+111514,231,12/1/2013 2:59,Embarcadero at Folsom,51,12/1/2013 3:03,Embarcadero at Folsom,51,635,Subscriber,94041
+112028,182,12/2/2013 7:14,Mountain View City Hall,27,12/2/2013 7:17,Mountain View Caltrain Station,28,55,Subscriber,94041
+112118,530,12/2/2013 8:07,Market at 4th,76,12/2/2013 8:16,South Van Ness at Market,66,471,Subscriber,94041
+112235,318,12/2/2013 8:52,San Francisco Caltrain 2 (330 Townsend),69,12/2/2013 8:57,5th at Howard,57,443,Subscriber,94041
+112338,519,12/2/2013 9:27,San Jose Diridon Caltrain Station,2,12/2/2013 9:35,MLK Library,11,130,Subscriber,94041
+112398,661,12/2/2013 10:10,San Francisco Caltrain 2 (330 Townsend),69,12/2/2013 10:21,Market at 10th,67,509,Subscriber,94041
+112461,354,12/2/2013 11:15,Mountain View Caltrain Station,28,12/2/2013 11:21,Mountain View City Hall,27,78,Subscriber,94041
+112645,249,12/2/2013 15:38,Mountain View Caltrain Station,28,12/2/2013 15:43,Mountain View City Hall,27,102,Subscriber,94041
+112761,439,12/2/2013 16:51,Market at 10th,67,12/2/2013 16:58,San Francisco Caltrain (Townsend at 4th),70,454,Subscriber,94041
+112797,3724,12/2/2013 17:01,Mountain View Caltrain Station,28,12/2/2013 18:03,Mountain View Caltrain Station,28,648,Customer,94041
+112872,287,12/2/2013 17:27,Beale at Market,56,12/2/2013 17:31,Embarcadero at Folsom,51,331,Subscriber,94041
+112937,411,12/2/2013 18:01,Market at Sansome,77,12/2/2013 18:08,Embarcadero at Folsom,51,312,Subscriber,94041
+112942,280,12/2/2013 18:04,Yerba Buena Center of the Arts (3rd @ Howard),68,12/2/2013 18:09,San Francisco Caltrain (Townsend at 4th),70,622,Subscriber,94041
+112996,563,12/2/2013 18:38,Embarcadero at Folsom,51,12/2/2013 18:47,San Francisco Caltrain (Townsend at 4th),70,331,Subscriber,94041
+113217,170,12/3/2013 7:19,Mountain View City Hall,27,12/3/2013 7:22,Mountain View Caltrain Station,28,243,Subscriber,94041
+113414,318,12/3/2013 8:43,San Francisco Caltrain 2 (330 Townsend),69,12/3/2013 8:48,Yerba Buena Center of the Arts (3rd @ Howard),68,314,Subscriber,94041
+113545,369,12/3/2013 9:30,San Francisco Caltrain (Townsend at 4th),70,12/3/2013 9:36,5th at Howard,57,392,Subscriber,94041
+113617,682,12/3/2013 10:08,San Francisco Caltrain 2 (330 Townsend),69,12/3/2013 10:20,Market at 10th,67,527,Subscriber,94041
+113945,223,12/3/2013 16:36,Mountain View Caltrain Station,28,12/3/2013 16:40,Mountain View City Hall,27,129,Subscriber,94041
+113962,493,12/3/2013 16:40,Market at 10th,67,12/3/2013 16:48,San Francisco Caltrain (Townsend at 4th),70,527,Subscriber,94041
+114135,239,12/3/2013 17:53,Beale at Market,56,12/3/2013 17:57,Embarcadero at Folsom,51,421,Subscriber,94041
+114152,318,12/3/2013 18:01,5th at Howard,57,12/3/2013 18:06,San Francisco Caltrain (Townsend at 4th),70,337,Subscriber,94041
+114159,313,12/3/2013 18:04,Yerba Buena Center of the Arts (3rd @ Howard),68,12/3/2013 18:09,San Francisco Caltrain (Townsend at 4th),70,352,Subscriber,94041
+114222,786,12/3/2013 18:36,Embarcadero at Folsom,51,12/3/2013 18:49,San Francisco Caltrain (Townsend at 4th),70,421,Subscriber,94041
+114252,394,12/3/2013 18:54,Mountain View Caltrain Station,28,12/3/2013 19:00,Mountain View City Hall,27,698,Subscriber,94041
+114586,488,12/4/2013 8:05,Market at 4th,76,12/4/2013 8:13,South Van Ness at Market,66,315,Subscriber,94041
+114688,383,12/4/2013 8:45,San Francisco Caltrain (Townsend at 4th),70,12/4/2013 8:52,Yerba Buena Center of the Arts (3rd @ Howard),68,523,Subscriber,94041
+114738,415,12/4/2013 9:03,San Francisco Caltrain (Townsend at 4th),70,12/4/2013 9:10,5th at Howard,57,287,Subscriber,94041
+115446,272,12/4/2013 18:03,Yerba Buena Center of the Arts (3rd @ Howard),68,12/4/2013 18:07,San Francisco Caltrain (Townsend at 4th),70,523,Subscriber,94041
+115496,283,12/4/2013 18:26,5th at Howard,57,12/4/2013 18:31,San Francisco Caltrain (Townsend at 4th),70,406,Subscriber,94041
+115537,418,12/4/2013 18:47,5th at Howard,57,12/4/2013 18:54,San Francisco Caltrain (Townsend at 4th),70,574,Subscriber,94041
+115771,260,12/4/2013 22:33,Clay at Battery,41,12/4/2013 22:37,Clay at Battery,41,327,Subscriber,94041
+115782,311,12/5/2013 0:11,Clay at Battery,41,12/5/2013 0:17,Embarcadero at Folsom,51,327,Subscriber,94041
+115783,462,12/5/2013 0:25,Embarcadero at Folsom,51,12/5/2013 0:33,Embarcadero at Folsom,51,434,Subscriber,94041
+115910,516,12/5/2013 7:54,Market at 4th,76,12/5/2013 8:02,South Van Ness at Market,66,538,Subscriber,94041
+116048,307,12/5/2013 8:45,San Francisco Caltrain (Townsend at 4th),70,12/5/2013 8:50,Yerba Buena Center of the Arts (3rd @ Howard),68,399,Subscriber,94041
+116050,343,12/5/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,12/5/2013 8:52,5th at Howard,57,459,Subscriber,94041
+116055,1041,12/5/2013 8:47,San Francisco Caltrain (Townsend at 4th),70,12/5/2013 9:04,Mechanics Plaza (Market at Battery),75,291,Subscriber,94041
+116367,682,12/5/2013 12:12,Mountain View City Hall,27,12/5/2013 12:23,Mountain View Caltrain Station,28,16,Subscriber,94041
+116730,268,12/5/2013 17:25,Beale at Market,56,12/5/2013 17:30,Embarcadero at Folsom,51,376,Subscriber,94041
+116867,327,12/5/2013 18:20,5th at Howard,57,12/5/2013 18:25,San Francisco Caltrain (Townsend at 4th),70,402,Subscriber,94041
+116896,687,12/5/2013 18:38,Embarcadero at Folsom,51,12/5/2013 18:49,San Francisco Caltrain (Townsend at 4th),70,547,Subscriber,94041
+117189,554,12/6/2013 8:13,Market at 4th,76,12/6/2013 8:22,South Van Ness at Market,66,371,Subscriber,94041
+117281,338,12/6/2013 8:49,San Francisco Caltrain (Townsend at 4th),70,12/6/2013 8:55,Yerba Buena Center of the Arts (3rd @ Howard),68,369,Subscriber,94041
+118473,308,12/7/2013 19:54,Commercial at Montgomery,45,12/7/2013 19:59,Market at 4th,76,355,Subscriber,94041
+118562,419,12/8/2013 9:58,Mountain View City Hall,27,12/8/2013 10:05,Mountain View Caltrain Station,28,686,Subscriber,94041
+118714,941,12/8/2013 14:36,San Francisco Caltrain 2 (330 Townsend),69,12/8/2013 14:51,Powell at Post (Union Square),71,608,Subscriber,94041
+118715,905,12/8/2013 14:36,San Francisco Caltrain 2 (330 Townsend),69,12/8/2013 14:51,Powell at Post (Union Square),71,438,Subscriber,94041
+118747,339,12/8/2013 15:32,Powell at Post (Union Square),71,12/8/2013 15:37,Market at 4th,76,520,Subscriber,94041
+119012,523,12/9/2013 8:10,Market at 4th,76,12/9/2013 8:19,South Van Ness at Market,66,318,Subscriber,94041
+119019,317,12/9/2013 8:14,Mountain View City Hall,27,12/9/2013 8:20,Mountain View Caltrain Station,28,206,Subscriber,94041
+119102,365,12/9/2013 8:50,San Francisco Caltrain (Townsend at 4th),70,12/9/2013 8:56,5th at Howard,57,368,Subscriber,94041
+119370,551,12/9/2013 11:43,Yerba Buena Center of the Arts (3rd @ Howard),68,12/9/2013 11:52,Harry Bridges Plaza (Ferry Building),50,420,Subscriber,94041
+119427,541,12/9/2013 13:15,Steuart at Market,74,12/9/2013 13:24,Market at 4th,76,292,Subscriber,94041
+119435,1312,12/9/2013 13:23,MLK Library,11,12/9/2013 13:45,Adobe on Almaden,5,640,Subscriber,94041
+119706,291,12/9/2013 17:21,Beale at Market,56,12/9/2013 17:26,Embarcadero at Folsom,51,377,Subscriber,94041
+119785,371,12/9/2013 17:59,Mountain View Caltrain Station,28,12/9/2013 18:05,Mountain View City Hall,27,206,Subscriber,94041
+119867,546,12/9/2013 18:42,Embarcadero at Folsom,51,12/9/2013 18:51,San Francisco Caltrain 2 (330 Townsend),69,525,Subscriber,94041
+119875,364,12/9/2013 18:45,5th at Howard,57,12/9/2013 18:51,San Francisco Caltrain 2 (330 Townsend),69,505,Subscriber,94041
+119975,338,12/9/2013 20:31,Yerba Buena Center of the Arts (3rd @ Howard),68,12/9/2013 20:36,San Francisco Caltrain (Townsend at 4th),70,370,Subscriber,94041
+120233,364,12/10/2013 8:09,San Francisco Caltrain (Townsend at 4th),70,12/10/2013 8:16,Yerba Buena Center of the Arts (3rd @ Howard),68,341,Subscriber,94041
+120537,533,12/10/2013 10:43,San Francisco Caltrain 2 (330 Townsend),69,12/10/2013 10:52,Market at 10th,67,601,Subscriber,94041
+120893,515,12/10/2013 16:49,Market at 10th,67,12/10/2013 16:58,San Francisco Caltrain (Townsend at 4th),70,464,Subscriber,94041
+120916,280,12/10/2013 17:00,Embarcadero at Bryant,54,12/10/2013 17:04,San Francisco Caltrain 2 (330 Townsend),69,275,Subscriber,94041
+120958,358,12/10/2013 17:20,Beale at Market,56,12/10/2013 17:26,Embarcadero at Folsom,51,515,Subscriber,94041
+121024,387,12/10/2013 17:56,Yerba Buena Center of the Arts (3rd @ Howard),68,12/10/2013 18:02,Powell at Post (Union Square),71,447,Subscriber,94041
+121067,568,12/10/2013 18:12,Powell at Post (Union Square),71,12/10/2013 18:21,San Francisco Caltrain 2 (330 Townsend),69,282,Subscriber,94041
+121117,594,12/10/2013 18:39,Embarcadero at Folsom,51,12/10/2013 18:48,San Francisco Caltrain (Townsend at 4th),70,363,Subscriber,94041
+121459,503,12/11/2013 8:03,Market at 4th,76,12/11/2013 8:12,South Van Ness at Market,66,327,Subscriber,94041
+121481,287,12/11/2013 8:14,Mountain View City Hall,27,12/11/2013 8:19,Mountain View Caltrain Station,28,15,Subscriber,94041
+121518,738,12/11/2013 8:30,San Jose Diridon Caltrain Station,2,12/11/2013 8:43,SJSU 4th at San Carlos,12,226,Subscriber,94041
+121553,502,12/11/2013 8:44,San Francisco Caltrain (Townsend at 4th),70,12/11/2013 8:52,Embarcadero at Bryant,54,591,Subscriber,94041
+121868,1159,12/11/2013 12:24,San Jose City Hall,10,12/11/2013 12:43,Adobe on Almaden,5,175,Subscriber,94041
+122051,680,12/11/2013 15:49,MLK Library,11,12/11/2013 16:01,San Jose Diridon Caltrain Station,2,65,Subscriber,94041
+122286,342,12/11/2013 17:56,Embarcadero at Bryant,54,12/11/2013 18:01,San Francisco Caltrain (Townsend at 4th),70,292,Subscriber,94041
+122307,308,12/11/2013 18:04,Yerba Buena Center of the Arts (3rd @ Howard),68,12/11/2013 18:09,San Francisco Caltrain (Townsend at 4th),70,266,Subscriber,94041
+122527,260,12/11/2013 22:05,Mountain View Caltrain Station,28,12/11/2013 22:09,Evelyn Park and Ride,30,98,Subscriber,94041
+122597,184,12/12/2013 7:03,Mountain View City Hall,27,12/12/2013 7:06,Mountain View Caltrain Station,28,59,Subscriber,94041
+122779,521,12/12/2013 8:26,Market at 4th,76,12/12/2013 8:35,South Van Ness at Market,66,482,Subscriber,94041
+122830,612,12/12/2013 8:50,San Francisco Caltrain 2 (330 Townsend),69,12/12/2013 9:01,Spear at Folsom,49,320,Subscriber,94041
+123025,671,12/12/2013 10:07,San Francisco Caltrain 2 (330 Townsend),69,12/12/2013 10:19,Market at 10th,67,488,Subscriber,94041
+123450,499,12/12/2013 16:40,Market at 10th,67,12/12/2013 16:48,San Francisco Caltrain (Townsend at 4th),70,488,Subscriber,94041
+123637,383,12/12/2013 17:55,Mountain View Caltrain Station,28,12/12/2013 18:01,Mountain View City Hall,27,55,Subscriber,94041
+123642,344,12/12/2013 17:56,Yerba Buena Center of the Arts (3rd @ Howard),68,12/12/2013 18:02,San Francisco Caltrain (Townsend at 4th),70,506,Subscriber,94041
+123660,648,12/12/2013 18:09,Spear at Folsom,49,12/12/2013 18:20,San Francisco Caltrain 2 (330 Townsend),69,425,Subscriber,94041
+124018,187,12/13/2013 7:56,Mountain View City Hall,27,12/13/2013 8:00,Mountain View Caltrain Station,28,55,Subscriber,94041
+124233,371,12/13/2013 9:18,San Francisco Caltrain (Townsend at 4th),70,12/13/2013 9:25,Yerba Buena Center of the Arts (3rd @ Howard),68,343,Subscriber,94041
+124325,601,12/13/2013 10:14,San Francisco Caltrain (Townsend at 4th),70,12/13/2013 10:24,Market at 10th,67,310,Subscriber,94041
+124571,374,12/13/2013 13:27,Yerba Buena Center of the Arts (3rd @ Howard),68,12/13/2013 13:33,Civic Center BART (7th at Market),72,504,Subscriber,94041
+124623,189,12/13/2013 14:00,Powell Street BART,39,12/13/2013 14:03,Market at 4th,76,401,Subscriber,94041
+124758,486,12/13/2013 15:54,Market at 10th,67,12/13/2013 16:02,San Francisco Caltrain (Townsend at 4th),70,310,Subscriber,94041
+124896,455,12/13/2013 17:01,Yerba Buena Center of the Arts (3rd @ Howard),68,12/13/2013 17:08,San Francisco Caltrain (Townsend at 4th),70,317,Subscriber,94041
+124900,424,12/13/2013 17:02,Yerba Buena Center of the Arts (3rd @ Howard),68,12/13/2013 17:09,San Francisco Caltrain (Townsend at 4th),70,332,Subscriber,94041
+124958,1131,12/13/2013 17:29,San Jose Diridon Caltrain Station,2,12/13/2013 17:48,MLK Library,11,99,Subscriber,94041
+124962,273,12/13/2013 17:31,Beale at Market,56,12/13/2013 17:36,Embarcadero at Folsom,51,388,Subscriber,94041
+125020,174,12/13/2013 17:56,MLK Library,11,12/13/2013 17:59,Paseo de San Antonio,7,99,Subscriber,94041
+125021,205,12/13/2013 17:56,MLK Library,11,12/13/2013 17:59,Paseo de San Antonio,7,651,Subscriber,94041
+125025,242,12/13/2013 17:57,Mountain View Caltrain Station,28,12/13/2013 18:01,Mountain View City Hall,27,693,Subscriber,94041
+125091,718,12/13/2013 18:36,Embarcadero at Folsom,51,12/13/2013 18:48,San Francisco Caltrain 2 (330 Townsend),69,368,Subscriber,94041
+125215,389,12/13/2013 20:17,San Pedro Square,6,12/13/2013 20:23,San Jose Diridon Caltrain Station,2,704,Subscriber,94041
+125216,364,12/13/2013 20:17,San Pedro Square,6,12/13/2013 20:23,San Jose Diridon Caltrain Station,2,127,Subscriber,94041
+126028,297,12/15/2013 10:38,Mountain View City Hall,27,12/15/2013 10:43,Mountain View Caltrain Station,28,713,Subscriber,94041
+126167,383,12/15/2013 13:51,San Jose Diridon Caltrain Station,2,12/15/2013 13:57,Santa Clara at Almaden,4,152,Subscriber,94041
+126208,664,12/15/2013 14:53,Mountain View City Hall,27,12/15/2013 15:04,Rengstorff Avenue / California Street,33,223,Subscriber,94041
+126258,531,12/15/2013 15:48,San Jose Civic Center,3,12/15/2013 15:57,San Jose Diridon Caltrain Station,2,187,Subscriber,94041
+126281,929,12/15/2013 16:33,San Antonio Caltrain Station,29,12/15/2013 16:48,Mountain View City Hall,27,692,Subscriber,94041
+126613,501,12/16/2013 8:00,Market at 4th,76,12/16/2013 8:08,South Van Ness at Market,66,363,Subscriber,94041
+126729,324,12/16/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,12/16/2013 8:52,Yerba Buena Center of the Arts (3rd @ Howard),68,340,Subscriber,94041
+126731,887,12/16/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,12/16/2013 9:01,Beale at Market,56,538,Subscriber,94041
+126738,476,12/16/2013 8:48,San Francisco Caltrain (Townsend at 4th),70,12/16/2013 8:56,Embarcadero at Bryant,54,451,Subscriber,94041
+126824,304,12/16/2013 9:24,San Francisco Caltrain (Townsend at 4th),70,12/16/2013 9:29,5th at Howard,57,288,Subscriber,94041
+126936,652,12/16/2013 10:49,San Francisco Caltrain 2 (330 Townsend),69,12/16/2013 11:00,Market at 10th,67,549,Subscriber,94041
+127059,269,12/16/2013 13:00,Market at 10th,67,12/16/2013 13:04,Powell Street BART,39,457,Subscriber,94041
+127069,268,12/16/2013 13:07,San Jose City Hall,10,12/16/2013 13:12,Adobe on Almaden,5,186,Subscriber,94041
+127111,714,12/16/2013 14:16,Harry Bridges Plaza (Ferry Building),50,12/16/2013 14:28,San Francisco Caltrain (Townsend at 4th),70,458,Subscriber,94041
+127127,312,12/16/2013 14:34,Yerba Buena Center of the Arts (3rd @ Howard),68,12/16/2013 14:39,San Francisco Caltrain (Townsend at 4th),70,340,Subscriber,94041
+127292,491,12/16/2013 16:47,Market at 10th,67,12/16/2013 16:55,San Francisco Caltrain (Townsend at 4th),70,549,Subscriber,94041
+127322,279,12/16/2013 16:58,Embarcadero at Bryant,54,12/16/2013 17:02,San Francisco Caltrain 2 (330 Townsend),69,535,Subscriber,94041
+127470,458,12/16/2013 17:54,Beale at Market,56,12/16/2013 18:01,2nd at Townsend,61,459,Subscriber,94041
+127492,287,12/16/2013 18:02,Yerba Buena Center of the Arts (3rd @ Howard),68,12/16/2013 18:07,San Francisco Caltrain (Townsend at 4th),70,340,Subscriber,94041
+127559,356,12/16/2013 18:37,5th at Howard,57,12/16/2013 18:43,San Francisco Caltrain (Townsend at 4th),70,310,Subscriber,94041
+127993,307,12/17/2013 8:14,Mountain View City Hall,27,12/17/2013 8:20,Mountain View Caltrain Station,28,675,Subscriber,94041
+128012,477,12/17/2013 8:21,Market at 4th,76,12/17/2013 8:29,South Van Ness at Market,66,324,Subscriber,94041
+128086,1025,12/17/2013 8:46,San Francisco Caltrain (Townsend at 4th),70,12/17/2013 9:03,Beale at Market,56,430,Subscriber,94041
+128099,436,12/17/2013 8:49,San Francisco Caltrain (Townsend at 4th),70,12/17/2013 8:56,Embarcadero at Bryant,54,357,Subscriber,94041
+128298,570,12/17/2013 10:42,San Francisco Caltrain (Townsend at 4th),70,12/17/2013 10:51,Market at 10th,67,614,Subscriber,94041
+128736,317,12/17/2013 16:57,Embarcadero at Bryant,54,12/17/2013 17:02,San Francisco Caltrain 2 (330 Townsend),69,381,Subscriber,94041
+128756,490,12/17/2013 17:03,Market at 10th,67,12/17/2013 17:11,San Francisco Caltrain (Townsend at 4th),70,349,Subscriber,94041
+128821,304,12/17/2013 17:25,Beale at Market,56,12/17/2013 17:30,Embarcadero at Folsom,51,569,Subscriber,94041
+128947,493,12/17/2013 18:33,Embarcadero at Folsom,51,12/17/2013 18:42,2nd at Townsend,61,430,Subscriber,94041
+129298,491,12/18/2013 7:59,Market at 4th,76,12/18/2013 8:07,South Van Ness at Market,66,515,Subscriber,94041
+129334,251,12/18/2013 8:11,Mountain View City Hall,27,12/18/2013 8:16,Mountain View Caltrain Station,28,675,Subscriber,94041
+129412,386,12/18/2013 8:46,San Francisco Caltrain 2 (330 Townsend),69,12/18/2013 8:52,5th at Howard,57,464,Subscriber,94041
+129413,471,12/18/2013 8:46,San Francisco Caltrain 2 (330 Townsend),69,12/18/2013 8:54,Embarcadero at Bryant,54,369,Subscriber,94041
+129504,619322,12/18/2013 9:16,San Jose Diridon Caltrain Station,2,12/25/2013 13:18,SJSU 4th at San Carlos,12,653,Subscriber,94041
+129539,859,12/18/2013 9:30,San Jose Diridon Caltrain Station,2,12/18/2013 9:44,San Jose City Hall,10,175,Subscriber,94041
+129965,721,12/18/2013 15:44,Beale at Market,56,12/18/2013 15:56,San Francisco Caltrain (Townsend at 4th),70,400,Subscriber,94041
+130065,394,12/18/2013 16:58,Embarcadero at Bryant,54,12/18/2013 17:04,San Francisco Caltrain 2 (330 Townsend),69,309,Subscriber,94041
+130827,676,12/19/2013 10:09,San Francisco Caltrain (Townsend at 4th),70,12/19/2013 10:20,Market at 10th,67,523,Subscriber,94041
+131273,439,12/19/2013 16:45,Market at 10th,67,12/19/2013 16:52,San Francisco Caltrain (Townsend at 4th),70,265,Subscriber,94041
+131293,442,12/19/2013 16:55,Embarcadero at Bryant,54,12/19/2013 17:03,San Francisco Caltrain 2 (330 Townsend),69,290,Subscriber,94041
+131430,294,12/19/2013 17:55,Yerba Buena Center of the Arts (3rd @ Howard),68,12/19/2013 18:00,San Francisco Caltrain (Townsend at 4th),70,383,Subscriber,94041
+131536,334,12/19/2013 18:51,Mountain View Caltrain Station,28,12/19/2013 18:57,Mountain View City Hall,27,715,Subscriber,94041
+131781,265,12/20/2013 8:14,Mountain View City Hall,27,12/20/2013 8:19,Mountain View Caltrain Station,28,715,Subscriber,94041
+131784,551,12/20/2013 8:16,Market at 4th,76,12/20/2013 8:25,South Van Ness at Market,66,598,Subscriber,94041
+131855,358,12/20/2013 8:47,San Francisco Caltrain (Townsend at 4th),70,12/20/2013 8:53,Yerba Buena Center of the Arts (3rd @ Howard),68,388,Subscriber,94041
+131920,442,12/20/2013 9:10,San Francisco Caltrain 2 (330 Townsend),69,12/20/2013 9:18,Embarcadero at Bryant,54,579,Subscriber,94041
+132067,639,12/20/2013 10:47,San Francisco Caltrain 2 (330 Townsend),69,12/20/2013 10:57,Market at 10th,67,411,Subscriber,94041
+132140,650,12/20/2013 12:12,Market at 10th,67,12/20/2013 12:23,Beale at Market,56,411,Subscriber,94041
+132161,401,12/20/2013 12:36,Beale at Market,56,12/20/2013 12:43,Powell Street BART,39,411,Subscriber,94041
+132478,495,12/20/2013 16:48,Market at 10th,67,12/20/2013 16:56,San Francisco Caltrain (Townsend at 4th),70,388,Subscriber,94041
+132479,836,12/20/2013 16:48,Beale at Market,56,12/20/2013 17:01,San Francisco Caltrain (Townsend at 4th),70,412,Subscriber,94041
+132503,404,12/20/2013 16:57,Embarcadero at Bryant,54,12/20/2013 17:04,San Francisco Caltrain 2 (330 Townsend),69,464,Subscriber,94041
+132522,329,12/20/2013 17:04,Yerba Buena Center of the Arts (3rd @ Howard),68,12/20/2013 17:10,San Francisco Caltrain 2 (330 Townsend),69,396,Subscriber,94041
+132621,235,12/20/2013 17:58,Mountain View Caltrain Station,28,12/20/2013 18:02,Mountain View City Hall,27,714,Subscriber,94041
+132667,401,12/20/2013 18:30,5th at Howard,57,12/20/2013 18:36,San Francisco Caltrain 2 (330 Townsend),69,580,Subscriber,94041
+133428,342,12/22/2013 10:56,Mountain View City Hall,27,12/22/2013 11:02,Mountain View Caltrain Station,28,223,Subscriber,94041
+133458,186,12/22/2013 11:45,Beale at Market,56,12/22/2013 11:48,Harry Bridges Plaza (Ferry Building),50,564,Subscriber,94041
+133903,484,12/23/2013 7:57,Market at 4th,76,12/23/2013 8:05,South Van Ness at Market,66,499,Subscriber,94041
+133969,314,12/23/2013 8:43,San Francisco Caltrain (Townsend at 4th),70,12/23/2013 8:48,Yerba Buena Center of the Arts (3rd @ Howard),68,593,Subscriber,94041
+134413,256,12/23/2013 16:17,Evelyn Park and Ride,30,12/23/2013 16:22,Mountain View Caltrain Station,28,77,Subscriber,94041
+134762,491,12/24/2013 8:14,Market at 4th,76,12/24/2013 8:22,South Van Ness at Market,66,320,Subscriber,94041
+134948,535,12/24/2013 12:50,Embarcadero at Folsom,51,12/24/2013 12:59,San Francisco Caltrain (Townsend at 4th),70,615,Subscriber,94041
+135606,480,12/25/2013 18:44,Embarcadero at Folsom,51,12/25/2013 18:52,Embarcadero at Folsom,51,618,Subscriber,94041
+136028,108,12/26/2013 14:16,Broadway at Main,25,12/26/2013 14:18,Redwood City Medical Center,26,236,Subscriber,94041
+136137,808,12/26/2013 16:45,Beale at Market,56,12/26/2013 16:59,San Francisco Caltrain (Townsend at 4th),70,514,Subscriber,94041
+136237,91,12/26/2013 18:42,Redwood City Medical Center,26,12/26/2013 18:43,Broadway at Main,25,236,Subscriber,94041
+136257,329,12/26/2013 19:49,Embarcadero at Folsom,51,12/26/2013 19:54,Embarcadero at Folsom,51,446,Subscriber,94041
+136596,77,12/27/2013 14:24,Broadway at Main,25,12/27/2013 14:25,Redwood City Medical Center,26,13,Subscriber,94041
+136626,253,12/27/2013 15:09,Evelyn Park and Ride,30,12/27/2013 15:14,Mountain View Caltrain Station,28,63,Subscriber,94041
+136671,749,12/27/2013 16:01,Beale at Market,56,12/27/2013 16:14,San Francisco Caltrain (Townsend at 4th),70,484,Subscriber,94041
+136712,87,12/27/2013 16:57,Redwood City Medical Center,26,12/27/2013 16:58,Broadway at Main,25,13,Subscriber,94041
+137559,77361,12/29/2013 10:29,Mountain View City Hall,27,12/30/2013 7:58,Mountain View Caltrain Station,28,206,Subscriber,94041
+137775,1416,12/29/2013 15:17,Embarcadero at Folsom,51,12/29/2013 15:41,Embarcadero at Sansome,60,272,Subscriber,94041
+137884,1221,12/29/2013 17:11,Grant Avenue at Columbus Avenue,73,12/29/2013 17:31,Embarcadero at Folsom,51,504,Subscriber,94041
+138100,1032,12/30/2013 8:45,San Francisco Caltrain (Townsend at 4th),70,12/30/2013 9:03,Beale at Market,56,585,Subscriber,94041
+138141,385,12/30/2013 9:17,San Francisco Caltrain (Townsend at 4th),70,12/30/2013 9:23,5th at Howard,57,333,Subscriber,94041
+138280,1466,12/30/2013 12:13,Mountain View City Hall,27,12/30/2013 12:37,Mountain View Caltrain Station,28,681,Customer,94041
+138440,517,12/30/2013 15:23,Redwood City Medical Center,26,12/30/2013 15:31,Redwood City Medical Center,26,253,Subscriber,94041
+138501,1401,12/30/2013 16:15,Embarcadero at Folsom,51,12/30/2013 16:38,San Francisco Caltrain (Townsend at 4th),70,352,Subscriber,94041
+138575,373,12/30/2013 16:58,Embarcadero at Bryant,54,12/30/2013 17:05,San Francisco Caltrain (Townsend at 4th),70,556,Subscriber,94041
+138579,1065,12/30/2013 16:59,2nd at Townsend,61,12/30/2013 17:17,Embarcadero at Folsom,51,290,Subscriber,94041
+138700,328,12/30/2013 18:18,5th at Howard,57,12/30/2013 18:23,San Francisco Caltrain (Townsend at 4th),70,400,Subscriber,94041
+138723,511,12/30/2013 18:44,Embarcadero at Folsom,51,12/30/2013 18:53,San Francisco Caltrain (Townsend at 4th),70,581,Subscriber,94041
+138868,927,12/31/2013 8:43,San Francisco Caltrain (Townsend at 4th),70,12/31/2013 8:58,Beale at Market,56,287,Subscriber,94041
+138951,286,12/31/2013 9:46,San Francisco Caltrain 2 (330 Townsend),69,12/31/2013 9:51,5th at Howard,57,283,Subscriber,94041
+139142,721,12/31/2013 13:37,Beale at Market,56,12/31/2013 13:49,San Francisco Caltrain (Townsend at 4th),70,318,Subscriber,94041
+139180,406,12/31/2013 14:21,Embarcadero at Bryant,54,12/31/2013 14:28,San Francisco Caltrain (Townsend at 4th),70,514,Subscriber,94041
+139309,349,12/31/2013 16:00,5th at Howard,57,12/31/2013 16:06,San Francisco Caltrain (Townsend at 4th),70,527,Subscriber,94041
+139935,651,1/1/2014 17:22,Embarcadero at Folsom,51,1/1/2014 17:33,Embarcadero at Folsom,51,368,Subscriber,94041
+139977,839,1/1/2014 20:14,Embarcadero at Folsom,51,1/1/2014 20:28,San Francisco Caltrain (Townsend at 4th),70,456,Subscriber,94041
+139981,712,1/1/2014 20:55,2nd at Townsend,61,1/1/2014 21:07,Embarcadero at Folsom,51,588,Subscriber,94041
+140014,49605,1/2/2014 1:47,Mountain View City Hall,27,1/2/2014 15:34,Mountain View City Hall,27,196,Customer,94041
+140070,504,1/2/2014 7:42,Market at 4th,76,1/2/2014 7:50,South Van Ness at Market,66,491,Subscriber,94041
+140193,997,1/2/2014 8:42,San Francisco Caltrain (Townsend at 4th),70,1/2/2014 8:59,Beale at Market,56,608,Subscriber,94041
+140348,701,1/2/2014 10:08,San Francisco Caltrain 2 (330 Townsend),69,1/2/2014 10:20,Market at 10th,67,406,Subscriber,94041
+140658,512,1/2/2014 15:52,Market at 10th,67,1/2/2014 16:01,San Francisco Caltrain (Townsend at 4th),70,406,Subscriber,94041
+140738,88,1/2/2014 16:33,Broadway at Main,25,1/2/2014 16:34,Redwood City Medical Center,26,13,Subscriber,94041
+140798,539,1/2/2014 16:58,Embarcadero at Folsom,51,1/2/2014 17:07,Embarcadero at Folsom,51,636,Subscriber,94041
+140911,572,1/2/2014 17:51,Embarcadero at Folsom,51,1/2/2014 18:00,San Francisco Caltrain (Townsend at 4th),70,636,Subscriber,94041
+141093,467,1/2/2014 20:44,Embarcadero at Folsom,51,1/2/2014 20:51,Embarcadero at Folsom,51,560,Subscriber,94041
+141203,453,1/3/2014 7:44,Market at 4th,76,1/3/2014 7:51,South Van Ness at Market,66,402,Subscriber,94041
+141353,314,1/3/2014 8:59,San Francisco Caltrain (Townsend at 4th),70,1/3/2014 9:04,5th at Howard,57,282,Subscriber,94041
+141683,699,1/3/2014 13:23,San Jose Civic Center,3,1/3/2014 13:34,San Jose Civic Center,3,660,Subscriber,94041
+142077,654,1/3/2014 17:53,Beale at Market,56,1/3/2014 18:04,San Francisco Caltrain (Townsend at 4th),70,325,Subscriber,94041
+142101,339,1/3/2014 18:02,5th at Howard,57,1/3/2014 18:07,San Francisco Caltrain (Townsend at 4th),70,468,Subscriber,94041
+142205,1726,1/3/2014 19:20,Mountain View City Hall,27,1/3/2014 19:48,Castro Street and El Camino Real,32,713,Subscriber,94041
+142820,388,1/5/2014 10:31,Castro Street and El Camino Real,32,1/5/2014 10:37,Mountain View Caltrain Station,28,713,Subscriber,94041
+142826,302,1/5/2014 10:48,Mountain View Caltrain Station,28,1/5/2014 10:53,Mountain View City Hall,27,713,Subscriber,94041
+143092,59026,1/5/2014 17:08,Mountain View City Hall,27,1/6/2014 9:32,Mountain View Caltrain Station,28,679,Customer,94041
+143487,302,1/6/2014 8:50,Mountain View Caltrain Station,28,1/6/2014 8:55,Mountain View Caltrain Station,28,53,Subscriber,94041
+143615,398,1/6/2014 9:45,San Francisco Caltrain (Townsend at 4th),70,1/6/2014 9:52,5th at Howard,57,486,Subscriber,94041
+143651,663,1/6/2014 10:10,San Francisco Caltrain 2 (330 Townsend),69,1/6/2014 10:21,Market at 10th,67,533,Subscriber,94041
+144047,505,1/6/2014 16:43,Market at 10th,67,1/6/2014 16:52,San Francisco Caltrain (Townsend at 4th),70,489,Subscriber,94041
+144366,475,1/6/2014 18:44,Spear at Folsom,49,1/6/2014 18:52,San Francisco Caltrain (Townsend at 4th),70,580,Subscriber,94041
+144713,276,1/7/2014 8:03,San Jose Diridon Caltrain Station,2,1/7/2014 8:08,Santa Clara at Almaden,4,651,Subscriber,94041
+144733,476,1/7/2014 8:12,Market at 4th,76,1/7/2014 8:20,South Van Ness at Market,66,455,Subscriber,94041
+144737,263,1/7/2014 8:15,Mountain View City Hall,27,1/7/2014 8:20,Mountain View Caltrain Station,28,134,Subscriber,94041
+145089,525,1/7/2014 10:45,San Francisco Caltrain (Townsend at 4th),70,1/7/2014 10:53,Market at 10th,67,518,Subscriber,94041
+145213,1215,1/7/2014 13:23,San Jose City Hall,10,1/7/2014 13:43,San Jose City Hall,10,262,Subscriber,94041
+145417,355,1/7/2014 16:41,Mountain View Caltrain Station,28,1/7/2014 16:47,Mountain View City Hall,27,134,Subscriber,94041
+145425,456,1/7/2014 16:44,Market at 10th,67,1/7/2014 16:51,San Francisco Caltrain (Townsend at 4th),70,518,Subscriber,94041
+145558,258,1/7/2014 17:35,Santa Clara at Almaden,4,1/7/2014 17:39,San Jose Diridon Caltrain Station,2,648,Subscriber,94041
+145721,706,1/7/2014 18:33,Embarcadero at Folsom,51,1/7/2014 18:44,San Francisco Caltrain (Townsend at 4th),70,551,Subscriber,94041
+145994,484,1/8/2014 7:56,Market at 4th,76,1/8/2014 8:04,South Van Ness at Market,66,420,Subscriber,94041
+146000,250,1/8/2014 7:59,Mountain View City Hall,27,1/8/2014 8:03,Mountain View Caltrain Station,28,194,Subscriber,94041
+146017,233,1/8/2014 8:03,San Jose Diridon Caltrain Station,2,1/8/2014 8:07,Santa Clara at Almaden,4,75,Subscriber,94041
+146144,977,1/8/2014 8:45,San Francisco Caltrain (Townsend at 4th),70,1/8/2014 9:01,Beale at Market,56,557,Subscriber,94041
+146527,425,1/8/2014 13:05,Redwood City Medical Center,26,1/8/2014 13:12,Redwood City Caltrain Station,22,13,Subscriber,94041
+146604,1964,1/8/2014 15:09,Mountain View Caltrain Station,28,1/8/2014 15:42,Mountain View Caltrain Station,28,194,Subscriber,94041
+146845,323,1/8/2014 17:36,Yerba Buena Center of the Arts (3rd @ Howard),68,1/8/2014 17:41,San Francisco Caltrain (Townsend at 4th),70,442,Subscriber,94041
+147016,502,1/8/2014 18:44,Spear at Folsom,49,1/8/2014 18:52,San Francisco Caltrain (Townsend at 4th),70,487,Subscriber,94041
+147321,548,1/9/2014 7:52,Market at 4th,76,1/9/2014 8:01,South Van Ness at Market,66,477,Subscriber,94041
+147341,221,1/9/2014 8:00,Mountain View City Hall,27,1/9/2014 8:04,Mountain View Caltrain Station,28,16,Subscriber,94041
+147352,248,1/9/2014 8:03,San Jose Diridon Caltrain Station,2,1/9/2014 8:08,Santa Clara at Almaden,4,154,Subscriber,94041
+147456,1036,1/9/2014 8:45,San Francisco Caltrain (Townsend at 4th),70,1/9/2014 9:02,Beale at Market,56,359,Subscriber,94041
+147549,314,1/9/2014 9:22,San Francisco Caltrain 2 (330 Townsend),69,1/9/2014 9:27,5th at Howard,57,624,Subscriber,94041
+147641,721,1/9/2014 10:08,San Francisco Caltrain (Townsend at 4th),70,1/9/2014 10:20,Market at 10th,67,626,Subscriber,94041
+147676,415,1/9/2014 10:42,San Francisco Caltrain (Townsend at 4th),70,1/9/2014 10:49,Embarcadero at Bryant,54,402,Subscriber,94041
+148104,451,1/9/2014 16:41,Market at 10th,67,1/9/2014 16:48,San Francisco Caltrain (Townsend at 4th),70,555,Subscriber,94041
+148137,344,1/9/2014 16:57,Embarcadero at Bryant,54,1/9/2014 17:03,San Francisco Caltrain 2 (330 Townsend),69,617,Subscriber,94041
+148170,616,1/9/2014 17:07,Beale at Market,56,1/9/2014 17:17,San Francisco Caltrain (Townsend at 4th),70,530,Subscriber,94041
+148239,250,1/9/2014 17:33,Santa Clara at Almaden,4,1/9/2014 17:38,San Jose Diridon Caltrain Station,2,715,Subscriber,94041
+148305,367,1/9/2014 17:55,5th at Howard,57,1/9/2014 18:02,San Francisco Caltrain (Townsend at 4th),70,390,Subscriber,94041
+148375,288,1/9/2014 18:15,Mountain View Caltrain Station,28,1/9/2014 18:19,Mountain View City Hall,27,16,Subscriber,94041
+148755,491,1/10/2014 8:09,Market at 4th,76,1/10/2014 8:18,South Van Ness at Market,66,402,Subscriber,94041
+148856,908,1/10/2014 8:44,San Francisco Caltrain (Townsend at 4th),70,1/10/2014 8:59,Beale at Market,56,464,Subscriber,94041
+149060,679,1/10/2014 10:09,Mountain View City Hall,27,1/10/2014 10:20,Rengstorff Avenue / California Street,33,134,Subscriber,94041
+149061,698,1/10/2014 10:09,San Francisco Caltrain (Townsend at 4th),70,1/10/2014 10:21,Market at 10th,67,427,Subscriber,94041
+149170,181,1/10/2014 11:43,San Jose City Hall,10,1/10/2014 11:46,SJSU 4th at San Carlos,12,696,Subscriber,94041
+149263,473,1/10/2014 13:04,SJSU 4th at San Carlos,12,1/10/2014 13:12,San Jose City Hall,10,696,Subscriber,94041
+149478,306,1/10/2014 16:22,Castro Street and El Camino Real,32,1/10/2014 16:27,Mountain View Caltrain Station,28,679,Customer,94041
+149604,500,1/10/2014 17:08,Market at 10th,67,1/10/2014 17:16,San Francisco Caltrain (Townsend at 4th),70,363,Subscriber,94041
+149666,729,1/10/2014 17:37,Beale at Market,56,1/10/2014 17:49,San Francisco Caltrain (Townsend at 4th),70,379,Subscriber,94041
+150972,597,1/13/2014 7:58,Market at 4th,76,1/13/2014 8:08,South Van Ness at Market,66,613,Subscriber,94041
+150980,232,1/13/2014 8:00,Mountain View City Hall,27,1/13/2014 8:04,Mountain View Caltrain Station,28,31,Subscriber,94041
+151128,915,1/13/2014 8:52,San Francisco Caltrain (Townsend at 4th),70,1/13/2014 9:07,Beale at Market,56,292,Subscriber,94041
+151317,635,1/13/2014 10:12,San Francisco Caltrain (Townsend at 4th),70,1/13/2014 10:22,Market at 10th,67,405,Subscriber,94041
+151325,926,1/13/2014 10:13,Palo Alto Caltrain Station,34,1/13/2014 10:29,California Ave Caltrain Station,36,131,Subscriber,94041
+151341,1614,1/13/2014 10:33,California Ave Caltrain Station,36,1/13/2014 11:00,Mountain View Caltrain Station,28,131,Subscriber,94041
+151576,432,1/13/2014 14:40,San Francisco Caltrain (Townsend at 4th),70,1/13/2014 14:47,Embarcadero at Bryant,54,385,Subscriber,94041
+151670,341,1/13/2014 16:11,Embarcadero at Bryant,54,1/13/2014 16:17,San Francisco Caltrain 2 (330 Townsend),69,568,Subscriber,94041
+151714,553,1/13/2014 16:37,Market at 10th,67,1/13/2014 16:47,San Francisco Caltrain 2 (330 Townsend),69,405,Subscriber,94041
+152028,456,1/13/2014 18:39,Embarcadero at Folsom,51,1/13/2014 18:47,2nd at Townsend,61,409,Subscriber,94041
+152117,644,1/13/2014 19:43,Market at 10th,67,1/13/2014 19:54,Commercial at Montgomery,45,531,Subscriber,94041
+152179,594,1/13/2014 20:36,Commercial at Montgomery,45,1/13/2014 20:46,Civic Center BART (7th at Market),72,332,Subscriber,94041
+152424,289,1/14/2014 8:09,Mountain View City Hall,27,1/14/2014 8:14,Mountain View Caltrain Station,28,16,Subscriber,94041
+152430,550,1/14/2014 8:14,Market at 4th,76,1/14/2014 8:24,South Van Ness at Market,66,512,Subscriber,94041
+152528,316,1/14/2014 8:46,San Francisco Caltrain 2 (330 Townsend),69,1/14/2014 8:52,Yerba Buena Center of the Arts (3rd @ Howard),68,409,Subscriber,94041
+152737,658,1/14/2014 10:15,San Francisco Caltrain (Townsend at 4th),70,1/14/2014 10:26,Market at 10th,67,457,Subscriber,94041
+152786,387,1/14/2014 11:15,San Francisco Caltrain (Townsend at 4th),70,1/14/2014 11:22,5th at Howard,57,493,Subscriber,94041
+153025,313,1/14/2014 15:55,5th at Howard,57,1/14/2014 16:00,San Francisco Caltrain (Townsend at 4th),70,410,Subscriber,94041
+153106,505,1/14/2014 16:39,Market at 10th,67,1/14/2014 16:47,San Francisco Caltrain (Townsend at 4th),70,457,Subscriber,94041
+153429,378,1/14/2014 18:53,Market at 10th,67,1/14/2014 18:59,Market at 4th,76,527,Subscriber,94041
+153462,310,1/14/2014 19:13,Mountain View Caltrain Station,28,1/14/2014 19:18,Mountain View City Hall,27,16,Subscriber,94041
+153562,588,1/14/2014 21:27,Commercial at Montgomery,45,1/14/2014 21:37,Civic Center BART (7th at Market),72,399,Subscriber,94041
+153700,463,1/15/2014 7:50,Market at 4th,76,1/15/2014 7:58,South Van Ness at Market,66,407,Subscriber,94041
+154104,328,1/15/2014 10:23,San Francisco Caltrain 2 (330 Townsend),69,1/15/2014 10:29,5th at Howard,57,419,Subscriber,94041
+154223,1457,1/15/2014 11:57,5th at Howard,57,1/15/2014 12:21,Townsend at 7th,65,278,Subscriber,94041
+154353,598,1/15/2014 13:46,Townsend at 7th,65,1/15/2014 13:56,5th at Howard,57,604,Subscriber,94041
+154609,386,1/15/2014 17:02,Yerba Buena Center of the Arts (3rd @ Howard),68,1/15/2014 17:08,San Francisco Caltrain (Townsend at 4th),70,457,Subscriber,94041
+154903,385,1/15/2014 19:01,5th at Howard,57,1/15/2014 19:07,San Francisco Caltrain (Townsend at 4th),70,532,Subscriber,94041
+155121,253,1/16/2014 7:13,Evelyn Park and Ride,30,1/16/2014 7:18,Mountain View Caltrain Station,28,295,Subscriber,94041
+155158,504,1/16/2014 7:39,Market at 4th,76,1/16/2014 7:47,South Van Ness at Market,66,455,Subscriber,94041
+155248,281,1/16/2014 8:11,Mountain View City Hall,27,1/16/2014 8:16,Mountain View Caltrain Station,28,31,Subscriber,94041
+155334,312,1/16/2014 8:45,San Francisco Caltrain (Townsend at 4th),70,1/16/2014 8:50,Yerba Buena Center of the Arts (3rd @ Howard),68,310,Subscriber,94041
+155561,589,1/16/2014 10:05,San Francisco Caltrain (Townsend at 4th),70,1/16/2014 10:15,Market at 10th,67,500,Subscriber,94041
+156245,324,1/16/2014 18:04,Yerba Buena Center of the Arts (3rd @ Howard),68,1/16/2014 18:09,San Francisco Caltrain (Townsend at 4th),70,26,Subscriber,94041
+156275,377,1/16/2014 18:13,Mountain View Caltrain Station,28,1/16/2014 18:19,Mountain View City Hall,27,98,Subscriber,94041
+156508,246,1/16/2014 21:52,Mountain View Caltrain Station,28,1/16/2014 21:56,Evelyn Park and Ride,30,689,Subscriber,94041
+156687,195,1/17/2014 8:18,Mountain View City Hall,27,1/17/2014 8:22,Mountain View Caltrain Station,28,251,Subscriber,94041
+156719,462,1/17/2014 8:28,Market at 4th,76,1/17/2014 8:36,South Van Ness at Market,66,556,Subscriber,94041
+156953,698,1/17/2014 10:13,San Francisco Caltrain 2 (330 Townsend),69,1/17/2014 10:25,Market at 10th,67,552,Subscriber,94041
+157163,282,1/17/2014 13:08,San Jose City Hall,10,1/17/2014 13:13,Adobe on Almaden,5,696,Subscriber,94041
+157209,281,1/17/2014 13:51,Adobe on Almaden,5,1/17/2014 13:56,San Jose City Hall,10,55,Subscriber,94041
+157419,474,1/17/2014 16:30,Market at 10th,67,1/17/2014 16:38,San Francisco Caltrain (Townsend at 4th),70,405,Subscriber,94041
+157541,327,1/17/2014 17:19,Yerba Buena Center of the Arts (3rd @ Howard),68,1/17/2014 17:24,San Francisco Caltrain 2 (330 Townsend),69,636,Subscriber,94041
+157638,232,1/17/2014 17:54,Mountain View Caltrain Station,28,1/17/2014 17:57,Evelyn Park and Ride,30,146,Subscriber,94041
+159159,309,1/20/2014 8:43,San Francisco Caltrain (Townsend at 4th),70,1/20/2014 8:48,Yerba Buena Center of the Arts (3rd @ Howard),68,366,Subscriber,94041
+159165,891,1/20/2014 8:44,San Francisco Caltrain (Townsend at 4th),70,1/20/2014 8:59,Clay at Battery,41,591,Subscriber,94041
+159653,882,1/20/2014 17:24,Clay at Battery,41,1/20/2014 17:39,San Francisco Caltrain (Townsend at 4th),70,619,Subscriber,94041
+160030,526,1/21/2014 8:07,Market at 4th,76,1/21/2014 8:16,South Van Ness at Market,66,438,Subscriber,94041
+160066,231,1/21/2014 8:18,Mountain View City Hall,27,1/21/2014 8:22,Mountain View Caltrain Station,28,93,Subscriber,94041
+160328,614,1/21/2014 10:06,San Francisco Caltrain (Townsend at 4th),70,1/21/2014 10:16,Market at 10th,67,545,Subscriber,94041
+160736,421,1/21/2014 16:41,Market at 10th,67,1/21/2014 16:48,San Francisco Caltrain (Townsend at 4th),70,545,Subscriber,94041
+161092,754,1/21/2014 19:30,South Van Ness at Market,66,1/21/2014 19:43,Commercial at Montgomery,45,521,Subscriber,94041
+161178,587,1/21/2014 21:20,Commercial at Montgomery,45,1/21/2014 21:30,Civic Center BART (7th at Market),72,521,Subscriber,94041
+161338,479,1/22/2014 7:53,Market at 4th,76,1/22/2014 8:01,South Van Ness at Market,66,277,Subscriber,94041
+161705,450,1/22/2014 10:09,San Francisco Caltrain 2 (330 Townsend),69,1/22/2014 10:16,Embarcadero at Bryant,54,434,Subscriber,94041
+161974,335,1/22/2014 14:18,San Jose City Hall,10,1/22/2014 14:24,Adobe on Almaden,5,191,Subscriber,94041
+162004,405,1/22/2014 15:01,San Jose Civic Center,3,1/22/2014 15:08,San Jose City Hall,10,86,Subscriber,94041
+162112,342,1/22/2014 16:40,Mountain View Caltrain Station,28,1/22/2014 16:46,Mountain View City Hall,27,126,Subscriber,94041
+162779,235,1/23/2014 8:03,San Jose Diridon Caltrain Station,2,1/23/2014 8:07,Santa Clara at Almaden,4,182,Subscriber,94041
+162786,500,1/23/2014 8:05,Market at 4th,76,1/23/2014 8:14,South Van Ness at Market,66,365,Subscriber,94041
+162819,234,1/23/2014 8:16,Mountain View City Hall,27,1/23/2014 8:20,Mountain View Caltrain Station,28,126,Subscriber,94041
+162867,492,1/23/2014 8:37,Palo Alto Caltrain Station,34,1/23/2014 8:45,Palo Alto Caltrain Station,34,716,Subscriber,94041
+163129,579,1/23/2014 10:11,San Francisco Caltrain (Townsend at 4th),70,1/23/2014 10:21,Market at 10th,67,348,Subscriber,94041
+163332,237,1/23/2014 12:44,MLK Library,11,1/23/2014 12:47,Paseo de San Antonio,7,11,Subscriber,94041
+163401,190,1/23/2014 13:31,SJSU 4th at San Carlos,12,1/23/2014 13:34,San Salvador at 1st,8,249,Subscriber,94041
+163410,866,1/23/2014 13:37,San Salvador at 1st,8,1/23/2014 13:51,San Jose Civic Center,3,249,Subscriber,94041
+163449,671,1/23/2014 13:52,San Jose Civic Center,3,1/23/2014 14:03,Arena Green / SAP Center,14,643,Subscriber,94041
+163461,1061,1/23/2014 14:07,Arena Green / SAP Center,14,1/23/2014 14:24,Arena Green / SAP Center,14,696,Subscriber,94041
+163483,1462,1/23/2014 14:25,Arena Green / SAP Center,14,1/23/2014 14:49,San Jose Government Center,80,699,Subscriber,94041
+163517,824,1/23/2014 14:51,San Jose Government Center,80,1/23/2014 15:04,St James Park,13,699,Subscriber,94041
+163533,146,1/23/2014 15:05,St James Park,13,1/23/2014 15:07,San Jose City Hall,10,710,Subscriber,94041
+163658,548,1/23/2014 16:34,Market at 10th,67,1/23/2014 16:43,San Francisco Caltrain (Townsend at 4th),70,265,Subscriber,94041
+163802,233,1/23/2014 17:34,Santa Clara at Almaden,4,1/23/2014 17:38,San Jose Diridon Caltrain Station,2,241,Subscriber,94041
+163843,350,1/23/2014 17:46,Embarcadero at Bryant,54,1/23/2014 17:52,San Francisco Caltrain 2 (330 Townsend),69,497,Subscriber,94041
+163862,327,1/23/2014 17:53,Mountain View Caltrain Station,28,1/23/2014 17:59,Mountain View City Hall,27,302,Subscriber,94041
+164269,520,1/24/2014 8:09,Market at 4th,76,1/24/2014 8:17,South Van Ness at Market,66,620,Subscriber,94041
+164585,685,1/24/2014 10:13,San Francisco Caltrain (Townsend at 4th),70,1/24/2014 10:25,Market at 10th,67,314,Subscriber,94041
+164638,383,1/24/2014 11:06,San Francisco Caltrain (Townsend at 4th),70,1/24/2014 11:13,Embarcadero at Bryant,54,500,Subscriber,94041
+164698,4490,1/24/2014 12:04,Castro Street and El Camino Real,32,1/24/2014 13:18,Castro Street and El Camino Real,32,131,Subscriber,94041
+164823,273,1/24/2014 13:48,San Jose City Hall,10,1/24/2014 13:52,St James Park,13,205,Subscriber,94041
+165022,487,1/24/2014 16:47,Market at 10th,67,1/24/2014 16:55,San Francisco Caltrain 2 (330 Townsend),69,524,Subscriber,94041
+165150,246,1/24/2014 17:34,Santa Clara at Almaden,4,1/24/2014 17:38,San Jose Diridon Caltrain Station,2,154,Subscriber,94041
+165332,290,1/24/2014 19:01,Mountain View Caltrain Station,28,1/24/2014 19:06,Mountain View City Hall,27,251,Subscriber,94041
+166475,5121,1/26/2014 16:45,Castro Street and El Camino Real,32,1/26/2014 18:10,Castro Street and El Camino Real,32,245,Customer,94041
+166781,255,1/27/2014 8:13,Mountain View City Hall,27,1/27/2014 8:17,Mountain View Caltrain Station,28,302,Subscriber,94041
+166885,307,1/27/2014 8:48,San Francisco Caltrain (Townsend at 4th),70,1/27/2014 8:53,Yerba Buena Center of the Arts (3rd @ Howard),68,360,Subscriber,94041
+166988,317,1/27/2014 9:26,San Francisco Caltrain 2 (330 Townsend),69,1/27/2014 9:31,5th at Howard,57,321,Subscriber,94041
+167082,683,1/27/2014 10:11,San Francisco Caltrain (Townsend at 4th),70,1/27/2014 10:22,Market at 10th,67,630,Subscriber,94041
+167391,461,1/27/2014 16:34,Market at 10th,67,1/27/2014 16:42,San Francisco Caltrain (Townsend at 4th),70,630,Subscriber,94041
+167562,887,1/27/2014 17:34,Harry Bridges Plaza (Ferry Building),50,1/27/2014 17:49,San Francisco Caltrain (Townsend at 4th),70,480,Subscriber,94041
+167631,300,1/27/2014 18:00,Yerba Buena Center of the Arts (3rd @ Howard),68,1/27/2014 18:05,San Francisco Caltrain (Townsend at 4th),70,349,Subscriber,94041
+167791,268,1/27/2014 19:35,Mountain View Caltrain Station,28,1/27/2014 19:39,Evelyn Park and Ride,30,233,Subscriber,94041
+167941,226,1/28/2014 7:11,Evelyn Park and Ride,30,1/28/2014 7:15,Mountain View Caltrain Station,28,233,Subscriber,94041
+168138,388,1/28/2014 8:46,San Francisco Caltrain 2 (330 Townsend),69,1/28/2014 8:52,Yerba Buena Center of the Arts (3rd @ Howard),68,397,Subscriber,94041
+168360,596,1/28/2014 10:08,San Francisco Caltrain (Townsend at 4th),70,1/28/2014 10:18,Market at 10th,67,435,Subscriber,94041
+168578,358,1/28/2014 14:22,San Jose City Hall,10,1/28/2014 14:28,Adobe on Almaden,5,701,Subscriber,94041
+168607,348,1/28/2014 15:07,San Jose Civic Center,3,1/28/2014 15:12,San Jose City Hall,10,249,Subscriber,94041
+168721,441,1/28/2014 16:37,Market at 10th,67,1/28/2014 16:44,San Francisco Caltrain (Townsend at 4th),70,544,Subscriber,94041
+168734,299,1/28/2014 16:43,Mountain View Caltrain Station,28,1/28/2014 16:48,Mountain View City Hall,27,126,Subscriber,94041
+168962,292,1/28/2014 18:00,Yerba Buena Center of the Arts (3rd @ Howard),68,1/28/2014 18:05,San Francisco Caltrain 2 (330 Townsend),69,397,Subscriber,94041
+169195,277,1/28/2014 20:41,Mountain View Caltrain Station,28,1/28/2014 20:46,Evelyn Park and Ride,30,250,Subscriber,94041
+169320,264,1/29/2014 7:09,Evelyn Park and Ride,30,1/29/2014 7:13,Mountain View Caltrain Station,28,31,Subscriber,94041
+169404,242,1/29/2014 7:57,Mountain View City Hall,27,1/29/2014 8:01,Mountain View Caltrain Station,28,131,Subscriber,94041
+169557,367,1/29/2014 8:45,San Francisco Caltrain 2 (330 Townsend),69,1/29/2014 8:51,Yerba Buena Center of the Arts (3rd @ Howard),68,384,Subscriber,94041
+169869,738,1/29/2014 12:15,5th at Howard,57,1/29/2014 12:28,Commercial at Montgomery,45,629,Subscriber,94041
+169955,495,1/29/2014 13:44,Commercial at Montgomery,45,1/29/2014 13:52,5th at Howard,57,637,Subscriber,94041
+169977,1274,1/29/2014 14:10,MLK Library,11,1/29/2014 14:31,MLK Library,11,242,Subscriber,94041
+170059,307,1/29/2014 15:50,Embarcadero at Bryant,54,1/29/2014 15:55,San Francisco Caltrain 2 (330 Townsend),69,270,Subscriber,94041
+170357,329,1/29/2014 18:01,Mountain View Caltrain Station,28,1/29/2014 18:06,Mountain View City Hall,27,131,Subscriber,94041
+170361,322,1/29/2014 18:03,Yerba Buena Center of the Arts (3rd @ Howard),68,1/29/2014 18:09,San Francisco Caltrain (Townsend at 4th),70,271,Subscriber,94041
+170711,248,1/30/2014 7:13,Evelyn Park and Ride,30,1/30/2014 7:17,Mountain View Caltrain Station,28,53,Subscriber,94041
+171092,731,1/30/2014 10:06,San Francisco Caltrain 2 (330 Townsend),69,1/30/2014 10:18,Market at 10th,67,335,Subscriber,94041
+171371,322,1/30/2014 15:48,Yerba Buena Center of the Arts (3rd @ Howard),68,1/30/2014 15:53,San Francisco Caltrain (Townsend at 4th),70,531,Subscriber,94041
+171382,74947,1/30/2014 15:56,Castro Street and El Camino Real,32,1/31/2014 12:45,Castro Street and El Camino Real,32,132,Customer,94041
+171558,350,1/30/2014 17:31,San Jose City Hall,10,1/30/2014 17:37,San Pedro Square,6,698,Subscriber,94041
+171627,729,1/30/2014 17:58,Harry Bridges Plaza (Ferry Building),50,1/30/2014 18:11,San Francisco Caltrain (Townsend at 4th),70,350,Subscriber,94041
+172477,187,1/31/2014 14:46,Mountain View City Hall,27,1/31/2014 14:49,Mountain View Caltrain Station,28,58,Subscriber,94041
+172767,996,1/31/2014 18:15,Embarcadero at Sansome,60,1/31/2014 18:31,2nd at Townsend,61,451,Subscriber,94041
+173515,309,2/2/2014 9:13,Mountain View City Hall,27,2/2/2014 9:18,Mountain View Caltrain Station,28,112,Subscriber,94041
+173516,443,2/2/2014 9:28,Mountain View Caltrain Station,28,2/2/2014 9:36,Castro Street and El Camino Real,32,112,Subscriber,94041
+173775,556,2/3/2014 7:47,Market at 4th,76,2/3/2014 7:57,South Van Ness at Market,66,339,Subscriber,94041
+173936,365,2/3/2014 8:47,San Francisco Caltrain (Townsend at 4th),70,2/3/2014 8:53,Yerba Buena Center of the Arts (3rd @ Howard),68,268,Subscriber,94041
+174122,750,2/3/2014 10:12,San Francisco Caltrain (Townsend at 4th),70,2/3/2014 10:25,Market at 10th,67,459,Subscriber,94041
+174416,548,2/3/2014 15:43,Market at 10th,67,2/3/2014 15:52,San Francisco Caltrain (Townsend at 4th),70,267,Subscriber,94041
+174484,338,2/3/2014 16:22,Embarcadero at Bryant,54,2/3/2014 16:28,San Francisco Caltrain 2 (330 Townsend),69,521,Subscriber,94041
+174658,1390,2/3/2014 17:32,Mountain View Caltrain Station,28,2/3/2014 17:55,Mountain View Caltrain Station,28,228,Subscriber,94041
+174984,380,2/4/2014 6:17,Mountain View Caltrain Station,28,2/4/2014 6:24,Castro Street and El Camino Real,32,245,Subscriber,94041
+175075,554,2/4/2014 7:38,Market at 4th,76,2/4/2014 7:47,South Van Ness at Market,66,469,Subscriber,94041
+175122,232,2/4/2014 8:00,San Jose Diridon Caltrain Station,2,2/4/2014 8:04,Santa Clara at Almaden,4,157,Subscriber,94041
+175237,368,2/4/2014 8:47,San Francisco Caltrain 2 (330 Townsend),69,2/4/2014 8:53,Yerba Buena Center of the Arts (3rd @ Howard),68,574,Subscriber,94041
+175427,585,2/4/2014 10:06,San Francisco Caltrain (Townsend at 4th),70,2/4/2014 10:16,Market at 10th,67,348,Subscriber,94041
+175625,929,2/4/2014 13:25,Redwood City Medical Center,26,2/4/2014 13:40,Redwood City Medical Center,26,253,Subscriber,94041
+175813,510,2/4/2014 16:38,Market at 10th,67,2/4/2014 16:47,San Francisco Caltrain (Townsend at 4th),70,266,Subscriber,94041
+175938,237,2/4/2014 17:34,Santa Clara at Almaden,4,2/4/2014 17:38,San Jose Diridon Caltrain Station,2,698,Subscriber,94041
+175995,294,2/4/2014 17:59,Yerba Buena Center of the Arts (3rd @ Howard),68,2/4/2014 18:04,San Francisco Caltrain (Townsend at 4th),70,334,Subscriber,94041
+176070,520,2/4/2014 18:33,Powell Street BART,39,2/4/2014 18:42,Commercial at Montgomery,45,335,Subscriber,94041
+176239,533,2/4/2014 21:22,Commercial at Montgomery,45,2/4/2014 21:31,Civic Center BART (7th at Market),72,222,Subscriber,94041
+176408,396,2/5/2014 7:56,Market at 4th,76,2/5/2014 8:02,South Van Ness at Market,66,469,Subscriber,94041
+176431,249,2/5/2014 8:02,San Jose Diridon Caltrain Station,2,2/5/2014 8:06,Santa Clara at Almaden,4,186,Subscriber,94041
+176463,227,2/5/2014 8:17,Mountain View City Hall,27,2/5/2014 8:21,Mountain View Caltrain Station,28,126,Subscriber,94041
+176501,654,2/5/2014 8:33,San Jose Diridon Caltrain Station,2,2/5/2014 8:44,MLK Library,11,129,Subscriber,94041
+176531,309,2/5/2014 8:43,San Francisco Caltrain (Townsend at 4th),70,2/5/2014 8:48,Yerba Buena Center of the Arts (3rd @ Howard),68,541,Subscriber,94041
+177138,297,2/5/2014 17:05,Yerba Buena Center of the Arts (3rd @ Howard),68,2/5/2014 17:10,San Francisco Caltrain 2 (330 Townsend),69,541,Subscriber,94041
+177201,267,2/5/2014 17:34,Santa Clara at Almaden,4,2/5/2014 17:39,San Jose Diridon Caltrain Station,2,672,Subscriber,94041
+177489,518,2/6/2014 7:48,Market at 4th,76,2/6/2014 7:56,South Van Ness at Market,66,511,Subscriber,94041
+177501,275,2/6/2014 8:04,San Jose Diridon Caltrain Station,2,2/6/2014 8:09,Santa Clara at Almaden,4,672,Subscriber,94041
+177517,247,2/6/2014 8:18,Mountain View City Hall,27,2/6/2014 8:22,Mountain View Caltrain Station,28,126,Subscriber,94041
+177607,636,2/6/2014 10:06,San Francisco Caltrain (Townsend at 4th),70,2/6/2014 10:16,Market at 10th,67,411,Subscriber,94041
+177811,465,2/6/2014 16:41,Market at 10th,67,2/6/2014 16:48,San Francisco Caltrain (Townsend at 4th),70,411,Subscriber,94041
+177903,279,2/6/2014 17:32,Santa Clara at Almaden,4,2/6/2014 17:37,San Jose Diridon Caltrain Station,2,37,Subscriber,94041
+177937,617,2/6/2014 17:49,Spear at Folsom,49,2/6/2014 17:59,San Francisco Caltrain 2 (330 Townsend),69,320,Subscriber,94041
+178011,305,2/6/2014 18:37,Mountain View Caltrain Station,28,2/6/2014 18:42,Mountain View City Hall,27,16,Subscriber,94041
+178275,477,2/7/2014 8:00,Market at 4th,76,2/7/2014 8:08,South Van Ness at Market,66,436,Subscriber,94041
+178310,235,2/7/2014 8:16,Mountain View City Hall,27,2/7/2014 8:20,Mountain View Caltrain Station,28,16,Subscriber,94041
+178868,997,2/8/2014 13:37,Castro Street and El Camino Real,32,2/8/2014 13:53,San Antonio Shopping Center,31,126,Subscriber,94041
+178877,838,2/8/2014 14:18,San Antonio Shopping Center,31,2/8/2014 14:32,Mountain View City Hall,27,126,Subscriber,94041
+178970,360,2/9/2014 9:03,Castro Street and El Camino Real,32,2/9/2014 9:09,Mountain View Caltrain Station,28,696,Subscriber,94041
+178972,263,2/9/2014 9:21,Mountain View Caltrain Station,28,2/9/2014 9:25,Mountain View City Hall,27,696,Subscriber,94041
+179037,349,2/9/2014 18:27,San Antonio Caltrain Station,29,2/9/2014 18:33,San Antonio Shopping Center,31,144,Subscriber,94041
+179115,460,2/10/2014 7:23,Market at 4th,76,2/10/2014 7:30,South Van Ness at Market,66,259,Subscriber,94041
+179280,853,2/10/2014 8:45,San Francisco Caltrain (Townsend at 4th),70,2/10/2014 8:59,Beale at Market,56,581,Subscriber,94041
+179329,430,2/10/2014 9:06,Mountain View City Hall,27,2/10/2014 9:14,Mountain View Caltrain Station,28,95,Customer,94041
+179330,412,2/10/2014 9:07,Mountain View City Hall,27,2/10/2014 9:13,Mountain View Caltrain Station,28,153,Customer,94041
+179436,760,2/10/2014 10:08,San Francisco Caltrain 2 (330 Townsend),69,2/10/2014 10:21,Market at 10th,67,494,Subscriber,94041
+179820,277,2/10/2014 16:59,Yerba Buena Center of the Arts (3rd @ Howard),68,2/10/2014 17:04,San Francisco Caltrain 2 (330 Townsend),69,354,Subscriber,94041
+179896,563,2/10/2014 17:28,Mountain View Caltrain Station,28,2/10/2014 17:38,Mountain View City Hall,27,95,Customer,94041
+179963,292,2/10/2014 17:58,Mountain View Caltrain Station,28,2/10/2014 18:03,Mountain View City Hall,27,134,Subscriber,94041
+180041,675,2/10/2014 18:39,Embarcadero at Folsom,51,2/10/2014 18:50,San Francisco Caltrain (Townsend at 4th),70,510,Subscriber,94041
+180063,315,2/10/2014 18:55,Mountain View Caltrain Station,28,2/10/2014 19:01,Evelyn Park and Ride,30,694,Subscriber,94041
+180094,180,2/10/2014 19:20,2nd at South Park,64,2/10/2014 19:23,2nd at South Park,64,569,Customer,94041
+180100,519,2/10/2014 19:25,2nd at South Park,64,2/10/2014 19:33,San Francisco Caltrain (Townsend at 4th),70,277,Customer,94041
+180342,454,2/11/2014 7:53,Market at 4th,76,2/11/2014 8:01,South Van Ness at Market,66,522,Subscriber,94041
+180352,213,2/11/2014 7:57,Mountain View City Hall,27,2/11/2014 8:01,Mountain View Caltrain Station,28,134,Subscriber,94041
+180473,877,2/11/2014 8:48,San Francisco Caltrain (Townsend at 4th),70,2/11/2014 9:03,Beale at Market,56,436,Subscriber,94041
+180516,456,2/11/2014 9:00,Mountain View City Hall,27,2/11/2014 9:08,Mountain View Caltrain Station,28,132,Customer,94041
+180518,411,2/11/2014 9:01,Mountain View City Hall,27,2/11/2014 9:07,Mountain View Caltrain Station,28,682,Customer,94041
+180528,507,2/11/2014 9:03,San Francisco Caltrain (Townsend at 4th),70,2/11/2014 9:12,Howard at 2nd,63,406,Subscriber,94041
+180767,482,2/11/2014 11:53,MLK Library,11,2/11/2014 12:01,Japantown,9,214,Subscriber,94041
+180770,424,2/11/2014 11:54,MLK Library,11,2/11/2014 12:01,Japantown,9,710,Subscriber,94041
+180835,416,2/11/2014 12:52,Japantown,9,2/11/2014 12:59,San Jose City Hall,10,129,Subscriber,94041
+180838,552,2/11/2014 12:52,Japantown,9,2/11/2014 13:01,SJSU 4th at San Carlos,12,214,Subscriber,94041
+181014,494,2/11/2014 16:29,Market at 10th,67,2/11/2014 16:37,San Francisco Caltrain (Townsend at 4th),70,631,Subscriber,94041
+181126,298,2/11/2014 17:14,Yerba Buena Center of the Arts (3rd @ Howard),68,2/11/2014 17:19,San Francisco Caltrain 2 (330 Townsend),69,482,Subscriber,94041
+181250,847,2/11/2014 18:16,South Van Ness at Market,66,2/11/2014 18:30,Commercial at Montgomery,45,568,Subscriber,94041
+181447,474,2/11/2014 21:40,Commercial at Montgomery,45,2/11/2014 21:48,Powell Street BART,39,609,Subscriber,94041
+181650,632,2/12/2014 8:14,San Jose Diridon Caltrain Station,2,2/12/2014 8:24,MLK Library,11,717,Subscriber,94041
+181732,242,2/12/2014 8:45,Mountain View City Hall,27,2/12/2014 8:49,Mountain View Caltrain Station,28,134,Subscriber,94041
+181853,354,2/12/2014 9:26,San Francisco Caltrain (Townsend at 4th),70,2/12/2014 9:32,Yerba Buena Center of the Arts (3rd @ Howard),68,366,Subscriber,94041
+182260,435,2/12/2014 15:43,Redwood City Medical Center,26,2/12/2014 15:51,Redwood City Caltrain Station,22,90,Customer,94041
+182390,285,2/12/2014 16:54,Mountain View Caltrain Station,28,2/12/2014 16:59,Mountain View City Hall,27,134,Subscriber,94041
+182420,363,2/12/2014 17:05,Redwood City Caltrain Station,22,2/12/2014 17:11,Redwood City Medical Center,26,17,Customer,94041
+182547,302,2/12/2014 17:59,Yerba Buena Center of the Arts (3rd @ Howard),68,2/12/2014 18:04,San Francisco Caltrain (Townsend at 4th),70,432,Subscriber,94041
+182648,696,2/12/2014 18:40,Embarcadero at Folsom,51,2/12/2014 18:52,San Francisco Caltrain (Townsend at 4th),70,416,Subscriber,94041
+182950,501,2/13/2014 7:42,Market at 4th,76,2/13/2014 7:50,South Van Ness at Market,66,334,Subscriber,94041
+183034,223,2/13/2014 8:11,Mountain View City Hall,27,2/13/2014 8:15,Mountain View Caltrain Station,28,134,Subscriber,94041
+183110,290,2/13/2014 8:46,Redwood City Caltrain Station,22,2/13/2014 8:51,Redwood City Medical Center,26,252,Customer,94041
+183137,930,2/13/2014 8:53,San Francisco Caltrain (Townsend at 4th),70,2/13/2014 9:09,Beale at Market,56,349,Subscriber,94041
+183737,490,2/13/2014 16:38,Market at 10th,67,2/13/2014 16:46,San Francisco Caltrain (Townsend at 4th),70,458,Subscriber,94041
+184364,454,2/14/2014 8:32,Market at 4th,76,2/14/2014 8:39,South Van Ness at Market,66,556,Subscriber,94041
+184576,592,2/14/2014 10:10,San Francisco Caltrain (Townsend at 4th),70,2/14/2014 10:20,Market at 10th,67,416,Subscriber,94041
+184673,1047,2/14/2014 11:36,Castro Street and El Camino Real,32,2/14/2014 11:54,Castro Street and El Camino Real,32,696,Subscriber,94041
+184717,1106,2/14/2014 12:05,Embarcadero at Folsom,51,2/14/2014 12:24,2nd at Townsend,61,499,Subscriber,94041
+184789,497,2/14/2014 13:24,Embarcadero at Bryant,54,2/14/2014 13:33,Embarcadero at Folsom,51,364,Subscriber,94041
+184826,1980,2/14/2014 13:50,Mountain View City Hall,27,2/14/2014 14:23,Mountain View Caltrain Station,28,134,Subscriber,94041
+184939,468,2/14/2014 15:32,Market at 10th,67,2/14/2014 15:39,San Francisco Caltrain (Townsend at 4th),70,270,Subscriber,94041
+185524,2713,2/15/2014 9:10,Castro Street and El Camino Real,32,2/15/2014 9:55,Mountain View City Hall,27,696,Subscriber,94041
+185568,2292,2/15/2014 10:46,San Francisco Caltrain 2 (330 Townsend),69,2/15/2014 11:25,Steuart at Market,74,384,Customer,94041
+185571,2196,2/15/2014 10:48,San Francisco Caltrain 2 (330 Townsend),69,2/15/2014 11:25,Steuart at Market,74,259,Customer,94041
+185660,668,2/15/2014 12:54,Harry Bridges Plaza (Ferry Building),50,2/15/2014 13:05,Embarcadero at Sansome,60,592,Customer,94041
+185661,601,2/15/2014 12:56,Harry Bridges Plaza (Ferry Building),50,2/15/2014 13:06,Embarcadero at Sansome,60,596,Customer,94041
+185846,3870,2/15/2014 16:36,Mountain View City Hall,27,2/15/2014 17:40,Mountain View City Hall,27,118,Customer,94041
+185909,406,2/15/2014 18:14,Steuart at Market,74,2/15/2014 18:20,Embarcadero at Folsom,51,278,Subscriber,94041
+186345,1377,2/16/2014 15:36,Embarcadero at Folsom,51,2/16/2014 15:59,2nd at Townsend,61,310,Subscriber,94041
+186403,777,2/16/2014 16:42,2nd at South Park,64,2/16/2014 16:55,Embarcadero at Folsom,51,592,Subscriber,94041
+186465,412,2/16/2014 17:43,Embarcadero at Folsom,51,2/16/2014 17:50,Yerba Buena Center of the Arts (3rd @ Howard),68,517,Subscriber,94041
+186537,538,2/16/2014 20:07,Yerba Buena Center of the Arts (3rd @ Howard),68,2/16/2014 20:16,Embarcadero at Folsom,51,408,Subscriber,94041
+186617,516,2/17/2014 7:45,Market at 4th,76,2/17/2014 7:54,South Van Ness at Market,66,552,Subscriber,94041
+187357,466,2/18/2014 7:53,Market at 4th,76,2/18/2014 8:01,South Van Ness at Market,66,504,Subscriber,94041
+187423,223,2/18/2014 8:20,Mountain View City Hall,27,2/18/2014 8:23,Mountain View Caltrain Station,28,714,Subscriber,94041
+187520,475,2/18/2014 8:52,Castro Street and El Camino Real,32,2/18/2014 9:00,Mountain View Caltrain Station,28,67,Subscriber,94041
+187692,2824,2/18/2014 9:59,Castro Street and El Camino Real,32,2/18/2014 10:46,Castro Street and El Camino Real,32,230,Customer,94041
+187699,2526,2/18/2014 10:04,Castro Street and El Camino Real,32,2/18/2014 10:46,Castro Street and El Camino Real,32,84,Customer,94041
+187702,330,2/18/2014 10:06,San Francisco Caltrain (Townsend at 4th),70,2/18/2014 10:12,Yerba Buena Center of the Arts (3rd @ Howard),68,340,Subscriber,94041
+188143,468,2/18/2014 16:51,Market at 10th,67,2/18/2014 16:59,San Francisco Caltrain (Townsend at 4th),70,351,Subscriber,94041
+188305,314,2/18/2014 17:59,Yerba Buena Center of the Arts (3rd @ Howard),68,2/18/2014 18:04,San Francisco Caltrain (Townsend at 4th),70,340,Subscriber,94041
+188307,328,2/18/2014 17:59,Mountain View Caltrain Station,28,2/18/2014 18:05,Mountain View City Hall,27,102,Subscriber,94041
+188383,703,2/18/2014 18:31,Embarcadero at Folsom,51,2/18/2014 18:43,San Francisco Caltrain (Townsend at 4th),70,320,Subscriber,94041
+188437,353,2/18/2014 19:02,Mountain View City Hall,27,2/18/2014 19:07,Mountain View Caltrain Station,28,102,Customer,94041
+188560,335,2/18/2014 21:35,Market at 4th,76,2/18/2014 21:40,Civic Center BART (7th at Market),72,579,Subscriber,94041
+188710,515,2/19/2014 7:43,Market at 4th,76,2/19/2014 7:52,South Van Ness at Market,66,551,Subscriber,94041
+188749,211,2/19/2014 7:59,Mountain View City Hall,27,2/19/2014 8:02,Mountain View Caltrain Station,28,16,Subscriber,94041
+188815,624,2/19/2014 8:19,San Jose Diridon Caltrain Station,2,2/19/2014 8:30,MLK Library,11,87,Subscriber,94041
+188892,314,2/19/2014 8:43,San Francisco Caltrain (Townsend at 4th),70,2/19/2014 8:48,Yerba Buena Center of the Arts (3rd @ Howard),68,555,Subscriber,94041
+189666,298,2/19/2014 18:00,Yerba Buena Center of the Arts (3rd @ Howard),68,2/19/2014 18:05,San Francisco Caltrain (Townsend at 4th),70,397,Subscriber,94041
+190061,472,2/20/2014 7:53,Market at 4th,76,2/20/2014 8:01,South Van Ness at Market,66,588,Subscriber,94041
+190125,237,2/20/2014 8:16,Mountain View City Hall,27,2/20/2014 8:20,Mountain View Caltrain Station,28,16,Subscriber,94041
+190201,383,2/20/2014 8:45,San Francisco Caltrain (Townsend at 4th),70,2/20/2014 8:52,Yerba Buena Center of the Arts (3rd @ Howard),68,453,Subscriber,94041
+190715,427,2/20/2014 16:36,Market at 10th,67,2/20/2014 16:43,San Francisco Caltrain (Townsend at 4th),70,563,Subscriber,94041
+190931,384,2/20/2014 17:58,Mountain View Caltrain Station,28,2/20/2014 18:05,Mountain View City Hall,27,51,Subscriber,94041
+191293,445,2/21/2014 7:46,Market at 4th,76,2/21/2014 7:53,South Van Ness at Market,66,259,Subscriber,94041
+191367,246,2/21/2014 8:16,Mountain View City Hall,27,2/21/2014 8:20,Mountain View Caltrain Station,28,153,Subscriber,94041
+191529,283,2/21/2014 9:20,Mountain View City Hall,27,2/21/2014 9:25,Mountain View Caltrain Station,28,118,Subscriber,94041
+191656,914,2/21/2014 10:38,Mountain View Caltrain Station,28,2/21/2014 10:53,Castro Street and El Camino Real,32,713,Subscriber,94041
+191784,288,2/21/2014 13:09,San Jose City Hall,10,2/21/2014 13:14,Adobe on Almaden,5,40,Subscriber,94041
+191847,339,2/21/2014 14:03,San Jose Civic Center,3,2/21/2014 14:08,MLK Library,11,246,Subscriber,94041
+192022,458,2/21/2014 16:33,Market at 10th,67,2/21/2014 16:41,San Francisco Caltrain (Townsend at 4th),70,411,Subscriber,94041
+192088,533,2/21/2014 17:09,Beale at Market,56,2/21/2014 17:18,2nd at Townsend,61,557,Subscriber,94041
+192603,931,2/22/2014 11:51,Evelyn Park and Ride,30,2/22/2014 12:06,Mountain View City Hall,27,194,Customer,94041
+192635,19061,2/22/2014 12:30,Mountain View Caltrain Station,28,2/22/2014 17:48,Mountain View Caltrain Station,28,118,Customer,94041
+192636,18963,2/22/2014 12:32,Mountain View Caltrain Station,28,2/22/2014 17:48,Mountain View Caltrain Station,28,129,Customer,94041
+193070,585,2/23/2014 9:18,Mountain View City Hall,27,2/23/2014 9:28,Mountain View Caltrain Station,28,97,Customer,94041
+193071,478,2/23/2014 9:20,Mountain View City Hall,27,2/23/2014 9:28,Mountain View Caltrain Station,28,146,Customer,94041
+193072,274,2/23/2014 9:23,Mountain View City Hall,27,2/23/2014 9:27,Mountain View Caltrain Station,28,67,Subscriber,94041
+193086,413,2/23/2014 9:41,Mountain View Caltrain Station,28,2/23/2014 9:48,Castro Street and El Camino Real,32,67,Subscriber,94041
+193118,918,2/23/2014 10:48,Mountain View Caltrain Station,28,2/23/2014 11:03,Mountain View City Hall,27,84,Customer,94041
+193119,807,2/23/2014 10:48,Mountain View Caltrain Station,28,2/23/2014 11:02,Mountain View City Hall,27,693,Customer,94041
+193130,3669,2/23/2014 10:57,Castro Street and El Camino Real,32,2/23/2014 11:58,Castro Street and El Camino Real,32,245,Customer,94041
+193178,807,2/23/2014 12:11,Mountain View City Hall,27,2/23/2014 12:25,San Antonio Shopping Center,31,194,Subscriber,94041
+193198,652,2/23/2014 12:53,San Antonio Shopping Center,31,2/23/2014 13:04,Mountain View City Hall,27,194,Subscriber,94041
+193572,473,2/24/2014 7:37,Market at 4th,76,2/24/2014 7:45,South Van Ness at Market,66,610,Subscriber,94041
+193773,220,2/24/2014 8:50,Mountain View City Hall,27,2/24/2014 8:53,Mountain View Caltrain Station,28,84,Subscriber,94041
+193823,1008,2/24/2014 9:05,San Francisco Caltrain (Townsend at 4th),70,2/24/2014 9:22,Beale at Market,56,511,Subscriber,94041
+193970,636,2/24/2014 10:08,San Francisco Caltrain (Townsend at 4th),70,2/24/2014 10:19,Market at 10th,67,407,Subscriber,94041
+194250,231,2/24/2014 15:46,Mountain View Caltrain Station,28,2/24/2014 15:50,Mountain View City Hall,27,77,Subscriber,94041
+194310,398,2/24/2014 16:11,2nd at Townsend,61,2/24/2014 16:18,Market at Sansome,77,490,Subscriber,94041
+194355,452,2/24/2014 16:42,Market at 10th,67,2/24/2014 16:49,San Francisco Caltrain (Townsend at 4th),70,470,Subscriber,94041
+194474,559,2/24/2014 17:21,Market at 4th,76,2/24/2014 17:30,San Francisco Caltrain 2 (330 Townsend),69,315,Subscriber,94041
+194508,786,2/24/2014 17:37,Beale at Market,56,2/24/2014 17:50,San Francisco Caltrain (Townsend at 4th),70,631,Subscriber,94041
+194567,386,2/24/2014 17:57,Mountain View Caltrain Station,28,2/24/2014 18:04,Castro Street and El Camino Real,32,118,Subscriber,94041
+195015,211,2/25/2014 7:53,Mountain View City Hall,27,2/25/2014 7:56,Mountain View Caltrain Station,28,51,Subscriber,94041
+195031,415,2/25/2014 8:00,Market at 4th,76,2/25/2014 8:07,South Van Ness at Market,66,349,Subscriber,94041
+195157,890,2/25/2014 8:46,San Francisco Caltrain 2 (330 Townsend),69,2/25/2014 9:01,Beale at Market,56,547,Subscriber,94041
+195550,372,2/25/2014 13:19,Mountain View Caltrain Station,28,2/25/2014 13:25,Mountain View City Hall,27,51,Subscriber,94041
+195591,569,2/25/2014 14:11,2nd at Townsend,61,2/25/2014 14:20,5th at Howard,57,607,Subscriber,94041
+195677,524,2/25/2014 15:40,5th at Howard,57,2/25/2014 15:49,2nd at Townsend,61,535,Subscriber,94041
+195778,500,2/25/2014 16:40,Market at 10th,67,2/25/2014 16:49,San Francisco Caltrain 2 (330 Townsend),69,625,Subscriber,94041
+196058,719,2/25/2014 18:33,Embarcadero at Folsom,51,2/25/2014 18:45,San Francisco Caltrain (Townsend at 4th),70,560,Subscriber,94041
+196092,584,2/25/2014 18:50,South Van Ness at Market,66,2/25/2014 19:00,Market at Sansome,77,626,Subscriber,94041
+196259,534,2/25/2014 22:33,Commercial at Montgomery,45,2/25/2014 22:42,Civic Center BART (7th at Market),72,371,Subscriber,94041
+196357,507,2/26/2014 7:50,Market at 4th,76,2/26/2014 7:58,South Van Ness at Market,66,291,Subscriber,94041
+196940,485,2/27/2014 7:56,Market at 4th,76,2/27/2014 8:04,South Van Ness at Market,66,276,Subscriber,94041
+197053,972,2/27/2014 8:47,San Francisco Caltrain (Townsend at 4th),70,2/27/2014 9:03,Beale at Market,56,395,Subscriber,94041
+197099,621,2/27/2014 8:59,San Francisco Caltrain (Townsend at 4th),70,2/27/2014 9:09,Harry Bridges Plaza (Ferry Building),50,310,Subscriber,94041
+197255,446,2/27/2014 10:48,Market at Sansome,77,2/27/2014 10:55,2nd at Townsend,61,268,Subscriber,94041
+197704,113,2/27/2014 17:42,Mountain View City Hall,27,2/27/2014 17:44,Castro Street and El Camino Real,32,194,Subscriber,94041
+197730,365,2/27/2014 17:53,Mountain View Caltrain Station,28,2/27/2014 17:59,Castro Street and El Camino Real,32,29,Subscriber,94041
+197732,350,2/27/2014 17:53,Mountain View Caltrain Station,28,2/27/2014 17:59,Mountain View City Hall,27,129,Subscriber,94041
+198055,225,2/28/2014 6:51,Mountain View City Hall,27,2/28/2014 6:55,Mountain View Caltrain Station,28,129,Customer,94041
+198182,946,2/28/2014 8:52,San Francisco Caltrain (Townsend at 4th),70,2/28/2014 9:08,Beale at Market,56,563,Subscriber,94041
+198245,204,2/28/2014 9:29,Mountain View City Hall,27,2/28/2014 9:32,Mountain View Caltrain Station,28,693,Subscriber,94041
+198511,1000,2/28/2014 16:53,2nd at Townsend,61,2/28/2014 17:09,2nd at Townsend,61,544,Subscriber,94041
+198637,342,2/28/2014 18:12,Mountain View Caltrain Station,28,2/28/2014 18:18,Castro Street and El Camino Real,32,146,Subscriber,94041
