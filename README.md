@@ -5,3 +5,5 @@ Project 0: Bay area Bike share analysis: [Link](https://github.com/vemulamanohar
 Project 1: Statistics- The Stroop Effect: [Link](https://github.com/vemulamanoharr/Data_Analyst_Nano_Degree/blob/master/P1-The_Stroop_Effect/Project%201.ipynb)
 
 Project 2: BaseBall: [Link](https://github.com/vemulamanoharr/Data_Analyst_Nano_Degree/blob/master/P2-Base_Ball_Data_Analysis/Base_Ball_Data_Analysis.ipynb)
+
+Project 3: OSM Data Wrangling: [Link](https://github.com/vemulamanoharr/Data_Analyst_Nano_Degree/blob/master/P3-Open_Street_Map_Data_Wrangling-Python_MongoDB/Houton_OSM_Data_Wrangling.ipynb) 
