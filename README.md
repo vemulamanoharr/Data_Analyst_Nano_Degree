@@ -6,4 +6,4 @@ Project 1: Statistics- The Stroop Effect: [Link](https://github.com/vemulamanoha
 
 Project 2: BaseBall: [Link](https://github.com/vemulamanoharr/Data_Analyst_Nano_Degree/blob/master/P2-Base_Ball_Data_Analysis/Base_Ball_Data_Analysis.ipynb)
 
-Project 3: OSM Data Wrangling: [Link](https://github.com/vemulamanoharr/Data_Analyst_Nano_Degree/blob/master/P3-Open_Street_Map_Data_Wrangling-Python_MongoDB/Houton_OSM_Data_Wrangling.ipynb) 
+Project 3: OSM Data Wrangling: [Link](https://rawgit.com/vemulamanoharr/Data_Analyst_Nano_Degree/master/P3-Open_Street_Map_Data_Wrangling-Python_MongoDB/Houton_OSM_Data_Wrangling.html) 
