@@ -47,41 +47,13 @@ lower = re.compile(r'^([a-z]|_)*$')
 lower_colon = re.compile(r'^([a-z]|_)*:([a-z]|_)*$')
 problemchars = re.compile(r'[=\+/&<>;\'"\?%#$@\,\. \t\r\n]')
 
-''' After auditing the street names, the above street types are found to be inconsistent. Few of the above types can be
-made consistent by updating the street types using the below mapping dictionary
-For example: 'Louetta Rd' => 'Louetta Road'
-'''
-mapping = {"Rd":"Road",
-           "S.":"South",
-           "Stree":"Street",
-           "street":"Street",
-           "Ave.":"Avenue",
-           "Fwy":"Freeway",
-           "Es":"East",
-           "St.":"Street",
-           "Blvd.":"Boulevard",
-           "St":"Street",
-           "Rd.":"Road",
-           "ST":"Street",
-           "Frwy":"Freeway",
-           "Ave":"Avenue",
-           "Ln":"Lane",
-           "blvd":"Boulevard",
-           "Dr":"Drive",
-           "Expy":"Expressway",
-           "N":"North",
-           "E":"East",
-           "W":"West",
-           "S":"South"
-    
-}
 
-''' 
+
+def update_street(street,mapping):
+    ''' 
     The update_street function updates the inconsistent street types to the consistent types. 
     It uses the mapping dictionary which is created after audting the street names. 
-'''
-
-def update_street(street):
+    '''
     m = re.search(street_type_re,street)
     if m.group() in mapping.keys():
         p = street.split(m.group())
@@ -90,14 +62,12 @@ def update_street(street):
         return street
 
 
-
-
-''' 
+def update_city(city):
+    ''' 
     The update_city function updates the inconsistent city names. If the city has 'TX' at 
     the end, it removes 'TX' and returns just the city name.
     
-'''
-def update_city(city):
+    '''
     m = re.search(city_re,city)
     if m:
         p = city.split(',')
@@ -108,14 +78,15 @@ def update_city(city):
 
 
 
-''' The update_zipcode function updates the inconsistent zipcodes. It cleans two types of inconsistent 
+def update_zipcode(zipcode):
+    ''' 
+    The update_zipcode function updates the inconsistent zipcodes. It cleans two types of inconsistent 
     zip codes.
 
     1) The zip code which has a '-' is made consistent by removing the '-' and digits after that. It 
        retuns a five digit number.
     2) The zip code which starts with TX is made consistent by removing 'TX'. Returns a five digit number.
-'''
-def update_zipcode(zipcode):
+    '''
     m1 = re.search(zip_code1_re,zipcode)
     m2 = re.search(zip_code2_re,zipcode)
     if m1:
@@ -128,25 +99,21 @@ def update_zipcode(zipcode):
         return zipcode
 
 
-
-
-''' The update_phone function returns the phone number in a standard format {(XXX) XXX-XXXX}. It makes use of 
+def update_phone(phone):
+    ''' The update_phone function returns the phone number in a standard format {(XXX) XXX-XXXX}. It makes use of 
     Phonenumbers module [8] to format number. This function is called only for the phone numbers which start 
     with '+1' or '(' or any digit from [2-9].
-'''
-
-def update_phone(phone):
+    '''
     return phonenumbers.format_number(phonenumbers.parse(phone, 'US'), phonenumbers.PhoneNumberFormat.NATIONAL)
 
 
 
-
-''' The shape_element function accepts the XML tag (Nodes and Ways) as an argument and returns a 
+def shape_element(element,mapping):
+    ''' 
+    The shape_element function accepts the XML tag (Nodes and Ways) as an argument and returns a 
     dictionary. The cleaning functions of specific attributes are called here and cleansed values 
     are written to the dictionary.  
-'''
-
-def shape_element(element):
+    '''
     node = {}
     if element.tag == "node":
         l = element.attrib.keys()
@@ -170,7 +137,7 @@ def shape_element(element):
             if ((not re.search(problemchars,tag.attrib["k"])) and re.search(zero_one_colon,tag.attrib["k"])):
                 if(tag.attrib["k"][0:4]=="addr"):
                     if(tag.attrib["k"]=="addr:street"):
-                        address["street"] = update_street(tag.attrib["v"])
+                        address["street"] = update_street(tag.attrib["v"],mapping)
                     elif(tag.attrib["k"]=="addr:city"):
                         address["city"] = update_city(tag.attrib["v"])
                     elif(tag.attrib["k"]=="addr:postcode"):
@@ -212,7 +179,7 @@ def shape_element(element):
             if ((not re.search(problemchars,tag.attrib["k"])) and re.search(zero_one_colon,tag.attrib["k"])):
                 if(tag.attrib["k"][0:4]=="addr"):
                     if(tag.attrib["k"]=="addr:street"):
-                        address["street"] = update_street(tag.attrib["v"])
+                        address["street"] = update_street(tag.attrib["v"],mapping)
                     elif(tag.attrib["k"]=="addr:city"):
                         address["city"] = update_city(tag.attrib["v"])
                     elif(tag.attrib["k"]=="addr:postcode"):
@@ -236,16 +203,45 @@ def shape_element(element):
         return None
 
 
-
-
-''' The process map function creates a new JSON file. It calls the shape_element function for each tag and 
-    writes the dictionary to json to a new line.
-'''
 def process_map(file_in, pretty):
+    ''' The process map function creates a new JSON file. It calls the shape_element function for each tag and 
+    writes the dictionary to json to a new line.
+    '''
+    
+    '''
+        After auditing the street names, the above street types are found to be inconsistent. Few of the above types can be
+        made consistent by updating the street types using the below mapping dictionary
+        For example: 'Louetta Rd' => 'Louetta Road'
+    '''
+    mapping = {
+           "Rd":"Road",
+           "S.":"South",
+           "Stree":"Street",
+           "street":"Street",
+           "Ave.":"Avenue",
+           "Fwy":"Freeway",
+           "Es":"East",
+           "St.":"Street",
+           "Blvd.":"Boulevard",
+           "St":"Street",
+           "Rd.":"Road",
+           "ST":"Street",
+           "Frwy":"Freeway",
+           "Ave":"Avenue",
+           "Ln":"Lane",
+           "blvd":"Boulevard",
+           "Dr":"Drive",
+           "Expy":"Expressway",
+           "N":"North",
+           "E":"East",
+           "W":"West",
+           "S":"South"
+    
+    }
     file_out = "{0}.json".format(file_in)
     with codecs.open(file_out, "w") as fo:
         for _, element in ET.iterparse(file_in):
-            el = shape_element(element)
+            el = shape_element(element,mapping)
             if el:
                 if pretty:
                     fo.write(json.dumps(el, indent=2)+"\n")

@@ -155,40 +155,6 @@ print ("Inconsistent street types:")
 print(street_types.keys())
 
 
-
-
-''' After auditing the street names, the above street types are found to be inconsistent. Few of the above types can be
-made consistent by updating the street types using the below mapping dictionary
-For example: 'Louetta Rd' => 'Louetta Road'
-'''
-mapping = {"Rd":"Road",
-           "S.":"South",
-           "Stree":"Street",
-           "street":"Street",
-           "Ave.":"Avenue",
-           "Fwy":"Freeway",
-           "Es":"East",
-           "St.":"Street",
-           "Blvd.":"Boulevard",
-           "St":"Street",
-           "Rd.":"Road",
-           "ST":"Street",
-           "Frwy":"Freeway",
-           "Ave":"Avenue",
-           "Ln":"Lane",
-           "blvd":"Boulevard",
-           "Dr":"Drive",
-           "Expy":"Expressway",
-           "N":"North",
-           "E":"East",
-           "W":"West",
-           "S":"South"
-    
-}
-
-
-
-
 '''
    After auditing the city names, there are few inconsistent city names which are appended with ", Tx". 
    Those cities can be updated and made consistent just by having city name alone.
